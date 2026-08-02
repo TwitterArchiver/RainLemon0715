@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1791585754755350528",
+    "conversation_id": "2080298470473351201",
+    "created_at": "2026-07-25T14:45:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T15:45:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081028181910557166"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2037086952034566144",
+          "start": 0,
+          "username": "tsingin1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081028181910557166",
+    "in_reply_to_user_id": "2037086952034566144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080628633421623798",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tsingin1 😭\n对不起对不起😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1791585754755350528",
+        "conversation_id": "2080298470473351201",
+        "created_at": "2026-07-25T14:45:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T15:45:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081028181910557166"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2037086952034566144",
+              "start": 0,
+              "username": "tsingin1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081028181910557166",
+        "in_reply_to_user_id": "2037086952034566144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080628633421623798",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tsingin1 😭\n对不起对不起😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2037086952034566144",
+        "conversation_id": "2080298470473351201",
+        "created_at": "2026-07-24T12:18:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T13:18:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080628633421623798"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1791585754755350528",
+              "start": 0,
+              "username": "RainLemon0715"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080628633421623798",
+        "in_reply_to_user_id": "1791585754755350528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 144,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080298470473351201",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RainLemon0715 不要说了，说起来我们只是陌生人而已，凭什么让我刷到你的帖子（沟槽的msk）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-17T21:45:14.000Z",
+        "description": "07🍥🏳️‍⚧️｜持证含糖，hrt21.1.8｜究极家暴党｜双向+重抑|欢迎来找我贴贴｜现居山东｜不od不割手｜INFP｜想当个女孩子｜SRS资金筹备ing｜无政治立场｜努力rle中｜最好的老婆@whalexxs，我的此生挚爱~|“我曾踏足山巅，也曾进入低谷，二者都使我受益良多”（现在是兼职糖果商人哦）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 97,
+                "username": "whalexxs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+iN5huf7JvPkxY…",
+                "end": 23,
+                "expanded_url": "https://t.me/+iN5huf7JvPkxYWE9",
+                "start": 0,
+                "url": "https://t.co/GweBgmAiDG"
+              }
+            ]
+          }
+        },
+        "id": "1791585754755350528",
+        "location": "明天",
+        "name": "🍥神楽坂·雨檬&梦雨🏳️‍⚧️🍬（出🍥🍬）",
+        "pinned_tweet_id": "2074429195980050577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018330545328152576/MiPIgQL4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4466,
+          "following_count": 305,
+          "like_count": 8095,
+          "listed_count": 5,
+          "media_count": 258,
+          "tweet_count": 2306
+        },
+        "url": "https://t.co/GweBgmAiDG",
+        "username": "RainLemon0715",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-26T08:39:20.000Z",
+        "description": "国家：🇨🇳\n查成分互fo\n另一个号：@tsingin2\n抱有好感的国家：🇫🇷🇨🇺🇩🇪🇯🇵🇰🇷🇬🇧🇺🇸🇷🇺\n最喜欢的政治角色：孙中山\n思想倾向：偏保守\n喜欢的虚拟角色：洛天依 初音未来\n最喜欢的游戏：永劫无间 维多利亚3 pjsk phigros Milthm cytus2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 18,
+                "username": "tsingin2"
+              }
+            ]
+          }
+        },
+        "id": "2037086952034566144",
+        "name": "初白洛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079803820205551616/KDVVyW8a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 138,
+          "like_count": 489,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 524
+        },
+        "url": "",
+        "username": "tsingin1",
+        "verified": false
+      }
+    ]
+  }
+}

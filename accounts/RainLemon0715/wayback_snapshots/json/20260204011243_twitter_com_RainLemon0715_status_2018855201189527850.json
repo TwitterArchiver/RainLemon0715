@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2018855192406712320",
+        "3_2018855192423538688"
+      ]
+    },
+    "author_id": "1791585754755350528",
+    "conversation_id": "2018855201189527850",
+    "created_at": "2026-02-04T01:12:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-04T02:12:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2018855201189527850"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Xw2OsBNxkj",
+          "end": 119,
+          "expanded_url": "https://x.com/RainLemon0715/status/2018855201189527850/photo/1",
+          "media_key": "3_2018855192406712320",
+          "start": 96,
+          "url": "https://t.co/Xw2OsBNxkj"
+        },
+        {
+          "display_url": "pic.x.com/Xw2OsBNxkj",
+          "end": 119,
+          "expanded_url": "https://x.com/RainLemon0715/status/2018855201189527850/photo/1",
+          "media_key": "3_2018855192423538688",
+          "start": 96,
+          "url": "https://t.co/Xw2OsBNxkj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018855201189527850",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "测试结果是使用首瓶自制凝胶后2天（没有吃色）去测的（顺便测了下肝功能和肾功能）样品如下状态，我后续会继续调整卡波姆的比例使其浓稠化下一批制作会在新一批乳液瓶到货的时候进行制作，尽量在年前发出 https://t.co/Xw2OsBNxkj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_2018855192406712320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HARqGeRa4AAdonZ.jpg",
+        "width": 2047
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2018855192423538688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HARqGeVboAACOcC.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018855192406712320",
+            "3_2018855192423538688"
+          ]
+        },
+        "author_id": "1791585754755350528",
+        "conversation_id": "2018855201189527850",
+        "created_at": "2026-02-04T01:12:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T02:12:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018855201189527850"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Xw2OsBNxkj",
+              "end": 119,
+              "expanded_url": "https://x.com/RainLemon0715/status/2018855201189527850/photo/1",
+              "media_key": "3_2018855192406712320",
+              "start": 96,
+              "url": "https://t.co/Xw2OsBNxkj"
+            },
+            {
+              "display_url": "pic.x.com/Xw2OsBNxkj",
+              "end": 119,
+              "expanded_url": "https://x.com/RainLemon0715/status/2018855201189527850/photo/1",
+              "media_key": "3_2018855192423538688",
+              "start": 96,
+              "url": "https://t.co/Xw2OsBNxkj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018855201189527850",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "测试结果是使用首瓶自制凝胶后2天（没有吃色）去测的（顺便测了下肝功能和肾功能）样品如下状态，我后续会继续调整卡波姆的比例使其浓稠化下一批制作会在新一批乳液瓶到货的时候进行制作，尽量在年前发出 https://t.co/Xw2OsBNxkj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-17T21:45:14.000Z",
+        "description": "07年的超大只mtf🍥🏳️‍⚧️｜持证含糖，hrt21.1.10｜半家长党…吗？｜双向+重抑|欢迎来找我贴贴｜现居山东｜不od不割手｜INFP｜想当个可爱的女孩子｜暂不圆角｜无政治立场｜努力rle中｜好妹妹 @Huang_Yut1ng ｜“我曾踏足山巅，也曾进入低谷，二者都使我受益良多”",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 104,
+                "username": "Huang_Yut1ng"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+kjfbQpv3xT45N…",
+                "end": 23,
+                "expanded_url": "https://t.me/+kjfbQpv3xT45NmRl",
+                "start": 0,
+                "url": "https://t.co/1IDXU6dCNi"
+              }
+            ]
+          }
+        },
+        "id": "1791585754755350528",
+        "location": "明天",
+        "name": "🍥神楽坂·雨檬&梦雨🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2018524095118475497",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018330545328152576/MiPIgQL4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3205,
+          "following_count": 302,
+          "like_count": 7740,
+          "listed_count": 4,
+          "media_count": 186,
+          "tweet_count": 1994
+        },
+        "url": "https://t.co/1IDXU6dCNi",
+        "username": "RainLemon0715",
+        "verified": false
+      }
+    ]
+  }
+}

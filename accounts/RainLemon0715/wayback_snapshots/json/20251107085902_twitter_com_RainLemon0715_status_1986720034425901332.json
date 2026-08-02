@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1791585754755350528",
+    "conversation_id": "1986656387838189668",
+    "created_at": "2025-11-07T08:59:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-07T09:59:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986720034425901332"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1804296555354013696",
+          "start": 0,
+          "username": "LoveForever_52"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986720034425901332",
+    "in_reply_to_user_id": "1804296555354013696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986717570263912535",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LoveForever_52 问题是\n我一点都不想剪\n死生物爹拖着我去的…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1791585754755350528",
+        "conversation_id": "1986656387838189668",
+        "created_at": "2025-11-07T08:59:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T09:59:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986720034425901332"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1804296555354013696",
+              "start": 0,
+              "username": "LoveForever_52"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986720034425901332",
+        "in_reply_to_user_id": "1804296555354013696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986717570263912535",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LoveForever_52 问题是\n我一点都不想剪\n死生物爹拖着我去的…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804296555354013696",
+        "conversation_id": "1986656387838189668",
+        "created_at": "2025-11-07T08:49:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T09:49:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986717570263912535"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1791585754755350528",
+              "start": 0,
+              "username": "RainLemon0715"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986717570263912535",
+        "in_reply_to_user_id": "1791585754755350528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986656387838189668",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RainLemon0715 去理发店约等于买彩票"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-17T21:45:14.000Z",
+        "description": "07年的超大只mtf🍥🏳️‍⚧️｜无证含糖，hrt2023.7.15｜深柜家暴党｜双向+重抑|欢迎来找我贴贴｜现居山东｜不od不割手｜INFP｜暂不圆角｜政治立场不确定｜努力rle中｜“我曾踏足山巅，也曾进入低谷，二者都使我受益良多”",
+        "id": "1791585754755350528",
+        "location": "雨檬の幻想乡",
+        "name": "🍥神楽坂·雨檬&梦雨🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1983521304704864425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984482845377904641/18i9NVgR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 818,
+          "following_count": 171,
+          "like_count": 4258,
+          "listed_count": 2,
+          "media_count": 70,
+          "tweet_count": 1122
+        },
+        "username": "RainLemon0715",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-21T23:33:30.000Z",
+        "description": "生产日08.5.14/🏳️‍⚧️hrt24.11.20/👻163cm54kg努力减肥中/纯净高中生/无证含糖/家长已知不管党/同类可+我/不约/不OD不割手/坐标临沂不介意的可见面",
+        "id": "1804296555354013696",
+        "location": "🚪50",
+        "name": "Live🍥",
+        "pinned_tweet_id": "1982569048400634092",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1804296619132694528/uCLGCjH7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1234,
+          "following_count": 77,
+          "like_count": 101,
+          "listed_count": 2,
+          "media_count": 71,
+          "tweet_count": 200
+        },
+        "username": "LoveForever_52",
+        "verified": false
+      }
+    ]
+  }
+}

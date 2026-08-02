@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1791585754755350528",
+    "conversation_id": "1986046873287925842",
+    "created_at": "2025-11-05T12:24:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-05T13:24:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1986046873287925842"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1986046873287925842",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "妈妈今天晚上又和我聊了一会\n唔...果然只是答应了去看邸晓兰...\n她好像对hrt没有说什么...但是她有点不太愿意接受我未来去手术...（举了金星的例子说我手术后不用激素会死的很快）唔...她好像还是没有愿意叫我女儿...好失落...我到底该怎么办...我是不是不会成家长党了...\n呜...有点难受...想被认可..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1791585754755350528",
+        "conversation_id": "1986046873287925842",
+        "created_at": "2025-11-05T12:24:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T13:24:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986046873287925842"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1986046873287925842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "妈妈今天晚上又和我聊了一会\n唔...果然只是答应了去看邸晓兰...\n她好像对hrt没有说什么...但是她有点不太愿意接受我未来去手术...（举了金星的例子说我手术后不用激素会死的很快）唔...她好像还是没有愿意叫我女儿...好失落...我到底该怎么办...我是不是不会成家长党了...\n呜...有点难受...想被认可..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-17T21:45:14.000Z",
+        "description": "07年的超大只mtf🍥🏳️‍⚧️｜无证含糖，hrt2023.7.15｜深柜家暴党｜双向+重抑|欢迎来找我贴贴｜现居山东｜不od不割手｜INFP｜暂不圆角｜政治立场不确定｜努力rle中｜“我曾踏足山巅，也曾进入低谷，二者都使我受益良多”",
+        "id": "1791585754755350528",
+        "location": "雨檬の幻想乡",
+        "name": "🍥神楽坂·雨檬&梦雨🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1983521304704864425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984482845377904641/18i9NVgR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 794,
+          "following_count": 168,
+          "like_count": 4215,
+          "listed_count": 2,
+          "media_count": 72,
+          "tweet_count": 1113
+        },
+        "username": "RainLemon0715",
+        "verified": false
+      }
+    ]
+  }
+}

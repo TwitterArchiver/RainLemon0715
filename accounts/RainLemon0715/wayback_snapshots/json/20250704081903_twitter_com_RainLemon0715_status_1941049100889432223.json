@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1791585754755350528",
+    "conversation_id": "1941032424005423385",
+    "created_at": "2025-07-04T08:19:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-04T09:19:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941049100889432223"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1896000845067796480",
+          "start": 0,
+          "username": "niaocoinchen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941049100889432223",
+    "in_reply_to_user_id": "1896000845067796480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941032424005423385",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@niaocoinchen 我靠你谁"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 301,
+        "media_key": "3_1941032416845422592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gu_usveW4AALZ5U.jpg",
+        "width": 320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1791585754755350528",
+        "conversation_id": "1941032424005423385",
+        "created_at": "2025-07-04T08:19:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-04T09:19:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941049100889432223"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1896000845067796480",
+              "start": 0,
+              "username": "niaocoinchen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941049100889432223",
+        "in_reply_to_user_id": "1896000845067796480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941032424005423385",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@niaocoinchen 我靠你谁"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1941032416845422592"
+          ]
+        },
+        "author_id": "1896000845067796480",
+        "conversation_id": "1941032424005423385",
+        "created_at": "2025-07-04T07:12:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-04T08:12:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1941032424005423385"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 20,
+              "tag": "NIAO"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iXhfDKkd1e",
+              "end": 80,
+              "expanded_url": "https://x.com/niaocoinchen/status/1941032424005423385/photo/1",
+              "media_key": "3_1941032416845422592",
+              "start": 57,
+              "url": "https://t.co/iXhfDKkd1e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941032424005423385",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 183,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我一直觉得我很美，每天都有很多排队想要 #NIAO  我，都叫我币圈小公主，$NIAO 小公主，你们喜欢我吗☺️ https://t.co/iXhfDKkd1e"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-17T21:45:14.000Z",
+        "description": "07年的超大只mtf🍥🏳️‍⚧️｜无证含糖，hrt2023.7.15｜深柜家暴党｜双向+重抑｜恋爱ing|欢迎来找我贴贴｜现居山东｜最好的老公@mishamimihemumu❤️｜妈咪 @Shenyuebanran",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 71,
+                "username": "mishamimihemumu"
+              },
+              {
+                "end": 107,
+                "start": 93,
+                "username": "Shenyuebanran"
+              }
+            ]
+          }
+        },
+        "id": "1791585754755350528",
+        "location": "雨檬の幻想乡",
+        "name": "🍥神楽坂·雨檬&梦雨🏳️‍⚧️🍥（苦逼打工版）",
+        "pinned_tweet_id": "1927644848741634415",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906911119580823552/VQjZGMza_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 299,
+          "following_count": 134,
+          "like_count": 2197,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 477
+        },
+        "username": "RainLemon0715",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-02T00:55:02.000Z",
+        "description": "坐标深圳/努力赚钱养自己/资深产品经理/低杠杆交易员",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "u-hw.com/zh-CN/register…",
+                "end": 23,
+                "expanded_url": "https://u-hw.com/zh-CN/register?vipCode=xiaochen",
+                "start": 0,
+                "url": "https://t.co/YJzmqtGDlN"
+              }
+            ]
+          }
+        },
+        "id": "1896000845067796480",
+        "location": "深圳",
+        "name": "立志成为富婆的小陈👉WEEX",
+        "pinned_tweet_id": "1940792932732490188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916713610379931648/oL4YaZEt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2847,
+          "following_count": 295,
+          "like_count": 5488,
+          "listed_count": 7,
+          "media_count": 364,
+          "tweet_count": 4937
+        },
+        "url": "https://t.co/YJzmqtGDlN",
+        "username": "niaocoinchen",
+        "verified": false
+      }
+    ]
+  }
+}

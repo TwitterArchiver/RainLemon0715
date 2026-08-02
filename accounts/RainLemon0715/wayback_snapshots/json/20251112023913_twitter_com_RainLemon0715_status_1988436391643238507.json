@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1988436384684937216"
+      ]
+    },
+    "author_id": "1791585754755350528",
+    "conversation_id": "1988436391643238507",
+    "created_at": "2025-11-12T02:39:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T03:39:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1988436391643238507"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ulyNkHC9iI",
+          "end": 43,
+          "expanded_url": "https://x.com/RainLemon0715/status/1988436391643238507/photo/1",
+          "media_key": "3_1988436384684937216",
+          "start": 20,
+          "url": "https://t.co/ulyNkHC9iI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988436391643238507",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "（叉腰）（理直气壮）\n终于成为大c啦！ https://t.co/ulyNkHC9iI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1988436384684937216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5hYW0-bkAAmqzs.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988436384684937216"
+          ]
+        },
+        "author_id": "1791585754755350528",
+        "conversation_id": "1988436391643238507",
+        "created_at": "2025-11-12T02:39:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T03:39:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988436391643238507"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ulyNkHC9iI",
+              "end": 43,
+              "expanded_url": "https://x.com/RainLemon0715/status/1988436391643238507/photo/1",
+              "media_key": "3_1988436384684937216",
+              "start": 20,
+              "url": "https://t.co/ulyNkHC9iI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988436391643238507",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "（叉腰）（理直气壮）\n终于成为大c啦！ https://t.co/ulyNkHC9iI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-17T21:45:14.000Z",
+        "description": "07年的超大只mtf🍥🏳️‍⚧️｜无证含糖，hrt2023.7.15｜深柜家暴党｜双向+重抑|欢迎来找我贴贴｜现居山东｜不od不割手｜INFP｜暂不圆角｜政治立场不确定｜努力rle中｜“我曾踏足山巅，也曾进入低谷，二者都使我受益良多”",
+        "id": "1791585754755350528",
+        "location": "雨檬の幻想乡",
+        "name": "🍥神楽坂·雨檬&梦雨🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1983521304704864425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984482845377904641/18i9NVgR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 875,
+          "following_count": 173,
+          "like_count": 4418,
+          "listed_count": 2,
+          "media_count": 74,
+          "tweet_count": 1160
+        },
+        "username": "RainLemon0715",
+        "verified": false
+      }
+    ]
+  }
+}

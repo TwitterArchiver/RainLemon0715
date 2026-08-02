@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1791585754755350528",
+    "conversation_id": "1981070334569959795",
+    "created_at": "2025-10-24T00:08:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-24T01:08:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981513112789667990"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1606690184564985856",
+          "start": 0,
+          "username": "hgsbtin_nisaki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981513112789667990",
+    "in_reply_to_user_id": "1606690184564985856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981070334569959795",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hgsbtin_nisaki 不要自杀…\n要好好活着…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1981070328206909440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G34s96PW4AApe6z.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1791585754755350528",
+        "conversation_id": "1981070334569959795",
+        "created_at": "2025-10-24T00:08:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T01:08:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981513112789667990"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1606690184564985856",
+              "start": 0,
+              "username": "hgsbtin_nisaki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981513112789667990",
+        "in_reply_to_user_id": "1606690184564985856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981070334569959795",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hgsbtin_nisaki 不要自杀…\n要好好活着…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1981070328206909440"
+          ]
+        },
+        "author_id": "1606690184564985856",
+        "conversation_id": "1981070334569959795",
+        "created_at": "2025-10-22T18:49:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T19:49:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981070334569959795"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mC8Q9P1LnL",
+              "end": 34,
+              "expanded_url": "https://x.com/hgsbtin_nisaki/status/1981070334569959795/photo/1",
+              "media_key": "3_1981070328206909440",
+              "start": 11,
+              "url": "https://t.co/mC8Q9P1LnL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981070334569959795",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 15866,
+          "like_count": 264,
+          "quote_count": 1,
+          "reply_count": 27,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "这是xyn最爱的紫鲨 https://t.co/mC8Q9P1LnL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-17T21:45:14.000Z",
+        "description": "07年的超大只mtf🍥🏳️‍⚧️｜无证含糖，hrt2023.7.15｜深柜家暴党｜双向+重抑|欢迎来找我贴贴｜现居山东｜不od不割手｜INFP｜暂不圆角｜政治立场不确定｜努力rle中｜“我曾踏足山巅，也曾进入低谷，二者都使我受益良多”",
+        "id": "1791585754755350528",
+        "location": "雨檬の幻想乡",
+        "name": "🍥神楽坂·雨檬&梦雨🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1977294839168618951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976482299664642048/uRLRpVc5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 536,
+          "following_count": 164,
+          "like_count": 3633,
+          "listed_count": 1,
+          "media_count": 53,
+          "tweet_count": 919
+        },
+        "username": "RainLemon0715",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-24T16:36:41.000Z",
+        "description": "07年无证含糖mtf🏳️‍⚧️｜INFP-T｜168 50｜xyn｜HRT 2025/2/17｜微天赋党｜ 药攻｜N1考取中｜同类互fo🏳️‍⚧️｜造t｜@WangPu90983 ｜妈妈@BloodCatOvO｜妹妹 @Littlecat111007 ｜@SAIONJIayase 的猫猫｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 77,
+                "username": "WangPu90983"
+              },
+              {
+                "end": 105,
+                "start": 93,
+                "username": "BloodCatOvO"
+              },
+              {
+                "end": 125,
+                "start": 109,
+                "username": "Littlecat111007"
+              },
+              {
+                "end": 140,
+                "start": 127,
+                "username": "SAIONJIayase"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nyasaki",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nyasaki",
+                "start": 0,
+                "url": "https://t.co/N9KjiqMt6n"
+              }
+            ]
+          }
+        },
+        "id": "1606690184564985856",
+        "name": "東別院ニサキ🍥",
+        "pinned_tweet_id": "1933094187135877399",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940624825866661888/Z1K21WQ2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1091,
+          "following_count": 616,
+          "like_count": 12360,
+          "listed_count": 3,
+          "media_count": 175,
+          "tweet_count": 1911
+        },
+        "url": "https://t.co/N9KjiqMt6n",
+        "username": "hgsbtin_nisaki",
+        "verified": false
+      }
+    ]
+  }
+}

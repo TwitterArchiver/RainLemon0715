@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1791585754755350528",
+    "conversation_id": "2008360516880674941",
+    "created_at": "2026-01-06T02:57:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-06T03:57:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008372222721720534"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1443389276654223363",
+          "start": 0,
+          "username": "C6QYBVSScQNBeI2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008372222721720534",
+    "in_reply_to_user_id": "1443389276654223363",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008360516880674941",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@C6QYBVSScQNBeI2 唔哇"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2008360496131690496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G98hOwDbUAAVbpq.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2008360496358191105",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G98hOw5bcAEKNEf.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2008360496614043649",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G98hOx2bcAEOeMC.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2008360497079611393",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G98hOzlbcAEgHKo.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1791585754755350528",
+        "conversation_id": "2008360516880674941",
+        "created_at": "2026-01-06T02:57:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T03:57:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008372222721720534"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1443389276654223363",
+              "start": 0,
+              "username": "C6QYBVSScQNBeI2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008372222721720534",
+        "in_reply_to_user_id": "1443389276654223363",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008360516880674941",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@C6QYBVSScQNBeI2 唔哇"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2008360496131690496",
+            "3_2008360496358191105",
+            "3_2008360496614043649",
+            "3_2008360497079611393"
+          ]
+        },
+        "author_id": "1443389276654223363",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2008360516880674941",
+        "created_at": "2026-01-06T02:10:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T03:10:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008360516880674941"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 54,
+              "start": 50,
+              "tag": "小玩具"
+            },
+            {
+              "end": 59,
+              "start": 55,
+              "tag": "mtf"
+            },
+            {
+              "end": 68,
+              "start": 61,
+              "tag": "可爱的男孩子"
+            },
+            {
+              "end": 73,
+              "start": 70,
+              "tag": "药娘"
+            },
+            {
+              "end": 79,
+              "start": 75,
+              "tag": "假阳具"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/n2Iqd8L2iJ",
+              "end": 103,
+              "expanded_url": "https://x.com/C6QYBVSScQNBeI2/status/2008360516880674941/photo/1",
+              "media_key": "3_2008360496131690496",
+              "start": 80,
+              "url": "https://t.co/n2Iqd8L2iJ"
+            },
+            {
+              "display_url": "pic.x.com/n2Iqd8L2iJ",
+              "end": 103,
+              "expanded_url": "https://x.com/C6QYBVSScQNBeI2/status/2008360516880674941/photo/1",
+              "media_key": "3_2008360496358191105",
+              "start": 80,
+              "url": "https://t.co/n2Iqd8L2iJ"
+            },
+            {
+              "display_url": "pic.x.com/n2Iqd8L2iJ",
+              "end": 103,
+              "expanded_url": "https://x.com/C6QYBVSScQNBeI2/status/2008360516880674941/photo/1",
+              "media_key": "3_2008360496614043649",
+              "start": 80,
+              "url": "https://t.co/n2Iqd8L2iJ"
+            },
+            {
+              "display_url": "pic.x.com/n2Iqd8L2iJ",
+              "end": 103,
+              "expanded_url": "https://x.com/C6QYBVSScQNBeI2/status/2008360516880674941/photo/1",
+              "media_key": "3_2008360497079611393",
+              "start": 80,
+              "url": "https://t.co/n2Iqd8L2iJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008360516880674941",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "唔，第一次买小玩具喵，在宿舍偷偷玩喵，待会儿玩完发新帖给大家发表感受喵………好羞耻，好刺激喵~~~\n#小玩具 #mtf  #可爱的男孩子  #药娘  #假阳具 https://t.co/n2Iqd8L2iJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-17T21:45:14.000Z",
+        "description": "07年的超大只mtf🍥🏳️‍⚧️｜持证含糖，hrt21.1.10-22.12/扭转⚠️/2023.7.15恢复｜半家长党…吗？｜双向+重抑|欢迎来找我贴贴｜现居山东｜不od不割手｜INFP｜暂不圆角｜政治立场不确定｜努力rle中｜🚪50，可加好友（QQ）｜清水推｜“我曾踏足山巅，也曾进入低谷，二者都使我受益良多”",
+        "id": "1791585754755350528",
+        "location": "未來由自己書寫",
+        "name": "🍥神楽坂·雨檬&梦雨🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1994881540015493629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998523715638931458/M5oGaoU7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1503,
+          "following_count": 204,
+          "like_count": 6805,
+          "listed_count": 3,
+          "media_count": 146,
+          "tweet_count": 1690
+        },
+        "username": "RainLemon0715",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-30T01:36:48.000Z",
+        "description": "生产日期2005.11.7。山东潍坊，苦逼大一学生党，穷苦💊💊一只，社恐二次元一枚喵，欢迎姐妹贴贴喵！喜欢大肉棒和小钱钱喵，正在努力学习cos中喵，没建模没经济的哥布林一枚喵，呜呜呜",
+        "id": "1443389276654223363",
+        "name": "折翼的笼中鸟 🏳‍⚧🍥～",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870164687511490560/gnjHxcgJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 495,
+          "following_count": 652,
+          "like_count": 9,
+          "listed_count": 1,
+          "media_count": 103,
+          "tweet_count": 634
+        },
+        "username": "C6QYBVSScQNBeI2",
+        "verified": false
+      }
+    ]
+  }
+}

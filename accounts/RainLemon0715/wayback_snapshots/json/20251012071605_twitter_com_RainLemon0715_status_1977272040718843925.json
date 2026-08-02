@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1791585754755350528",
+    "conversation_id": "1976943126569951260",
+    "created_at": "2025-10-12T07:16:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-12T08:16:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977272040718843925"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1870052270836199424",
+          "start": 0,
+          "username": "FusiKayoko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977272040718843925",
+    "in_reply_to_user_id": "1870052270836199424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976943126569951260",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FusiKayoko 我没有对象呜呜呜😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1791585754755350528",
+        "conversation_id": "1976943126569951260",
+        "created_at": "2025-10-12T07:16:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T08:16:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977272040718843925"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1870052270836199424",
+              "start": 0,
+              "username": "FusiKayoko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977272040718843925",
+        "in_reply_to_user_id": "1870052270836199424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976943126569951260",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FusiKayoko 我没有对象呜呜呜😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870052270836199424",
+        "conversation_id": "1976943126569951260",
+        "created_at": "2025-10-11T09:29:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T10:29:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976943126569951260"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/shengtian22332…",
+              "end": 81,
+              "expanded_url": "https://twitter.com/shengtian22332/status/1976824382866833882",
+              "start": 58,
+              "url": "https://t.co/WwUYVZD5eY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976943126569951260",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 27323,
+          "like_count": 156,
+          "quote_count": 3,
+          "reply_count": 12,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976824382866833882",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "她打舞萌的时候我偷偷上去投币导致他combo断了，然后她把我打了一顿，打的时候她补佳乐掉出来了，然后我们就处对象了 https://t.co/WwUYVZD5eY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-17T21:45:14.000Z",
+        "description": "07年的超大只mtf🍥🏳️‍⚧️｜无证含糖，hrt2023.7.15｜深柜家暴党｜双向+重抑|欢迎来找我贴贴｜现居山东｜不od不割手｜INFP｜暂不圆角｜政治立场不确定｜努力rle中｜“我曾踏足山巅，也曾进入低谷，二者都使我受益良多”",
+        "id": "1791585754755350528",
+        "location": "雨檬の幻想乡",
+        "name": "🍥神楽坂·雨檬&梦雨🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1956885660859863208",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976482299664642048/uRLRpVc5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 419,
+          "following_count": 137,
+          "like_count": 3099,
+          "listed_count": 1,
+          "media_count": 28,
+          "tweet_count": 718
+        },
+        "username": "RainLemon0715",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-20T10:23:06.000Z",
+        "description": "🍥很闲很闲的，随时都可以找我私信聊天，深柜，呜呜超极笨！脾气很好的，不用害怕我喔❤️应该是mtf🍥｜最可爱的凌同学~@Lingjiaxin233｜最喜欢的妹妹@ElP15_｜我爱的人@Makoto_00590002",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 58,
+                "username": "Lingjiaxin233"
+              },
+              {
+                "end": 86,
+                "start": 79,
+                "username": "ElP15_"
+              },
+              {
+                "end": 107,
+                "start": 91,
+                "username": "Makoto_00590002"
+              }
+            ]
+          }
+        },
+        "id": "1870052270836199424",
+        "location": "天堂",
+        "name": "芙泗🍥",
+        "pinned_tweet_id": "1976659669071630544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968657455505883138/srTQ4uWR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1041,
+          "following_count": 271,
+          "like_count": 9283,
+          "listed_count": 3,
+          "media_count": 196,
+          "tweet_count": 3923
+        },
+        "username": "FusiKayoko",
+        "verified": false
+      }
+    ]
+  }
+}

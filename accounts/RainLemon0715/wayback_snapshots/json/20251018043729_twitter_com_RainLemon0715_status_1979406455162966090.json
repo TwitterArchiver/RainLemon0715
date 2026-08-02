@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1791585754755350528",
+    "conversation_id": "1979376017430188402",
+    "created_at": "2025-10-18T04:37:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-18T05:37:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979406455162966090"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1875115728166342656",
+          "start": 0,
+          "username": "3253212MCZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979406455162966090",
+    "in_reply_to_user_id": "1875115728166342656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979405732006236549",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@3253212MCZ 当然给贴贴啦～\n贴贴姐姐～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1791585754755350528",
+        "conversation_id": "1979376017430188402",
+        "created_at": "2025-10-18T04:37:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T05:37:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979406455162966090"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1875115728166342656",
+              "start": 0,
+              "username": "3253212MCZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979406455162966090",
+        "in_reply_to_user_id": "1875115728166342656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979405732006236549",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3253212MCZ 当然给贴贴啦～\n贴贴姐姐～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1875115728166342656",
+        "conversation_id": "1979376017430188402",
+        "created_at": "2025-10-18T04:34:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T05:34:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979405732006236549"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1791585754755350528",
+              "start": 0,
+              "username": "RainLemon0715"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979405732006236549",
+        "in_reply_to_user_id": "1791585754755350528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979376017430188402",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RainLemon0715 外圈给不给贴来着"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-17T21:45:14.000Z",
+        "description": "07年的超大只mtf🍥🏳️‍⚧️｜无证含糖，hrt2023.7.15｜深柜家暴党｜双向+重抑|欢迎来找我贴贴｜现居山东｜不od不割手｜INFP｜暂不圆角｜政治立场不确定｜努力rle中｜“我曾踏足山巅，也曾进入低谷，二者都使我受益良多”",
+        "id": "1791585754755350528",
+        "location": "雨檬の幻想乡",
+        "name": "🍥神楽坂·雨檬&梦雨🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1977294839168618951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976482299664642048/uRLRpVc5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 438,
+          "following_count": 143,
+          "like_count": 3261,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 769
+        },
+        "username": "RainLemon0715",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-03T09:43:34.000Z",
+        "description": "🐱INFJ | 🌧喜欢雨天发呆 | 🌿讨厌香菜 | 178cm？ | ❤️‍🩹抑郁症自愈者 | 🌈想去看世界！|🍬MTF：2025.7.6 |MIKU重度依赖 | 无证含糖 | ❤️‍🔥分享欲旺 |❤️ 对象是@qiuylove| 💌努力互fo | Q:285299219 |💞不定时安慰每个人 |",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 114,
+                "start": 105,
+                "username": "qiuylove"
+              }
+            ]
+          }
+        },
+        "id": "1875115728166342656",
+        "location": "在北京的雨天散步中～",
+        "name": "零落孤潮🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971931529904545792/RvUA_XhC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 591,
+          "following_count": 647,
+          "like_count": 3142,
+          "listed_count": 0,
+          "media_count": 158,
+          "tweet_count": 2224
+        },
+        "username": "3253212MCZ",
+        "verified": false
+      }
+    ]
+  }
+}

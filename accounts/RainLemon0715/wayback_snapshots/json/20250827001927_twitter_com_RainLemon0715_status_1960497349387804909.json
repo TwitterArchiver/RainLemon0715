@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1791585754755350528",
+    "conversation_id": "1959157629823205424",
+    "created_at": "2025-08-27T00:19:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-27T01:19:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960497349387804909"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1959688702088945664",
+          "start": 0,
+          "username": "SPYDER_AIO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960497349387804909",
+    "in_reply_to_user_id": "1959688702088945664",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960371845187924204",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SPYDER_AIO 谢谢w"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1791585754755350528",
+        "conversation_id": "1959157629823205424",
+        "created_at": "2025-08-27T00:19:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T01:19:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960497349387804909"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1959688702088945664",
+              "start": 0,
+              "username": "SPYDER_AIO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960497349387804909",
+        "in_reply_to_user_id": "1959688702088945664",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960371845187924204",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SPYDER_AIO 谢谢w"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959688702088945664",
+        "conversation_id": "1959157629823205424",
+        "created_at": "2025-08-26T16:00:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T17:00:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960371845187924204"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1791585754755350528",
+              "start": 0,
+              "username": "RainLemon0715"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960371845187924204",
+        "in_reply_to_user_id": "1791585754755350528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959157629823205424",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RainLemon0715 如果注射时进针深度不够，没有将药物准确注射到肌肉层，而是停留在皮下组织，会导致药物吸收不良并刺激皮下组织；此外，注射时如果没有严格遵守无菌操作原则，可能会引起局部感染，出现红肿、疼痛，严重时还可能伴有发热、化脓等症状 \n处理：冰敷，使用多磺酸粘多糖乳膏"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-17T21:45:14.000Z",
+        "description": "07年的超大只mtf🍥🏳️‍⚧️｜无证含糖，hrt2023.7.15｜深柜家暴党｜双向+重抑|欢迎来找我贴贴｜现居山东｜不od不割手｜INFP｜暂不圆角｜政治立场不确定｜努力rle中｜“我曾踏足山巅，也曾进入低谷，二者都使我受益良多”",
+        "id": "1791585754755350528",
+        "location": "雨檬の幻想乡",
+        "name": "🍥神楽坂·雨檬&梦雨🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1956885660859863208",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906911119580823552/VQjZGMza_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 376,
+          "following_count": 132,
+          "like_count": 2740,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 607
+        },
+        "username": "RainLemon0715",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-24T18:46:20.000Z",
+        "description": "以色列SPYDER AIO防空系统是以色列拉斐尔先进防御系统公司与以色列航空工业公司联合研制的机动防空平台。\n配备exMHR雷达，该雷达工作在F波段，由四个非旋转雷达组成，每个覆盖90度扇区，可提供360度全向覆盖，最大射程达110公里，且具备自动识别大多数 飞机的能力\n可发射怪蛇-5、I-DERBY SR等制导飞弹.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "rafael.co.il",
+                "end": 23,
+                "expanded_url": "http://www.rafael.co.il/",
+                "start": 0,
+                "url": "https://t.co/7B2Q6w7p87"
+              }
+            ]
+          }
+        },
+        "id": "1959688702088945664",
+        "location": "רפאל-מערכות לחימה מתקדמות בע",
+        "name": "SPYDER AIO SPAA SYSTEM🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1959977502295929152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959988780779405312/ISyppMCs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 163,
+          "like_count": 85,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 16
+        },
+        "url": "https://t.co/7B2Q6w7p87",
+        "username": "SPYDER_AIO",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1791585754755350528",
+    "conversation_id": "2015632616574386429",
+    "created_at": "2026-01-26T14:02:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T15:02:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015787398010216867"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1407215903406706688",
+          "start": 0,
+          "username": "Zako_Fries"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015787398010216867",
+    "in_reply_to_user_id": "1407215903406706688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015786071561486838",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Zako_Fries 啊…这得两百多万人民币了…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1791585754755350528",
+        "conversation_id": "2015632616574386429",
+        "created_at": "2026-01-26T14:02:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T15:02:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015787398010216867"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1407215903406706688",
+              "start": 0,
+              "username": "Zako_Fries"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015787398010216867",
+        "in_reply_to_user_id": "1407215903406706688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015786071561486838",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zako_Fries 啊…这得两百多万人民币了…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1407215903406706688",
+        "conversation_id": "2015632616574386429",
+        "created_at": "2026-01-26T13:57:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T14:57:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015786071561486838"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1791585754755350528",
+              "start": 0,
+              "username": "RainLemon0715"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015786071561486838",
+        "in_reply_to_user_id": "1791585754755350528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015753057989255524",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RainLemon0715 這還沒算醫生的費用…\n\n加起來保險前得三十五萬美元左右（\n\n達芬奇機器人開機是真的貴"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-17T21:45:14.000Z",
+        "description": "07年的超大只mtf🍥🏳️‍⚧️｜持证含糖，hrt21.1.10-22.12/扭转⚠️/2023.7.15恢复｜半家长党…吗？｜双向+重抑|欢迎来找我贴贴｜现居山东｜不od不割手｜INFP｜暂不圆角｜无政治立场｜努力rle中｜🚪50，可加好友（QQ）｜清水推｜“我曾踏足山巅，也曾进入低谷，二者都使我受益良多”",
+        "id": "1791585754755350528",
+        "location": "未來由自己書寫",
+        "name": "🍥神楽坂·雨檬&梦雨🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2010535213299048582",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998523715638931458/M5oGaoU7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2869,
+          "following_count": 293,
+          "like_count": 7546,
+          "listed_count": 4,
+          "media_count": 173,
+          "tweet_count": 1927
+        },
+        "username": "RainLemon0715",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-22T05:57:05.000Z",
+        "description": "是一隻超級缺抱抱的女同海豹",
+        "id": "1407215903406706688",
+        "location": "United States",
+        "name": "☮️ZakoFries🍥",
+        "pinned_tweet_id": "1961988587861483558",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960474406888804352/2GN4Zy-8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 380,
+          "following_count": 316,
+          "like_count": 4375,
+          "listed_count": 0,
+          "media_count": 456,
+          "tweet_count": 5338
+        },
+        "username": "Zako_Fries",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1791585754755350528",
+    "conversation_id": "1947643859959247196",
+    "created_at": "2025-07-23T00:37:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-23T01:37:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947818388715384872"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "750755442435895296",
+          "start": 0,
+          "username": "DuoDuo5678"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947818388715384872",
+    "in_reply_to_user_id": "750755442435895296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947643859959247196",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DuoDuo5678 新生快乐🎉"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1947643848752295936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gwdrwuna8AA1QPN.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1791585754755350528",
+        "conversation_id": "1947643859959247196",
+        "created_at": "2025-07-23T00:37:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-23T01:37:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947818388715384872"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "750755442435895296",
+              "start": 0,
+              "username": "DuoDuo5678"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947818388715384872",
+        "in_reply_to_user_id": "750755442435895296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947643859959247196",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DuoDuo5678 新生快乐🎉"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1947643848752295936"
+          ]
+        },
+        "author_id": "750755442435895296",
+        "conversation_id": "1947643859959247196",
+        "created_at": "2025-07-22T13:04:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-22T14:04:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1947643859959247196"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1shd1QG7oQ",
+              "end": 28,
+              "expanded_url": "https://x.com/DuoDuo5678/status/1947643859959247196/photo/1",
+              "media_key": "3_1947643848752295936",
+              "start": 5,
+              "url": "https://t.co/1shd1QG7oQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947643859959247196",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 39783,
+          "like_count": 149,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "没有了😭 https://t.co/1shd1QG7oQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-17T21:45:14.000Z",
+        "description": "07年的超大只mtf🍥🏳️‍⚧️｜无证含糖，hrt2023.7.15｜深柜家暴党｜双向+重抑|欢迎来找我贴贴｜现居山东｜不od不割手｜INFP｜“我曾踏足山巅，也曾进入低谷，二者都使我受益良多”",
+        "id": "1791585754755350528",
+        "location": "雨檬の幻想乡",
+        "name": "🍥神楽坂·雨檬&梦雨🏳️‍⚧️🍥（打工结束版）",
+        "pinned_tweet_id": "1927644848741634415",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906911119580823552/VQjZGMza_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 326,
+          "following_count": 125,
+          "like_count": 2522,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 551
+        },
+        "username": "RainLemon0715",
+        "verified": false
+      },
+      {
+        "created_at": "2016-07-06T18:17:00.000Z",
+        "description": "Who will be strong and stand with me？",
+        "id": "750755442435895296",
+        "name": "多多🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1704495741253693440/kFkiTmcf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1176,
+          "following_count": 470,
+          "like_count": 1954,
+          "listed_count": 5,
+          "media_count": 192,
+          "tweet_count": 1657
+        },
+        "username": "DuoDuo5678",
+        "verified": false
+      }
+    ]
+  }
+}

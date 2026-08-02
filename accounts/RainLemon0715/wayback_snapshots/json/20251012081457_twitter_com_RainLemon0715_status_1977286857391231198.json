@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1791585754755350528",
+    "conversation_id": "1976971689830592673",
+    "created_at": "2025-10-12T08:14:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-12T09:14:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977286857391231198"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1787748911878156288",
+          "start": 0,
+          "username": "Redemption_1207"
+        },
+        {
+          "end": 25,
+          "id": "1741426453265473536",
+          "start": 17,
+          "username": "yywz258"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977286857391231198",
+    "in_reply_to_user_id": "1787748911878156288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976971689830592673",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Redemption_1207 @yywz258 补药说了…PTSD 了…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1976971653914513408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2-dPqqXUAA1ZNL.jpg",
+        "width": 920
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1976971654577135616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2-dPtIWIAAtwM3.jpg",
+        "width": 920
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1976971655629910016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2-dPxDWMAAqGHC.jpg",
+        "width": 920
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1976971655424405504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2-dPwSWcAAbOwV.jpg",
+        "width": 920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1791585754755350528",
+        "conversation_id": "1976971689830592673",
+        "created_at": "2025-10-12T08:14:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T09:14:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977286857391231198"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1787748911878156288",
+              "start": 0,
+              "username": "Redemption_1207"
+            },
+            {
+              "end": 25,
+              "id": "1741426453265473536",
+              "start": 17,
+              "username": "yywz258"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977286857391231198",
+        "in_reply_to_user_id": "1787748911878156288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976971689830592673",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Redemption_1207 @yywz258 补药说了…PTSD 了…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976971653914513408",
+            "3_1976971654577135616",
+            "3_1976971655629910016",
+            "3_1976971655424405504"
+          ]
+        },
+        "author_id": "1787748911878156288",
+        "conversation_id": "1976971689830592673",
+        "created_at": "2025-10-11T11:22:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T12:22:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976971689830592673"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 25,
+              "tag": "xyn"
+            },
+            {
+              "end": 34,
+              "start": 30,
+              "tag": "mtf"
+            },
+            {
+              "end": 38,
+              "start": 35,
+              "tag": "药娘"
+            },
+            {
+              "end": 43,
+              "start": 39,
+              "tag": "跨性别"
+            },
+            {
+              "end": 49,
+              "start": 44,
+              "tag": "扭转机构"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/p5mqSfTedb",
+              "end": 73,
+              "expanded_url": "https://x.com/Redemption_1207/status/1976971689830592673/photo/1",
+              "media_key": "3_1976971653914513408",
+              "start": 50,
+              "url": "https://t.co/p5mqSfTedb"
+            },
+            {
+              "display_url": "pic.x.com/p5mqSfTedb",
+              "end": 73,
+              "expanded_url": "https://x.com/Redemption_1207/status/1976971689830592673/photo/1",
+              "media_key": "3_1976971654577135616",
+              "start": 50,
+              "url": "https://t.co/p5mqSfTedb"
+            },
+            {
+              "display_url": "pic.x.com/p5mqSfTedb",
+              "end": 73,
+              "expanded_url": "https://x.com/Redemption_1207/status/1976971689830592673/photo/1",
+              "media_key": "3_1976971655629910016",
+              "start": 50,
+              "url": "https://t.co/p5mqSfTedb"
+            },
+            {
+              "display_url": "pic.x.com/p5mqSfTedb",
+              "end": 73,
+              "expanded_url": "https://x.com/Redemption_1207/status/1976971689830592673/photo/1",
+              "media_key": "3_1976971655424405504",
+              "start": 50,
+              "url": "https://t.co/p5mqSfTedb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976971689830592673",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 9417,
+          "like_count": 128,
+          "quote_count": 2,
+          "reply_count": 7,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "一些扭转机构（戒网瘾机构）常见的给家长洗脑的方式 #xyn #mtf #药娘 #跨性别 #扭转机构 https://t.co/p5mqSfTedb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-17T21:45:14.000Z",
+        "description": "07年的超大只mtf🍥🏳️‍⚧️｜无证含糖，hrt2023.7.15｜深柜家暴党｜双向+重抑|欢迎来找我贴贴｜现居山东｜不od不割手｜INFP｜暂不圆角｜政治立场不确定｜努力rle中｜“我曾踏足山巅，也曾进入低谷，二者都使我受益良多”",
+        "id": "1791585754755350528",
+        "location": "雨檬の幻想乡",
+        "name": "🍥神楽坂·雨檬&梦雨🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1956885660859863208",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976482299664642048/uRLRpVc5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 419,
+          "following_count": 138,
+          "like_count": 3109,
+          "listed_count": 1,
+          "media_count": 29,
+          "tweet_count": 723
+        },
+        "username": "RainLemon0715",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-07T07:39:01.000Z",
+        "description": "MtF | hrt 2014.10.8 | INFJ | AuDHD",
+        "id": "1787748911878156288",
+        "name": "玥音止梦🏳‍⚧️",
+        "pinned_tweet_id": "1975744800734273961",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918896469349928960/_xcW6Sl__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 878,
+          "following_count": 1518,
+          "like_count": 2398,
+          "listed_count": 1,
+          "media_count": 30,
+          "tweet_count": 454
+        },
+        "username": "Redemption_1207",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-31T11:50:08.000Z",
+        "description": "Evt a vhensiy dehlli en emce.\n望　その場所に在る者。\n\n    fo你是喜欢你求互fo（。可以称我为男娘，未术trans，5w4，多意识体，精神不稳定，喜欢学新东西，打音游，已戒o戒割，爱好是能和自己做的一切🐱🖐🏻️",
+        "id": "1741426453265473536",
+        "name": "intra_秋雨末叶🏳️‍⚧️",
+        "pinned_tweet_id": "1975576107488584112",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973088785144623104/zrzo9D2p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 286,
+          "following_count": 598,
+          "like_count": 1859,
+          "listed_count": 1,
+          "media_count": 53,
+          "tweet_count": 467
+        },
+        "username": "yywz258",
+        "verified": false
+      }
+    ]
+  }
+}

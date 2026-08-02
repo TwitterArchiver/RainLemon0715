@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1791585754755350528",
+    "conversation_id": "2025429486523875494",
+    "created_at": "2026-02-22T04:36:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T05:36:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025429486523875494"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1444716723978981380",
+          "start": 3,
+          "username": "EleanorAnatidae"
+        },
+        {
+          "end": 27,
+          "id": "3284398555",
+          "start": 21,
+          "username": "osfg9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025429486523875494",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025246951621681332",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @EleanorAnatidae: @osfg9 我自己就是亲历者，2018我上高中，一直熬到我上大学稳定了才HRT\n上中学，吃糖，家暴，好的结果是家长慢慢理解孩子，或者心疼孩子不再干预；坏的结果是赶出家门，扭转机构，暴力殴打\n另外家长的态度是很容易猜测的，是否重男轻女，…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1791585754755350528",
+        "conversation_id": "2025429486523875494",
+        "created_at": "2026-02-22T04:36:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T05:36:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025429486523875494"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1444716723978981380",
+              "start": 3,
+              "username": "EleanorAnatidae"
+            },
+            {
+              "end": 27,
+              "id": "3284398555",
+              "start": 21,
+              "username": "osfg9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025429486523875494",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025246951621681332",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @EleanorAnatidae: @osfg9 我自己就是亲历者，2018我上高中，一直熬到我上大学稳定了才HRT\n上中学，吃糖，家暴，好的结果是家长慢慢理解孩子，或者心疼孩子不再干预；坏的结果是赶出家门，扭转机构，暴力殴打\n另外家长的态度是很容易猜测的，是否重男轻女，…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1444716723978981380",
+        "conversation_id": "2025244339958358169",
+        "created_at": "2026-02-21T16:31:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T17:31:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025246951621681332"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "3284398555",
+              "start": 0,
+              "username": "osfg9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025246951621681332",
+        "in_reply_to_user_id": "3284398555",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 189,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025244339958358169",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@osfg9 我自己就是亲历者，2018我上高中，一直熬到我上大学稳定了才HRT\n上中学，吃糖，家暴，好的结果是家长慢慢理解孩子，或者心疼孩子不再干预；坏的结果是赶出家门，扭转机构，暴力殴打\n另外家长的态度是很容易猜测的，是否重男轻女，是否反对同性恋，是否控制欲强，这都很容易猜得到。\n所以要谨慎考虑"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-17T21:45:14.000Z",
+        "description": "07🍥🏳️‍⚧️｜持证含糖，hrt21.1.10｜半家长党…吗？｜双向+重抑|欢迎来找我贴贴｜现居山东｜不od不割手｜INFP｜想当个女孩子｜暂不圆角｜无政治立场｜努力rle中｜最好的老婆@whalexxs｜好妹妹 @Huang_Yut1ng ｜“我曾踏足山巅，也曾进入低谷，二者都使我受益良多”",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 94,
+                "username": "whalexxs"
+              },
+              {
+                "end": 121,
+                "start": 108,
+                "username": "Huang_Yut1ng"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+iN5huf7JvPkxY…",
+                "end": 23,
+                "expanded_url": "https://t.me/+iN5huf7JvPkxYWE9",
+                "start": 0,
+                "url": "https://t.co/GweBgmAiDG"
+              }
+            ]
+          }
+        },
+        "id": "1791585754755350528",
+        "location": "明天",
+        "name": "🍥神楽坂·雨檬&梦雨🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2024894275725746424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018330545328152576/MiPIgQL4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3634,
+          "following_count": 318,
+          "like_count": 7870,
+          "listed_count": 4,
+          "media_count": 202,
+          "tweet_count": 2059
+        },
+        "url": "https://t.co/GweBgmAiDG",
+        "username": "RainLemon0715",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-03T17:31:37.000Z",
+        "description": "👩‍❤️‍👩🦌@aliciathesika/🐇@Shirlene_girl/ 无障碍卫生间地图：夏水仙🌸https://t.co/pE8yXcPFC7",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 7,
+                "username": "aliciathesika"
+              },
+              {
+                "end": 37,
+                "start": 23,
+                "username": "Shirlene_girl"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "lycoris.online",
+                "end": 75,
+                "expanded_url": "https://lycoris.online",
+                "start": 52,
+                "url": "https://t.co/pE8yXcPFC7"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lycoris.online",
+                "end": 23,
+                "expanded_url": "https://lycoris.online",
+                "start": 0,
+                "url": "https://t.co/pE8yXcPFC7"
+              }
+            ]
+          }
+        },
+        "id": "1444716723978981380",
+        "name": "雪雁",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011472697138790400/zWZC7GQy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3690,
+          "following_count": 1963,
+          "like_count": 25266,
+          "listed_count": 10,
+          "media_count": 129,
+          "tweet_count": 6360
+        },
+        "url": "https://t.co/pE8yXcPFC7",
+        "username": "EleanorAnatidae",
+        "verified": false
+      },
+      {
+        "created_at": "2015-07-19T13:14:40.000Z",
+        "description": "XtX. There is no LGBTQ on this wrold, the gender of everyone is X. LIGHT TOUCH is enough!",
+        "id": "3284398555",
+        "location": "People's Republic of China",
+        "name": "osfg",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/622757956463935488/wkQEfF_v_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 197,
+          "following_count": 2327,
+          "like_count": 45421,
+          "listed_count": 1,
+          "media_count": 469,
+          "tweet_count": 10469
+        },
+        "username": "osfg9",
+        "verified": false
+      }
+    ]
+  }
+}

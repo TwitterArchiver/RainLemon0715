@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1791585754755350528",
+    "conversation_id": "1977294839168618951",
+    "created_at": "2025-10-12T09:42:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-12T10:42:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977308911792476671"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1787748911878156288",
+          "start": 0,
+          "username": "Redemption_1207"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977308911792476671",
+    "in_reply_to_user_id": "1787748911878156288",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977307698711384337",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Redemption_1207 好诶！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1791585754755350528",
+        "conversation_id": "1977294839168618951",
+        "created_at": "2025-10-12T09:42:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T10:42:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977308911792476671"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1787748911878156288",
+              "start": 0,
+              "username": "Redemption_1207"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977308911792476671",
+        "in_reply_to_user_id": "1787748911878156288",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977307698711384337",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Redemption_1207 好诶！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787748911878156288",
+        "conversation_id": "1977294839168618951",
+        "created_at": "2025-10-12T09:37:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T10:37:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977307698711384337"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1791585754755350528",
+              "start": 0,
+              "username": "RainLemon0715"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977307698711384337",
+        "in_reply_to_user_id": "1791585754755350528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977294839168618951",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RainLemon0715 来啦～"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-17T21:45:14.000Z",
+        "description": "07年的超大只mtf🍥🏳️‍⚧️｜无证含糖，hrt2023.7.15｜深柜家暴党｜双向+重抑|欢迎来找我贴贴｜现居山东｜不od不割手｜INFP｜暂不圆角｜政治立场不确定｜努力rle中｜“我曾踏足山巅，也曾进入低谷，二者都使我受益良多”",
+        "id": "1791585754755350528",
+        "location": "雨檬の幻想乡",
+        "name": "🍥神楽坂·雨檬&梦雨🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1977294839168618951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976482299664642048/uRLRpVc5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 419,
+          "following_count": 137,
+          "like_count": 3110,
+          "listed_count": 1,
+          "media_count": 29,
+          "tweet_count": 725
+        },
+        "username": "RainLemon0715",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-07T07:39:01.000Z",
+        "description": "MtF | hrt 2014.10.8 | INFJ | AuDHD",
+        "id": "1787748911878156288",
+        "name": "玥音止梦🏳‍⚧️",
+        "pinned_tweet_id": "1975744800734273961",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918896469349928960/_xcW6Sl__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 881,
+          "following_count": 1524,
+          "like_count": 2418,
+          "listed_count": 1,
+          "media_count": 30,
+          "tweet_count": 455
+        },
+        "username": "Redemption_1207",
+        "verified": false
+      }
+    ]
+  }
+}

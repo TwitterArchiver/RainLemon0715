@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1791585754755350528",
+    "conversation_id": "1982476326046257656",
+    "created_at": "2025-10-27T02:07:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-27T03:07:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982630309905723836"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1972898838219513856",
+          "start": 0,
+          "username": "Luoji3500"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982630309905723836",
+    "in_reply_to_user_id": "1972898838219513856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982476326046257656",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Luoji3500 姐姐你在哪里…想看看可不可以面积"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 750,
+        "media_key": "3_1982476322145198080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4Mrth0WYAAAYe5.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1791585754755350528",
+        "conversation_id": "1982476326046257656",
+        "created_at": "2025-10-27T02:07:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T03:07:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982630309905723836"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1972898838219513856",
+              "start": 0,
+              "username": "Luoji3500"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982630309905723836",
+        "in_reply_to_user_id": "1972898838219513856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982476326046257656",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Luoji3500 姐姐你在哪里…想看看可不可以面积"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982476322145198080"
+          ]
+        },
+        "author_id": "1972898838219513856",
+        "conversation_id": "1982476326046257656",
+        "created_at": "2025-10-26T15:56:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T16:56:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982476326046257656"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 138,
+              "start": 135,
+              "tag": "药娘"
+            },
+            {
+              "end": 143,
+              "start": 139,
+              "tag": "mtf"
+            },
+            {
+              "end": 147,
+              "start": 144,
+              "tag": "出柜"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lDnppp7aJY",
+              "end": 171,
+              "expanded_url": "https://x.com/Luoji3500/status/1982476326046257656/photo/1",
+              "media_key": "3_1982476322145198080",
+              "start": 148,
+              "url": "https://t.co/lDnppp7aJY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982476326046257656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 2347,
+          "like_count": 67,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "跟父母出柜了\n今天他们跟我聊了很多，他们想开点了，但还是劝我慢慢停药。他们想让我等到成年之后再做选择，那时无论我做什么选择，都会尊重和支持我的选择❤️❤️\n对于一个山东小县城的家庭来说，父母能开明到这个地步，我真的很满足了。我打算以后逐步减少药量，寒假去北三找潘聊聊😇\n#药娘 #mtf #出柜 https://t.co/lDnppp7aJY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-17T21:45:14.000Z",
+        "description": "07年的超大只mtf🍥🏳️‍⚧️｜无证含糖，hrt2023.7.15｜深柜家暴党｜双向+重抑|欢迎来找我贴贴｜现居山东｜不od不割手｜INFP｜暂不圆角｜政治立场不确定｜努力rle中｜“我曾踏足山巅，也曾进入低谷，二者都使我受益良多”",
+        "id": "1791585754755350528",
+        "location": "雨檬の幻想乡",
+        "name": "🍥神楽坂·雨檬&梦雨🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1977294839168618951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976482299664642048/uRLRpVc5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 594,
+          "following_count": 167,
+          "like_count": 3772,
+          "listed_count": 1,
+          "media_count": 56,
+          "tweet_count": 970
+        },
+        "username": "RainLemon0715",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-30T05:38:45.000Z",
+        "description": "08年的MTF🏳️‍⚧️ | 无证含糖🍥| HRT2025.8.14 |深柜中ing | 喜欢动漫、音乐 | \n主推《终末的女武神》洛基、冲田总司",
+        "id": "1972898838219513856",
+        "name": "LUOJI_洛基 🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974288244008525824/DA1y2seh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 705,
+          "following_count": 218,
+          "like_count": 240,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 24
+        },
+        "username": "Luoji3500",
+        "verified": false
+      }
+    ]
+  }
+}

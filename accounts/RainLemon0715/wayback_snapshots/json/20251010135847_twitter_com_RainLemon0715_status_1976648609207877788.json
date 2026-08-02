@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1791585754755350528",
+    "conversation_id": "1976601868089327789",
+    "created_at": "2025-10-10T13:58:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-10T14:58:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976648609207877788"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1886796352283402250",
+          "start": 0,
+          "username": "TheCyclist400"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976648609207877788",
+    "in_reply_to_user_id": "1886796352283402250",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976601868089327789",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TheCyclist400 太棒了，恭喜姐姐新生！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1976601859235418112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G25M6yIakAABLJl.jpg",
+        "width": 1278
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1791585754755350528",
+        "conversation_id": "1976601868089327789",
+        "created_at": "2025-10-10T13:58:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T14:58:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976648609207877788"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1886796352283402250",
+              "start": 0,
+              "username": "TheCyclist400"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976648609207877788",
+        "in_reply_to_user_id": "1886796352283402250",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976601868089327789",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TheCyclist400 太棒了，恭喜姐姐新生！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976601859235418112"
+          ]
+        },
+        "author_id": "1886796352283402250",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597176467456",
+              "name": "Sports/Outdoor - Fashion"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to apparel and accessories ",
+              "id": "1557697378571808768",
+              "name": "Textile, Apparel & Luxury Good Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202044",
+              "name": "Lululemon"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Fashion Brand",
+              "id": "846427983237672960",
+              "name": "Fashion Brand"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597176467456",
+              "name": "Sports/Outdoor - Fashion"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202044",
+              "name": "Lululemon"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202044",
+              "name": "Lululemon"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1248316002317643776",
+              "name": "Athletic apparel"
+            }
+          }
+        ],
+        "conversation_id": "1976601868089327789",
+        "created_at": "2025-10-10T10:53:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T11:53:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976601868089327789"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qAXFoXr01b",
+              "end": 141,
+              "expanded_url": "https://x.com/TheCyclist400/status/1976601868089327789/photo/1",
+              "media_key": "3_1976601859235418112",
+              "start": 118,
+              "url": "https://t.co/qAXFoXr01b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976601868089327789",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "毕业了…毕业了…\n\n好久没有这么开心了…\n\n早上到了PAI，穿着Lululemon去参加毕业典礼的可能也只有我了。当然还是遇到了可爱的前台哥哥，他问我好不好，我说我从来没那么好过…\n\n“Oh, sister, look at your pussy…”，他说，是的，瑜伽裤可不就是这样，和光屁股涂个颜色一样。我一个害羞捂脸，没有冒犯，只有窃喜，没有鼓包了..\n\n上楼到了诊室，还是受到了布林医生的鸭嘴器伺候…\n\n布林医生:”good…”，他总是和蔼又酷酷的…🤭\n\n随后经历了各种羞耻事件…布林医生轻轻的分开我的国门，说道:”that’s your clitoris(汪峰)…”，随后，伸出了他的金手指，轻轻地点了一下…\n\n”啊…”,我忍不住娇喘了一下…\n\n不说了不说了，已经变黄文了…得收到流动红旗了…\n\n这是很严肃的医疗类叙事文…咳…\n\n今天也算圆满，布林医生的Do not worry, it’s normal招牌金句也全都听到了，我在笑，不知道他是否知道我在笑什么…\n\n“你有什么问题吗？”，布林医生问…\n我想了半天，没什么问题，便说:”没有，我没有遇到什么困难，都很好，我没有什么问题…”\n\n他交代了一下三个月内用碘伏冲洗，以及其他维护事项…我也顺便与他再次确认了一下通模具的Schedule。抗生素也不需要了，地西泮也不需要了…啥都不需要了…hhhhhhh…接下去扑热息痛就可以管事了…\n\n“你还有什么问题吗？”，布林医生再次问到…\n再不提问也显得我这个学生太不上心了，想了一想，还是没什么问题。\n“请问我能和你合影吗？”，我说。\n诊室所有的人都笑了起来，布林医生说:”当然，当然…”， 他笑的很可爱。\n\n他帅气的在他的格子衬衫外面套上了PAI的白大褂🥼，我也站到了那个所有人都去过的那个拐角处，合影，心愿达成…随后他便去Phyathai 2查房了，下午还有手术。他几乎每天都有手术。\n\n可爱的护士姐姐，我提出与她合影了，她也好可爱，活泼…她说:”啊呀，你们都太瘦了，等我一下，我去画个妆…”\n\nHhhhhhhh….PAI的气氛真的好好，大家都嘻嘻哈哈的，我开玩笑说我只有一根，我要是还有我还想再来做一次…嗨，瘾犯了…\n\n收到了适航证，以及毕业证书，我正式可以回家了。我也确实想家了…改签提前的机票了…\n\n接下去，要单飞了，谢谢你们对我的照顾…感谢你们每一个人…\n\n一眨眼，泰国行快要结束了，而我的人生就像才开始一样。在安全区原地开大的我，接下去还会有许多功课要做。\n\n我还记得几周前我的世界有多黑暗，靠着墙抱着膝盖流眼泪的样子，那真的太痛苦了。现在，我好了，我真的好了。\n\n我们的路很崎岖，但拐角处一定会有美丽的风景。所有的姐妹们，一起加油吧…"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1076,
+          "like_count": 36,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "毕业了…毕业了…\n\n好久没有这么开心了…\n\n早上到了PAI，穿着Lululemon去参加毕业典礼的可能也只有我了。当然还是遇到了可爱的前台哥哥，他问我好不好，我说我从来没那么好过…\n\n“Oh, sister, look at your https://t.co/qAXFoXr01b"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-17T21:45:14.000Z",
+        "description": "07年的超大只mtf🍥🏳️‍⚧️｜无证含糖，hrt2023.7.15｜深柜家暴党｜双向+重抑|欢迎来找我贴贴｜现居山东｜不od不割手｜INFP｜暂不圆角｜政治立场不确定｜努力rle中｜“我曾踏足山巅，也曾进入低谷，二者都使我受益良多”",
+        "id": "1791585754755350528",
+        "location": "雨檬の幻想乡",
+        "name": "🍥神楽坂·雨檬&梦雨🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1956885660859863208",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976482299664642048/uRLRpVc5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 417,
+          "following_count": 137,
+          "like_count": 3068,
+          "listed_count": 1,
+          "media_count": 28,
+          "tweet_count": 706
+        },
+        "username": "RainLemon0715",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-04T15:18:12.000Z",
+        "description": "TransParent/Gardener/Second hand carpenter/Ex-handyman/Retired photographer/MMA/4WD/ISFJ我有ADHD也许有ASD/SRS 26.9.2025/我希望每个人都能成为自己心目中的样子/Depression很难，但是我们能战胜它",
+        "id": "1886796352283402250",
+        "name": "Lulu.C",
+        "pinned_tweet_id": "1961013729388351563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886982396542902276/n2YwM30L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 531,
+          "following_count": 355,
+          "like_count": 2189,
+          "listed_count": 1,
+          "media_count": 107,
+          "tweet_count": 1037
+        },
+        "username": "TheCyclist400",
+        "verified": true
+      }
+    ]
+  }
+}

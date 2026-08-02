@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1791585754755350528",
+    "conversation_id": "1985680759798251701",
+    "created_at": "2025-11-04T12:09:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-04T13:09:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1985680759798251701"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1985680759798251701",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "大家有没有知道去找邸晓兰开证加去北三开hrt处方大概总共需要多少钱...\n妈妈答应咱去找邸晓兰了...但是要自己出钱...我想问问大家有没有具体花费多少...谢谢姐妹们..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1791585754755350528",
+        "conversation_id": "1985680759798251701",
+        "created_at": "2025-11-04T12:09:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T13:09:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985680759798251701"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1985680759798251701",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大家有没有知道去找邸晓兰开证加去北三开hrt处方大概总共需要多少钱...\n妈妈答应咱去找邸晓兰了...但是要自己出钱...我想问问大家有没有具体花费多少...谢谢姐妹们..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-17T21:45:14.000Z",
+        "description": "07年的超大只mtf🍥🏳️‍⚧️｜无证含糖，hrt2023.7.15｜深柜家暴党｜双向+重抑|欢迎来找我贴贴｜现居山东｜不od不割手｜INFP｜暂不圆角｜政治立场不确定｜努力rle中｜“我曾踏足山巅，也曾进入低谷，二者都使我受益良多”",
+        "id": "1791585754755350528",
+        "location": "雨檬の幻想乡",
+        "name": "🍥神楽坂·雨檬&梦雨🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1983521304704864425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984482845377904641/18i9NVgR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 777,
+          "following_count": 168,
+          "like_count": 4157,
+          "listed_count": 2,
+          "media_count": 70,
+          "tweet_count": 1092
+        },
+        "username": "RainLemon0715",
+        "verified": false
+      }
+    ]
+  }
+}

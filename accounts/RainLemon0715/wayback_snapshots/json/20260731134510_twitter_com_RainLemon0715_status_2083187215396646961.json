@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1791585754755350528",
+    "conversation_id": "2082748209776972036",
+    "created_at": "2026-07-31T13:45:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T14:45:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083187215396646961"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1216530733893734400",
+          "start": 0,
+          "username": "S1fRiQO0jTStJ8v"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083187215396646961",
+    "in_reply_to_user_id": "1216530733893734400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083063574684168388",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@S1fRiQO0jTStJ8v 不是教授，只是拿了一个提名\n没有任何职务"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1791585754755350528",
+        "conversation_id": "2082748209776972036",
+        "created_at": "2026-07-31T13:45:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T14:45:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083187215396646961"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1216530733893734400",
+              "start": 0,
+              "username": "S1fRiQO0jTStJ8v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083187215396646961",
+        "in_reply_to_user_id": "1216530733893734400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083063574684168388",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@S1fRiQO0jTStJ8v 不是教授，只是拿了一个提名\n没有任何职务"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1216530733893734400",
+        "conversation_id": "2082748209776972036",
+        "created_at": "2026-07-31T05:33:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T06:33:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083063574684168388"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1791585754755350528",
+              "start": 0,
+              "username": "RainLemon0715"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083063574684168388",
+        "in_reply_to_user_id": "1791585754755350528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 148,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082748209776972036",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RainLemon0715 教授亲爹吗？那\n误闯天家~"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-17T21:45:14.000Z",
+        "description": "07🍥🏳️‍⚧️｜持证含糖，hrt21.1.8｜究极家暴党｜双向+重抑|欢迎来找我贴贴｜现居山东｜不od不割手｜INFP｜想当个女孩子｜SRS资金筹备ing｜无政治立场｜努力rle中｜最好的老婆@whalexxs，我的此生挚爱~|“我曾踏足山巅，也曾进入低谷，二者都使我受益良多”（现在是兼职糖果商人哦）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 97,
+                "username": "whalexxs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+iN5huf7JvPkxY…",
+                "end": 23,
+                "expanded_url": "https://t.me/+iN5huf7JvPkxYWE9",
+                "start": 0,
+                "url": "https://t.co/GweBgmAiDG"
+              }
+            ]
+          }
+        },
+        "id": "1791585754755350528",
+        "location": "明天",
+        "name": "🍥神楽坂·雨檬&梦雨🏳️‍⚧️🍬（出🍥🍬）",
+        "pinned_tweet_id": "2074429195980050577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018330545328152576/MiPIgQL4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4559,
+          "following_count": 305,
+          "like_count": 8144,
+          "listed_count": 6,
+          "media_count": 268,
+          "tweet_count": 2342
+        },
+        "url": "https://t.co/GweBgmAiDG",
+        "username": "RainLemon0715",
+        "verified": true
+      },
+      {
+        "created_at": "2020-01-13T01:21:53.000Z",
+        "description": "无",
+        "id": "1216530733893734400",
+        "name": "萌吃货",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1378534439559438337/ntSUNo7r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 186,
+          "like_count": 85,
+          "listed_count": 3,
+          "media_count": 3,
+          "tweet_count": 86
+        },
+        "url": "",
+        "username": "S1fRiQO0jTStJ8v",
+        "verified": false
+      }
+    ]
+  }
+}

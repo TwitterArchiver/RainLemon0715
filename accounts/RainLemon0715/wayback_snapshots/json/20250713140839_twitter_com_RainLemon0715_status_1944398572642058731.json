@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1791585754755350528",
+    "conversation_id": "1944286336279875818",
+    "created_at": "2025-07-13T14:08:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-13T15:08:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944398572642058731"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1896000845067796480",
+          "start": 0,
+          "username": "niaocoinchen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944398572642058731",
+    "in_reply_to_user_id": "1896000845067796480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944286336279875818",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@niaocoinchen 看来是女孩子没错了👍"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1791585754755350528",
+        "conversation_id": "1944286336279875818",
+        "created_at": "2025-07-13T14:08:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-13T15:08:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944398572642058731"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1896000845067796480",
+              "start": 0,
+              "username": "niaocoinchen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944398572642058731",
+        "in_reply_to_user_id": "1896000845067796480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944286336279875818",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@niaocoinchen 看来是女孩子没错了👍"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896000845067796480",
+        "conversation_id": "1944286336279875818",
+        "created_at": "2025-07-13T06:42:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-13T07:42:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1944286336279875818"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1944286336279875818",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1223,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我从小就有胃炎，然后小时候又长得很秀气加上我妈喜欢女儿，会让我留头发到耳朵下面，导致我经常被认成女孩子\n于是有一天，我胃疼的厉害，抱着我的热水袋袋走在路上，一个不认识的阿姨看到我，然后跟她旁边的阿姨说，现在的小孩发育真早哈，这么小就来姨妈了，我以前痛经也喜欢热水袋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-17T21:45:14.000Z",
+        "description": "07年的超大只mtf🍥🏳️‍⚧️｜无证含糖，hrt2023.7.15｜深柜家暴党｜双向+重抑|欢迎来找我贴贴｜现居山东｜不od不割手｜INFP｜“我曾踏足山巅，也曾进入低谷，二者都使我受益良多”",
+        "id": "1791585754755350528",
+        "location": "雨檬の幻想乡",
+        "name": "🍥神楽坂·雨檬&梦雨🏳️‍⚧️🍥（苦逼打工版）",
+        "pinned_tweet_id": "1927644848741634415",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906911119580823552/VQjZGMza_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 315,
+          "following_count": 125,
+          "like_count": 2418,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 517
+        },
+        "username": "RainLemon0715",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-02T00:55:02.000Z",
+        "description": "坐标深圳/努力赚钱养自己/资深产品经理/低杠杆交易员/高返佣不带单",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "u-hw.com/zh-CN/register…",
+                "end": 23,
+                "expanded_url": "https://u-hw.com/zh-CN/register?vipCode=xiaochen",
+                "start": 0,
+                "url": "https://t.co/YJzmqtGDlN"
+              }
+            ]
+          }
+        },
+        "id": "1896000845067796480",
+        "location": "深圳",
+        "name": "通过合约理财成为富婆的小陈👉WEEX 返佣",
+        "pinned_tweet_id": "1940792932732490188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916713610379931648/oL4YaZEt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2953,
+          "following_count": 304,
+          "like_count": 6211,
+          "listed_count": 7,
+          "media_count": 434,
+          "tweet_count": 5407
+        },
+        "url": "https://t.co/YJzmqtGDlN",
+        "username": "niaocoinchen",
+        "verified": false
+      }
+    ]
+  }
+}

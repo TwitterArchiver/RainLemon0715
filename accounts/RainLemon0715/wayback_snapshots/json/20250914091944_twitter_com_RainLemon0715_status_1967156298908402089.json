@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1791585754755350528",
+    "conversation_id": "1967156298908402089",
+    "created_at": "2025-09-14T09:19:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-14T10:19:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1967156298908402089"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1967156298908402089",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "问一下姐姐们\n就是我平常是一个月打一针十一酸，然后每天吃12.5mg色，然后这样吃了两年没事但是从9月份开始出现了泌乳的情况，这个正常吗\n求解答"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1791585754755350528",
+        "conversation_id": "1967156298908402089",
+        "created_at": "2025-09-14T09:19:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T10:19:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967156298908402089"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1967156298908402089",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "问一下姐姐们\n就是我平常是一个月打一针十一酸，然后每天吃12.5mg色，然后这样吃了两年没事但是从9月份开始出现了泌乳的情况，这个正常吗\n求解答"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-17T21:45:14.000Z",
+        "description": "07年的超大只mtf🍥🏳️‍⚧️｜无证含糖，hrt2023.7.15｜深柜家暴党｜双向+重抑|欢迎来找我贴贴｜现居山东｜不od不割手｜INFP｜暂不圆角｜政治立场不确定｜努力rle中｜“我曾踏足山巅，也曾进入低谷，二者都使我受益良多”",
+        "id": "1791585754755350528",
+        "location": "雨檬の幻想乡",
+        "name": "🍥神楽坂·雨檬&梦雨🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1956885660859863208",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906911119580823552/VQjZGMza_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 396,
+          "following_count": 133,
+          "like_count": 2796,
+          "listed_count": 1,
+          "media_count": 24,
+          "tweet_count": 642
+        },
+        "username": "RainLemon0715",
+        "verified": false
+      }
+    ]
+  }
+}

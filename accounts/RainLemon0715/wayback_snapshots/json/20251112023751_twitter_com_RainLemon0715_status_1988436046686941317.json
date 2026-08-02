@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1791585754755350528",
+    "conversation_id": "1988436046686941317",
+    "created_at": "2025-11-12T02:37:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T03:37:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988436046686941317"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1587653801305153538",
+          "start": 3,
+          "username": "XiaoHuiHuiH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988436046686941317",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988159218956820770",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @XiaoHuiHuiH: 一片漆黑的海岸\n远处的光点斑斑\n海风的寒意，不免让鼻头发酸\n呐喊啊，呐喊啊\n声音被风声卷走变淡，\n消失在，无边之畔。\n一阵冷战，\n彻骨的寒。\n谁能给我一面，无畏的帆\n滚落的石块，心烦意乱\n烟的灰烬，弥漫着消失于墨蓝\n\n快看，无法聚焦的山\n无边的…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1791585754755350528",
+        "conversation_id": "1988436046686941317",
+        "created_at": "2025-11-12T02:37:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T03:37:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988436046686941317"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1587653801305153538",
+              "start": 3,
+              "username": "XiaoHuiHuiH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988436046686941317",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988159218956820770",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @XiaoHuiHuiH: 一片漆黑的海岸\n远处的光点斑斑\n海风的寒意，不免让鼻头发酸\n呐喊啊，呐喊啊\n声音被风声卷走变淡，\n消失在，无边之畔。\n一阵冷战，\n彻骨的寒。\n谁能给我一面，无畏的帆\n滚落的石块，心烦意乱\n烟的灰烬，弥漫着消失于墨蓝\n\n快看，无法聚焦的山\n无边的…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1587653801305153538",
+        "conversation_id": "1988159218956820770",
+        "created_at": "2025-11-11T08:17:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T09:17:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988159218956820770"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1988159218956820770",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "一片漆黑的海岸\n远处的光点斑斑\n海风的寒意，不免让鼻头发酸\n呐喊啊，呐喊啊\n声音被风声卷走变淡，\n消失在，无边之畔。\n一阵冷战，\n彻骨的寒。\n谁能给我一面，无畏的帆\n滚落的石块，心烦意乱\n烟的灰烬，弥漫着消失于墨蓝\n\n快看，无法聚焦的山\n无边的黑墙，我不愿说难\n我们彳(chì)亍(chù)这，走在沙滩\n脚印没有被冲刷，而是烙在心坎。\n\n不要，不要被黑夜吞噬\n无名的，却不服输的心执\n多少可笑的事，荒唐的日\n泛黄的相纸，苦酒和诗\n\n不是的，别深陷于泥沼\n纵然世界它，不愿给予你我怀抱\n渺小的沙砾，映衬着星空闪耀\n你不知道，你是救我的毒药\n\n光线昏暗，谁看得清前方\n那不是迷雾，而是眼珠的迷茫\n婆娑的，你望向目光之上\n与你，共度黑暗的时光\n成为着，必此的光亮\n\n世界的彼端，\n那是无名的孤船，\n那是远航的渔火，\n那是风浪的桅杆。\n\n那是美丽的初雪，\n却总令人心烦意乱，\n那是潦草的鞋带，\n潦倒的，如双腿的兢兢战战\n\n困吗，\n不要就此睡下，\n明天的歌谣，\n还有心灵的吉他。\n\n旅人啊，\n谁有家？\n我伸手摘月，\n身陷落于满地的泥巴。\n\n可笑吗？\n太过善良，心也太软弱吧，\n只是不愿去无情，封闭爱的表达。\n希望吗？\n那只是哄骗自己入睡的童话，\n雪会伴随着我的眼泪，\n随着时间慢慢融化。\n不是的啦，\n笑着的脸，内心却哭的稀里哗啦，\n只是无声的，海浪的回答。\n你说呐，谁的手腕上没有伤疤？\n不愿化为脓水，拼了命去结痂。\n逃避吗？\n放弃才是真正，失败的镣枷，\n却依旧迈开双腿，\n纵然前行，也会被苦沙践踏。\n\n是的吧，不是吧，\n我曾选择认识，但我这次不想再放弃回答。\n开吧，打开吧，\n最后的香槟，让歌声，随海风的呜咽融洽。\n\n抱一下我，我求你抱一下我，\n我不要挤占着缠绕着太多，\n只想缓缓，贴近着你的心窝。\n相伴的碎石，一同的滚落。\n\n但是啊，不要忘了世界的广阔\n悬崖下面，或许也有葱翠与硕果。\n可笑的，不要再谈及灾祸，\n人世间更多的，是妥协与失落。\n那不是错，那不是弄作，\n那不是命运，更不是得过且过。\n\n只是，想要活\n想要不再那么，四处漂泊\n但谁又不是旅人，\n谁又不是孤独的诉说？\n只求明天太阳升起之后，\n没有被暴风雪和潮汐海浪吞没。\n只求纵然天空乌云密布，\n我还愿意，继续去做。\n\n哪怕，哪怕肤痕斑驳\n哪怕，刀针斥满心窝\n我只求，猎户旋翼的第三颗星座\n在自传一圈之后，\n我还是我。\n点燃着孤火，\n继续在黑暗中盘活，\n不愿就此睡下，\n还愿继续，蜗行摸索。\n\n只为在未来的时候，\n我悄然与你诉说，\n那个时候，你灿然的笑容，\n说呐，这些早已是糟粕。\n\n春暖花开，阳光抚摸着你我，\n你说那些故事，早已随时间流过，\n不会再，不会再出现，现在的我。\n你能笑着，笑着和我说，\n那些都是假的吧，\n现在的世界，\n早已幸福与爱纵横交错）\n早已彼此相拥，\n不分你我\n早已阳光明媚，\n海浪轻柔抚摸，\n海风温暖惬凉，\n沙声悉悉索索。\n\n是的呐，没错的呐！\n我们早已渡过，\n回首森森墓碑坟冢，\n我笑着看你快乐生活。\n\n何为，我没有做错\n时间没让我错过\n我只记得，不需要再诉说\n我能看着你们，\n笑容是那么的，雏菊朵朵。\n\n你的酒窝\n不再会刺着青色的救我\n而是青涩的热情\n琴瑟翻过了，一座座山坡……\n\n翻过了，一座座山坡\n芳草碧绿，无人在意时光如梭\n迎风奔跑，激起阵阵，蒲公英朵朵\n天地辽阔，不再是无边的枷锁，\n而是安然小憩的，草海与星斡\n不要如果，\n那是一片，一片壮阔星空闪烁；\n那是心田中，安然的入梦。\n那是柔风中，长发随意飘向你我\n我轻柔抚摸，\n你的笑容，不再斑驳\n你的眼睛，不再婆娑\n你的声音，与内心执着\n美丽的，温暖的心窝。\n\n走过，走过，不是路过，不是错过，\n是风记着，海听着，沙砾诉说着，\n但此时，不再难平之意\n遵循着内心，自由愉快的呼吸\n与世界，与天地\n与所有爱的人，与那一个你\n\n我们会，不用逃离，\n不用寻找，不须顾忌，无意顾及，不会孤寂，不用逐寻栖息地\n\n不用身披冬衣，就能被温暖包裹\n\n纵然我的泪里，只剩你我\n\n一起生活，快乐的说\n\n不后悔这一路，\n没有放弃那微弱的烛火；\n与你走过，与你走过\n看着碧蓝的海洋，它波澜壮阔！\n\n没有漩涡\n没有灾祸\n没有哭泣在无边中坠落，\n\n燃起篝火，\n喜悦温暖心窝，\n你说呀，这世界，美得那么柔弱，\n又顽强的，那么磅礴\n\n我爱的，回想起海风，\n激起的沙子，让泪眼婆娑\n我爱的，自由的奔跑，\n不再思考，何说，何活。\n\n去做吧\n总有星辰的记忆，\n会伴随着你我，\n\n去做吧，\n只为明天，\n你那温暖的酒窝，\n不会再被，黑暗肆意抢夺\n\n不再\n而在。\n我在。\n我们一起，热烈如火，\n说，\n活！"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 929,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一片漆黑的海岸\n远处的光点斑斑\n海风的寒意，不免让鼻头发酸\n呐喊啊，呐喊啊\n声音被风声卷走变淡，\n消失在，无边之畔。\n一阵冷战，\n彻骨的寒。\n谁能给我一面，无畏的帆\n滚落的石块，心烦意乱\n烟的灰烬，弥漫着消失于墨蓝\n\n快看，无法聚焦的山\n无边的黑墙，我不愿说难\n我们彳(chì)亍(chù)这，走在沙滩"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-17T21:45:14.000Z",
+        "description": "07年的超大只mtf🍥🏳️‍⚧️｜无证含糖，hrt2023.7.15｜深柜家暴党｜双向+重抑|欢迎来找我贴贴｜现居山东｜不od不割手｜INFP｜暂不圆角｜政治立场不确定｜努力rle中｜“我曾踏足山巅，也曾进入低谷，二者都使我受益良多”",
+        "id": "1791585754755350528",
+        "location": "雨檬の幻想乡",
+        "name": "🍥神楽坂·雨檬&梦雨🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1983521304704864425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984482845377904641/18i9NVgR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 875,
+          "following_count": 173,
+          "like_count": 4417,
+          "listed_count": 2,
+          "media_count": 73,
+          "tweet_count": 1159
+        },
+        "username": "RainLemon0715",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-02T03:52:34.000Z",
+        "description": "好东西曾在咱主页的“亮点”里🥹\n/日常+抽象+涩涩推🫣/\nmtx(f)🏳️‍⚧️但可以把我当男娘喵🏳️‍🌈/含糖🍥2023.12.7/不堪风流往事🩷💜/21岁/上岸啦，不再约炮和援交/❤️\n@Mirro_zinuo\n/多伦多🇨🇦/\n\n免责避雷声明⚠️地狱笑话+抽象批/温柔+发癫集合体/地雷嗑学家💊",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 95,
+                "username": "Mirro_zinuo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@XiaoHuiHuiH",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@XiaoHuiHuiH",
+                "start": 0,
+                "url": "https://t.co/LQg5S7YXOr"
+              }
+            ]
+          }
+        },
+        "id": "1587653801305153538",
+        "location": "Toronto, Ontario🇨🇦",
+        "name": "小咴咴喵(⁠≧⁠▽⁠≦⁠)/🍥喵喵艺术家~",
+        "pinned_tweet_id": "1973169992570118470",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904236723636224000/W8Cl9P5f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11784,
+          "following_count": 1374,
+          "like_count": 150333,
+          "listed_count": 23,
+          "media_count": 4825,
+          "tweet_count": 64989
+        },
+        "url": "https://t.co/LQg5S7YXOr",
+        "username": "XiaoHuiHuiH",
+        "verified": true
+      }
+    ]
+  }
+}

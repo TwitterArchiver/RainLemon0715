@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1791585754755350528",
+    "conversation_id": "1996086809550578151",
+    "created_at": "2025-12-03T09:33:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T10:33:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996150699609268676"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1897597646162079744",
+          "start": 0,
+          "username": "foooxwww"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996150699609268676",
+    "in_reply_to_user_id": "1897597646162079744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996147234963181661",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@foooxwww 头发这个事儿你找我生物爹\n本来还挺好看的\n他给剪的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1791585754755350528",
+        "conversation_id": "1996086809550578151",
+        "created_at": "2025-12-03T09:33:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T10:33:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996150699609268676"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1897597646162079744",
+              "start": 0,
+              "username": "foooxwww"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996150699609268676",
+        "in_reply_to_user_id": "1897597646162079744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996147234963181661",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@foooxwww 头发这个事儿你找我生物爹\n本来还挺好看的\n他给剪的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897597646162079744",
+        "conversation_id": "1996086809550578151",
+        "created_at": "2025-12-03T09:19:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T10:19:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996147234963181661"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1791585754755350528",
+              "start": 0,
+              "username": "RainLemon0715"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996147234963181661",
+        "in_reply_to_user_id": "1791585754755350528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996086809550578151",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RainLemon0715 你这头发真的跟狗啃的一样，感觉像是自己修剪的，看着很违和，我看你07年的，是不方便留头发吗，暂时不方便的话，平时建议留一个自然一点的发型，可以等高考前两个月左右开始留，一般高中毕业后后自由很多，当然还可以戴假发之类的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-17T21:45:14.000Z",
+        "description": "07年的超大只mtf🍥🏳️‍⚧️｜持证含糖，hrt21.1.10-22.12/扭转⚠️/2023.7.15恢复｜半家长党｜双向+重抑|欢迎来找我贴贴｜现居山东｜不od不割手｜INFP｜暂不圆角｜政治立场不确定｜努力rle中｜🚪50，可加好友（QQ）｜清水推｜“我曾踏足山巅，也曾进入低谷，二者都使我受益良多”",
+        "id": "1791585754755350528",
+        "location": "未來由自己書寫",
+        "name": "🍥神楽坂·雨檬&梦雨🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1994881540015493629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984482845377904641/18i9NVgR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1183,
+          "following_count": 192,
+          "like_count": 5311,
+          "listed_count": 3,
+          "media_count": 98,
+          "tweet_count": 1368
+        },
+        "username": "RainLemon0715",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-06T10:38:38.000Z",
+        "description": "🚪10块钱，成都，欢迎面基一起玩，接纯绿线下陪玩😋。私聊不了就在我置顶下评论。想要互fo请私聊我哦。我只有85斤，我的目标是至少长胖到90斤😿😿。匿名问答😋：https://t.co/DZBWxF5NS0。反跨，特别是鲨臂mtf别TM来恶心我，死一边去",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/foooxwww",
+                "end": 102,
+                "expanded_url": "https://ngl.link/foooxwww",
+                "start": 79,
+                "url": "https://t.co/DZBWxF5NS0"
+              }
+            ]
+          }
+        },
+        "id": "1897597646162079744",
+        "location": "布吉岛",
+        "name": "🧀小狐狸🦊🎃🎃🎃",
+        "pinned_tweet_id": "1970307554015080759",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897914261416116224/2Vvi2Ate_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 367,
+          "following_count": 134,
+          "like_count": 2107,
+          "listed_count": 0,
+          "media_count": 136,
+          "tweet_count": 851
+        },
+        "username": "foooxwww",
+        "verified": false
+      }
+    ]
+  }
+}

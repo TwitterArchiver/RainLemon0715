@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1791585754755350528",
+    "conversation_id": "2003041615234166970",
+    "created_at": "2025-12-22T23:39:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-23T00:39:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003249015161520260"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1211879989995421696",
+          "start": 0,
+          "username": "medicagoo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003249015161520260",
+    "in_reply_to_user_id": "1211879989995421696",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003041615234166970",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@medicagoo 抱抱…感同身受"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2003041606736416768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8w7uo_aEAAchR2.jpg",
+        "width": 984
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1791585754755350528",
+        "conversation_id": "2003041615234166970",
+        "created_at": "2025-12-22T23:39:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T00:39:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003249015161520260"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1211879989995421696",
+              "start": 0,
+              "username": "medicagoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003249015161520260",
+        "in_reply_to_user_id": "1211879989995421696",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003041615234166970",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@medicagoo 抱抱…感同身受"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2003041606736416768"
+          ]
+        },
+        "author_id": "1211879989995421696",
+        "conversation_id": "2003041615234166970",
+        "created_at": "2025-12-22T09:55:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T10:55:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003041615234166970"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/A6PGMiwSXv",
+              "end": 47,
+              "expanded_url": "https://x.com/medicagoo/status/2003041615234166970/photo/1",
+              "media_key": "3_2003041606736416768",
+              "start": 24,
+              "url": "https://t.co/A6PGMiwSXv"
+            },
+            {
+              "display_url": "x.com/ilovek8s/statu…",
+              "end": 71,
+              "expanded_url": "https://twitter.com/ilovek8s/status/2003002853166829587",
+              "start": 48,
+              "url": "https://t.co/7oIAaPZS4P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003041615234166970",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 242,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003002853166829587",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我仍然是可以随时去死，对这个世界没有半点留恋。 https://t.co/A6PGMiwSXv https://t.co/7oIAaPZS4P"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-17T21:45:14.000Z",
+        "description": "07年的超大只mtf🍥🏳️‍⚧️｜持证含糖，hrt21.1.10-22.12/扭转⚠️/2023.7.15恢复｜半家长党…吗？｜双向+重抑|欢迎来找我贴贴｜现居山东｜不od不割手｜INFP｜暂不圆角｜政治立场不确定｜努力rle中｜🚪50，可加好友（QQ）｜清水推｜“我曾踏足山巅，也曾进入低谷，二者都使我受益良多”",
+        "id": "1791585754755350528",
+        "location": "未來由自己書寫",
+        "name": "🍥神楽坂·雨檬&梦雨🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1994881540015493629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998523715638931458/M5oGaoU7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1335,
+          "following_count": 199,
+          "like_count": 5967,
+          "listed_count": 3,
+          "media_count": 129,
+          "tweet_count": 1538
+        },
+        "username": "RainLemon0715",
+        "verified": false
+      },
+      {
+        "created_at": "2019-12-31T05:21:31.000Z",
+        "description": "OR Algorithm, BPD, 🏳️‍⚧️.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "medicago.top",
+                "end": 23,
+                "expanded_url": "https://medicago.top/",
+                "start": 0,
+                "url": "https://t.co/yXqadddKGh"
+              }
+            ]
+          }
+        },
+        "id": "1211879989995421696",
+        "name": "🍉沐雪小猪🌰",
+        "pinned_tweet_id": "1996172640135115218",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990723871683837952/qN5-3xFT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 325,
+          "like_count": 10280,
+          "listed_count": 3,
+          "media_count": 174,
+          "tweet_count": 4484
+        },
+        "url": "https://t.co/yXqadddKGh",
+        "username": "medicagoo",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1791585754755350528",
+    "conversation_id": "1978940115834802363",
+    "created_at": "2025-10-17T10:54:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-17T11:54:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979138895653515536"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1517042285283667968",
+          "start": 0,
+          "username": "HosiRen1999"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979138895653515536",
+    "in_reply_to_user_id": "1517042285283667968",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978940115834802363",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HosiRen1999 吃10粒补（狠狠雌爆）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1791585754755350528",
+        "conversation_id": "1978940115834802363",
+        "created_at": "2025-10-17T10:54:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T11:54:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979138895653515536"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1517042285283667968",
+              "start": 0,
+              "username": "HosiRen1999"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979138895653515536",
+        "in_reply_to_user_id": "1517042285283667968",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978940115834802363",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HosiRen1999 吃10粒补（狠狠雌爆）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1517042285283667968",
+        "conversation_id": "1978940115834802363",
+        "created_at": "2025-10-16T21:44:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T22:44:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978940115834802363"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Hyperglycemia2…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/Hyperglycemia26/status/1977370343325970913",
+              "start": 27,
+              "url": "https://t.co/lBPIYNBj0t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978940115834802363",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 644,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977370343325970913",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "指正：还有大半年才算10年老跨，只是在想该如何庆祝。 https://t.co/lBPIYNBj0t"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-17T21:45:14.000Z",
+        "description": "07年的超大只mtf🍥🏳️‍⚧️｜无证含糖，hrt2023.7.15｜深柜家暴党｜双向+重抑|欢迎来找我贴贴｜现居山东｜不od不割手｜INFP｜暂不圆角｜政治立场不确定｜努力rle中｜“我曾踏足山巅，也曾进入低谷，二者都使我受益良多”",
+        "id": "1791585754755350528",
+        "location": "雨檬の幻想乡",
+        "name": "🍥神楽坂·雨檬&梦雨🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1977294839168618951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976482299664642048/uRLRpVc5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 433,
+          "following_count": 138,
+          "like_count": 3215,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 755
+        },
+        "username": "RainLemon0715",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-21T07:27:32.000Z",
+        "description": "大龄天残MtF/HRT 2016.6/出生年月1999.9/猫系/钓鱼佬/不OD不割手手/陪这个笨蛋走完一生的人 @Hyperglycemia26\n/IT爱好者/推特不常在线\nQQ2796455571，欢迎同类、小男娘和友跨来找我聊天~欢迎同类互fo/Expecto Patronum",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 57,
+                "username": "Hyperglycemia26"
+              }
+            ]
+          }
+        },
+        "id": "1517042285283667968",
+        "location": "heart",
+        "name": "星野 星涟🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1822518161654067651",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844453671146487810/QuVd9lgD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 655,
+          "following_count": 515,
+          "like_count": 790,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 338
+        },
+        "username": "HosiRen1999",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1791585754755350528",
+    "conversation_id": "1996086809550578151",
+    "created_at": "2025-12-04T00:34:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-04T01:34:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996377592606392776"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1733856143683051520",
+          "start": 0,
+          "username": "sstgnb"
+        },
+        {
+          "end": 17,
+          "id": "1897597646162079744",
+          "start": 8,
+          "username": "foooxwww"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996377592606392776",
+    "in_reply_to_user_id": "1733856143683051520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996377149843152989",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sstgnb @foooxwww 懂了您也是💩"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1791585754755350528",
+        "conversation_id": "1996086809550578151",
+        "created_at": "2025-12-04T00:34:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T01:34:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996377592606392776"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1733856143683051520",
+              "start": 0,
+              "username": "sstgnb"
+            },
+            {
+              "end": 17,
+              "id": "1897597646162079744",
+              "start": 8,
+              "username": "foooxwww"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996377592606392776",
+        "in_reply_to_user_id": "1733856143683051520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996377149843152989",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sstgnb @foooxwww 懂了您也是💩"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1733856143683051520",
+        "conversation_id": "1996086809550578151",
+        "created_at": "2025-12-04T00:32:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T01:32:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996377149843152989"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1897597646162079744",
+              "start": 0,
+              "username": "foooxwww"
+            },
+            {
+              "end": 24,
+              "id": "1791585754755350528",
+              "start": 10,
+              "username": "RainLemon0715"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996377149843152989",
+        "in_reply_to_user_id": "1897597646162079744",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996147234963181661",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@foooxwww @RainLemon0715 不方便都是💩"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-17T21:45:14.000Z",
+        "description": "07年的超大只mtf🍥🏳️‍⚧️｜持证含糖，hrt21.1.10-22.12/扭转⚠️/2023.7.15恢复｜半家长党｜双向+重抑|欢迎来找我贴贴｜现居山东｜不od不割手｜INFP｜暂不圆角｜政治立场不确定｜努力rle中｜🚪50，可加好友（QQ）｜清水推｜“我曾踏足山巅，也曾进入低谷，二者都使我受益良多”",
+        "id": "1791585754755350528",
+        "location": "未來由自己書寫",
+        "name": "🍥神楽坂·雨檬&梦雨🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1994881540015493629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984482845377904641/18i9NVgR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1191,
+          "following_count": 192,
+          "like_count": 5325,
+          "listed_count": 3,
+          "media_count": 99,
+          "tweet_count": 1377
+        },
+        "username": "RainLemon0715",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-10T14:28:21.000Z",
+        "description": "24.5.5含糖｜大连｜🚪36",
+        "id": "1733856143683051520",
+        "location": "你的心里",
+        "name": "可爱的六六",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969739270933102592/zqQ43p91_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4128,
+          "following_count": 387,
+          "like_count": 8424,
+          "listed_count": 15,
+          "media_count": 871,
+          "tweet_count": 6607
+        },
+        "username": "sstgnb",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-06T10:38:38.000Z",
+        "description": "🚪10块钱，成都，欢迎面基一起玩，接纯绿线下陪玩😋。私聊不了就在我置顶下评论。想要互fo请私聊我哦。我只有85斤，我的目标是至少长胖到90斤😿😿。匿名问答😋：https://t.co/DZBWxF5NS0。反跨，特别是鲨臂mtf别TM来恶心我，死一边去，看到就恶心，鲨臂东西",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/foooxwww",
+                "end": 102,
+                "expanded_url": "https://ngl.link/foooxwww",
+                "start": 79,
+                "url": "https://t.co/DZBWxF5NS0"
+              }
+            ]
+          }
+        },
+        "id": "1897597646162079744",
+        "location": "布吉岛",
+        "name": "🧀小狐狸🦊🎃🎃🎃",
+        "pinned_tweet_id": "1970307554015080759",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897914261416116224/2Vvi2Ate_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 370,
+          "following_count": 137,
+          "like_count": 2137,
+          "listed_count": 0,
+          "media_count": 137,
+          "tweet_count": 864
+        },
+        "username": "foooxwww",
+        "verified": false
+      }
+    ]
+  }
+}

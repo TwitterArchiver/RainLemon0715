@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1791585754755350528",
+    "conversation_id": "1984875164350472297",
+    "created_at": "2025-11-02T07:19:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-02T08:19:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984883084039504123"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1735017872353808385",
+          "start": 0,
+          "username": "wawoqu2772"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984883084039504123",
+    "in_reply_to_user_id": "1735017872353808385",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984875164350472297",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wawoqu2772 涩雯雯\n（闪击到雯雯家）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1984875138400337922",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4uxbAvbQAI-j4G.jpg",
+        "width": 958
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1984875138421297152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4uxbA0bEAASHAT.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1984875138802987009",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4uxbCPbMAErvZu.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1984875138597474304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4uxbBebUAAk6m-.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1791585754755350528",
+        "conversation_id": "1984875164350472297",
+        "created_at": "2025-11-02T07:19:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T08:19:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984883084039504123"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1735017872353808385",
+              "start": 0,
+              "username": "wawoqu2772"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984883084039504123",
+        "in_reply_to_user_id": "1735017872353808385",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984875164350472297",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wawoqu2772 涩雯雯\n（闪击到雯雯家）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984875138400337922",
+            "3_1984875138421297152",
+            "3_1984875138802987009",
+            "3_1984875138597474304"
+          ]
+        },
+        "author_id": "1735017872353808385",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1984875164350472297",
+        "created_at": "2025-11-02T06:48:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T07:48:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984875164350472297"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1ontsMgTtB",
+              "end": 50,
+              "expanded_url": "https://x.com/wawoqu2772/status/1984875164350472297/photo/1",
+              "media_key": "3_1984875138400337922",
+              "start": 27,
+              "url": "https://t.co/1ontsMgTtB"
+            },
+            {
+              "display_url": "pic.x.com/1ontsMgTtB",
+              "end": 50,
+              "expanded_url": "https://x.com/wawoqu2772/status/1984875164350472297/photo/1",
+              "media_key": "3_1984875138421297152",
+              "start": 27,
+              "url": "https://t.co/1ontsMgTtB"
+            },
+            {
+              "display_url": "pic.x.com/1ontsMgTtB",
+              "end": 50,
+              "expanded_url": "https://x.com/wawoqu2772/status/1984875164350472297/photo/1",
+              "media_key": "3_1984875138802987009",
+              "start": 27,
+              "url": "https://t.co/1ontsMgTtB"
+            },
+            {
+              "display_url": "pic.x.com/1ontsMgTtB",
+              "end": 50,
+              "expanded_url": "https://x.com/wawoqu2772/status/1984875164350472297/photo/1",
+              "media_key": "3_1984875138597474304",
+              "start": 27,
+              "url": "https://t.co/1ontsMgTtB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984875164350472297",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 158,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "十分迟到的200fo庆贺！\n接下来还要继续努力口牙！ https://t.co/1ontsMgTtB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-17T21:45:14.000Z",
+        "description": "07年的超大只mtf🍥🏳️‍⚧️｜无证含糖，hrt2023.7.15｜深柜家暴党｜双向+重抑|欢迎来找我贴贴｜现居山东｜不od不割手｜INFP｜暂不圆角｜政治立场不确定｜努力rle中｜“我曾踏足山巅，也曾进入低谷，二者都使我受益良多”",
+        "id": "1791585754755350528",
+        "location": "雨檬の幻想乡",
+        "name": "🍥神楽坂·雨檬&梦雨🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1983521304704864425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984482845377904641/18i9NVgR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 768,
+          "following_count": 168,
+          "like_count": 4054,
+          "listed_count": 2,
+          "media_count": 67,
+          "tweet_count": 1068
+        },
+        "username": "RainLemon0715",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-13T19:24:40.000Z",
+        "description": "尹白雯//精神南极人，身份认同是企鹅//地科只学了一晚居然省一//情绪障碍//INF…P或J随缘//17岁小废物//2025.7.23纪念糖🏳️‍⚧️🍥//想要长发想要RLE//私信扩列找我玩🥺//有个对象@amecandy_x🥰",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 114,
+                "start": 103,
+                "username": "amecandy_x"
+              }
+            ]
+          }
+        },
+        "id": "1735017872353808385",
+        "location": "南极洲",
+        "name": "是白雯雯🏳️‍⚧️",
+        "pinned_tweet_id": "1983463812922790020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975016159910199296/uWHoG_7L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 221,
+          "following_count": 188,
+          "like_count": 2394,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 409
+        },
+        "username": "wawoqu2772",
+        "verified": false
+      }
+    ]
+  }
+}

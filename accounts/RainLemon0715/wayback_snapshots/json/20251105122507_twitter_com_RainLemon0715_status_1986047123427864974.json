@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1791585754755350528",
+    "conversation_id": "1985759310052532513",
+    "created_at": "2025-11-05T12:25:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-05T13:25:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986047123427864974"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1772535125517246464",
+          "start": 0,
+          "username": "WanN916_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986047123427864974",
+    "in_reply_to_user_id": "1772535125517246464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985759310052532513",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WanN916_ 中圈贴贴"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_1985759296748208132",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G47VjzQbQAQ-qYA.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1791585754755350528",
+        "conversation_id": "1985759310052532513",
+        "created_at": "2025-11-05T12:25:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T13:25:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986047123427864974"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1772535125517246464",
+              "start": 0,
+              "username": "WanN916_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986047123427864974",
+        "in_reply_to_user_id": "1772535125517246464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985759310052532513",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WanN916_ 中圈贴贴"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985759296748208132"
+          ]
+        },
+        "author_id": "1772535125517246464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "1985759310052532513",
+        "created_at": "2025-11-04T17:21:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T18:21:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985759310052532513"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infintytweet.me/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infintytweet.me/interaction-circle?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/1983694816342093824/KTRQKQiJ?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1983694816342093824/KTRQKQiJ?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infintytweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/zMj8QN46sg"
+            },
+            {
+              "display_url": "pic.x.com/CWqBUjWelQ",
+              "end": 64,
+              "expanded_url": "https://x.com/zai090106/status/1985759310052532513/photo/1",
+              "media_key": "3_1985759296748208132",
+              "start": 41,
+              "url": "https://t.co/CWqBUjWelQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985759310052532513",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 473,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/zMj8QN46sg https://t.co/CWqBUjWelQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-17T21:45:14.000Z",
+        "description": "07年的超大只mtf🍥🏳️‍⚧️｜无证含糖，hrt2023.7.15｜深柜家暴党｜双向+重抑|欢迎来找我贴贴｜现居山东｜不od不割手｜INFP｜暂不圆角｜政治立场不确定｜努力rle中｜“我曾踏足山巅，也曾进入低谷，二者都使我受益良多”",
+        "id": "1791585754755350528",
+        "location": "雨檬の幻想乡",
+        "name": "🍥神楽坂·雨檬&梦雨🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1983521304704864425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984482845377904641/18i9NVgR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 794,
+          "following_count": 168,
+          "like_count": 4218,
+          "listed_count": 2,
+          "media_count": 72,
+          "tweet_count": 1114
+        },
+        "username": "RainLemon0715",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-26T08:04:52.000Z",
+        "description": "也可以叫咱晚柠！｜09初中生｜无证含糖｜MtF｜喜欢xnn或者xyn｜家人不做评价｜已彻底炸柜｜家在陕西西安｜留学新加坡｜🍥：2025.7.10｜断糖断糖，我是传奇断糖神",
+        "id": "1772535125517246464",
+        "location": "亚海悬城",
+        "name": "月月饱饱咪🍥",
+        "pinned_tweet_id": "1962762706630385670",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982906565809127424/oAZ_YePX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 743,
+          "following_count": 424,
+          "like_count": 339,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 578
+        },
+        "username": "WanN916_",
+        "verified": false
+      }
+    ]
+  }
+}

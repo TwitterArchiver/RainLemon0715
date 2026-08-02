@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1791585754755350528",
+    "conversation_id": "2002063637624787130",
+    "created_at": "2025-12-20T14:26:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-20T15:26:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002385031138824345"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "4900103999",
+          "start": 0,
+          "username": "JenniferWardel2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002385031138824345",
+    "in_reply_to_user_id": "4900103999",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002381095766028516",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JenniferWardel2 w抱抱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1791585754755350528",
+        "conversation_id": "2002063637624787130",
+        "created_at": "2025-12-20T14:26:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T15:26:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002385031138824345"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "4900103999",
+              "start": 0,
+              "username": "JenniferWardel2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002385031138824345",
+        "in_reply_to_user_id": "4900103999",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002381095766028516",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JenniferWardel2 w抱抱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4900103999",
+        "conversation_id": "2002063637624787130",
+        "created_at": "2025-12-20T14:10:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T15:10:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002381095766028516"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1791585754755350528",
+              "start": 0,
+              "username": "RainLemon0715"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002381095766028516",
+        "in_reply_to_user_id": "1791585754755350528",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002063637624787130",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RainLemon0715 可rua抱抱！好心疼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-17T21:45:14.000Z",
+        "description": "07年的超大只mtf🍥🏳️‍⚧️｜持证含糖，hrt21.1.10-22.12/扭转⚠️/2023.7.15恢复｜半家长党…吗？｜双向+重抑|欢迎来找我贴贴｜现居山东｜不od不割手｜INFP｜暂不圆角｜政治立场不确定｜努力rle中｜🚪50，可加好友（QQ）｜清水推｜“我曾踏足山巅，也曾进入低谷，二者都使我受益良多”",
+        "id": "1791585754755350528",
+        "location": "未來由自己書寫",
+        "name": "🍥神楽坂·雨檬&梦雨🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1994881540015493629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998523715638931458/M5oGaoU7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1287,
+          "following_count": 200,
+          "like_count": 5769,
+          "listed_count": 3,
+          "media_count": 122,
+          "tweet_count": 1502
+        },
+        "username": "RainLemon0715",
+        "verified": false
+      },
+      {
+        "created_at": "2016-02-12T02:47:23.000Z",
+        "description": "https://t.co/WIg0SgwhTX 想学着撩人？AI角色扮演NSFW教你！虚拟练习场，AI温柔反馈，从入门到高手。隐私保护，乐在其中。来吧，变身魅力高手，现实中也自信满满。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "aisex.wang/?id=sdfb5434",
+                "end": 23,
+                "expanded_url": "https://aisex.wang/?id=sdfb5434",
+                "start": 0,
+                "url": "https://t.co/WIg0SgwhTX"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "aisex.wang/?id=sdfb5434",
+                "end": 23,
+                "expanded_url": "https://aisex.wang/?id=sdfb5434",
+                "start": 0,
+                "url": "https://t.co/WIg0SgwhTX"
+              }
+            ]
+          }
+        },
+        "id": "4900103999",
+        "name": "体验🔞AI小黄文",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993612410482298880/Jt3xGur3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 16,
+          "like_count": 13,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 64
+        },
+        "url": "https://t.co/WIg0SgwhTX",
+        "username": "JenniferWardel2",
+        "verified": false
+      }
+    ]
+  }
+}

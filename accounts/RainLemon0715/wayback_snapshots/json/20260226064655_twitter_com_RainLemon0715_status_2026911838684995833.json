@@ -1,0 +1,122 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1791585754755350528",
+    "conversation_id": "2026911838684995833",
+    "created_at": "2026-02-26T06:46:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T07:46:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2026911838684995833"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2026911838684995833",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "4.没有一个是人，都是畜生，连畜生都不如的东西，你那两个所谓的女性朋友其实都是人妖连狗都不是的东西；还说他这辈子接受不了然后又开始诉苦说我和你妈多不容易之类的话说他们是靠奋斗靠学习才换来的今天的成就，说当人妖没有一个有出息的，还说中国社会就是被西方洗脑了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1791585754755350528",
+        "conversation_id": "2026911838684995833",
+        "created_at": "2026-02-26T06:46:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T07:46:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026911838684995833"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2026911838684995833",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "4.没有一个是人，都是畜生，连畜生都不如的东西，你那两个所谓的女性朋友其实都是人妖连狗都不是的东西；还说他这辈子接受不了然后又开始诉苦说我和你妈多不容易之类的话说他们是靠奋斗靠学习才换来的今天的成就，说当人妖没有一个有出息的，还说中国社会就是被西方洗脑了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-17T21:45:14.000Z",
+        "description": "07🍥🏳️‍⚧️｜持证含糖，hrt21.1.10｜究极家暴党｜双向+重抑|欢迎来找我贴贴｜现居山东｜不od不割手｜INFP｜想当个女孩子｜暂不圆角｜无政治立场｜努力rle中｜最好的老婆@whalexxs｜好妹妹 @Huang_Yut1ng ｜“我曾踏足山巅，也曾进入低谷，二者都使我受益良多”",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 92,
+                "username": "whalexxs"
+              },
+              {
+                "end": 119,
+                "start": 106,
+                "username": "Huang_Yut1ng"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+iN5huf7JvPkxY…",
+                "end": 23,
+                "expanded_url": "https://t.me/+iN5huf7JvPkxYWE9",
+                "start": 0,
+                "url": "https://t.co/GweBgmAiDG"
+              }
+            ]
+          }
+        },
+        "id": "1791585754755350528",
+        "location": "明天",
+        "name": "🍥神楽坂·雨檬&梦雨🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2024894275725746424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018330545328152576/MiPIgQL4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3645,
+          "following_count": 316,
+          "like_count": 7876,
+          "listed_count": 6,
+          "media_count": 204,
+          "tweet_count": 2072
+        },
+        "url": "https://t.co/GweBgmAiDG",
+        "username": "RainLemon0715",
+        "verified": false
+      }
+    ]
+  }
+}

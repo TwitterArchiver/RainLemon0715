@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1791585754755350528",
+    "conversation_id": "1990342655730151529",
+    "created_at": "2025-11-18T06:26:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-18T07:26:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990667827678957590"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1875471329375440896",
+          "start": 0,
+          "username": "tbh2318"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990667827678957590",
+    "in_reply_to_user_id": "1875471329375440896",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990342655730151529",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tbh2318 蹲一蹲"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1990342640026656768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G58eFfgaIAANw8J.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1990342639443693568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G58eFdVa0AAcGMX.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1791585754755350528",
+        "conversation_id": "1990342655730151529",
+        "created_at": "2025-11-18T06:26:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T07:26:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990667827678957590"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1875471329375440896",
+              "start": 0,
+              "username": "tbh2318"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990667827678957590",
+        "in_reply_to_user_id": "1875471329375440896",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990342655730151529",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tbh2318 蹲一蹲"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990342640026656768",
+            "3_1990342639443693568"
+          ]
+        },
+        "author_id": "1875471329375440896",
+        "conversation_id": "1990342655730151529",
+        "created_at": "2025-11-17T08:54:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T09:54:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990342655730151529"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 120,
+              "start": 114,
+              "tag": "艾斯妥凝胶"
+            },
+            {
+              "end": 125,
+              "start": 121,
+              "tag": "诺坤复"
+            },
+            {
+              "end": 129,
+              "start": 126,
+              "tag": "泰补"
+            },
+            {
+              "end": 133,
+              "start": 130,
+              "tag": "鲨鲨"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pMcuCMxclK",
+              "end": 157,
+              "expanded_url": "https://x.com/tbh2318/status/1990342655730151529/photo/1",
+              "media_key": "3_1990342640026656768",
+              "start": 134,
+              "url": "https://t.co/pMcuCMxclK"
+            },
+            {
+              "display_url": "pic.x.com/pMcuCMxclK",
+              "end": 157,
+              "expanded_url": "https://x.com/tbh2318/status/1990342655730151529/photo/1",
+              "media_key": "3_1990342639443693568",
+              "start": 134,
+              "url": "https://t.co/pMcuCMxclK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990342655730151529",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1503,
+          "like_count": 18,
+          "quote_count": 2,
+          "reply_count": 11,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "做个抽奖活动，点赞评论转发参加，抽5盒有效期两个半月的泰补，5个鲨鲨抱枕，下午七点前当天发出，都有现货，下单私信或tg（泰补一年有效期220,临期两个半月有效期150）,（诺坤复一年有效期80）,（艾斯妥凝胶一年有效期120）\n#艾斯妥凝胶 #诺坤复 #泰补 #鲨鲨 https://t.co/pMcuCMxclK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-17T21:45:14.000Z",
+        "description": "07年的超大只mtf🍥🏳️‍⚧️｜无证含糖，hrt2023.7.15｜预备役家长党｜双向+重抑|欢迎来找我贴贴｜现居山东｜不od不割手｜INFP｜暂不圆角｜政治立场不确定｜努力rle中｜“我曾踏足山巅，也曾进入低谷，二者都使我受益良多”",
+        "id": "1791585754755350528",
+        "location": "雨檬の幻想乡",
+        "name": "🍥神楽坂·雨檬&梦雨🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1983521304704864425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984482845377904641/18i9NVgR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1003,
+          "following_count": 183,
+          "like_count": 4727,
+          "listed_count": 2,
+          "media_count": 82,
+          "tweet_count": 1228
+        },
+        "username": "RainLemon0715",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-04T09:17:37.000Z",
+        "description": "97年大龄mtf，长居🇹🇭，售卖正规进口药品，每天19:00前可当天发出,全球可发，@tbh2318，@tbh2319",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "tbh2318"
+              },
+              {
+                "end": 59,
+                "start": 51,
+                "username": "tbh2319"
+              }
+            ]
+          }
+        },
+        "id": "1875471329375440896",
+        "name": "乇乇 momo 糖商 已转生 泰补，艾斯妥凝胶，诺坤复🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1984553790981488829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973446999782596613/lAS5HqCx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 653,
+          "following_count": 1307,
+          "like_count": 35,
+          "listed_count": 3,
+          "media_count": 19,
+          "tweet_count": 68
+        },
+        "username": "tbh2318",
+        "verified": true
+      }
+    ]
+  }
+}

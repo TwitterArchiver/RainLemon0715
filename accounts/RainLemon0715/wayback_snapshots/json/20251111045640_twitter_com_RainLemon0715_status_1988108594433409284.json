@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1791585754755350528",
+    "conversation_id": "1987741494351188449",
+    "created_at": "2025-11-11T04:56:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-11T05:56:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988108594433409284"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1707045259468025856",
+          "start": 0,
+          "username": "a1206151770"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988108594433409284",
+    "in_reply_to_user_id": "1707045259468025856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988101174877450617",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@a1206151770 谢谢～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1791585754755350528",
+        "conversation_id": "1987741494351188449",
+        "created_at": "2025-11-11T04:56:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T05:56:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988108594433409284"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1707045259468025856",
+              "start": 0,
+              "username": "a1206151770"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988108594433409284",
+        "in_reply_to_user_id": "1707045259468025856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988101174877450617",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@a1206151770 谢谢～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707045259468025856",
+        "conversation_id": "1987741494351188449",
+        "created_at": "2025-11-11T04:27:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T05:27:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988101174877450617"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1791585754755350528",
+              "start": 0,
+              "username": "RainLemon0715"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988101174877450617",
+        "in_reply_to_user_id": "1791585754755350528",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987741494351188449",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RainLemon0715 好的小公主"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-17T21:45:14.000Z",
+        "description": "07年的超大只mtf🍥🏳️‍⚧️｜无证含糖，hrt2023.7.15｜深柜家暴党｜双向+重抑|欢迎来找我贴贴｜现居山东｜不od不割手｜INFP｜暂不圆角｜政治立场不确定｜努力rle中｜“我曾踏足山巅，也曾进入低谷，二者都使我受益良多”",
+        "id": "1791585754755350528",
+        "location": "雨檬の幻想乡",
+        "name": "🍥神楽坂·雨檬&梦雨🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1983521304704864425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984482845377904641/18i9NVgR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 874,
+          "following_count": 174,
+          "like_count": 4373,
+          "listed_count": 2,
+          "media_count": 73,
+          "tweet_count": 1151
+        },
+        "username": "RainLemon0715",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-27T14:51:28.000Z",
+        "description": "喜欢涩涩和故事，无论是悲伤还是高兴的，如果你想说我会是一个合格的听众。如果悲伤不知怎么发泄可以来找我倾诉。",
+        "id": "1707045259468025856",
+        "name": "涩涩大魔王",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1760122917772500992/HBSCl6SL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 225,
+          "like_count": 764,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 288
+        },
+        "username": "a1206151770",
+        "verified": false
+      }
+    ]
+  }
+}

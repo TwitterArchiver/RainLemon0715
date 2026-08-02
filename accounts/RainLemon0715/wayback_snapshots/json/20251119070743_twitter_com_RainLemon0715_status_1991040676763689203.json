@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1791585754755350528",
+    "conversation_id": "1990426048434143232",
+    "created_at": "2025-11-19T07:07:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-19T08:07:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991040676763689203"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "3301687694",
+          "start": 0,
+          "username": "Shirlene_girl"
+        },
+        {
+          "end": 27,
+          "id": "1736265610911428608",
+          "start": 15,
+          "username": "noname2095_"
+        },
+        {
+          "end": 41,
+          "id": "1424779836938022913",
+          "start": 28,
+          "username": "amber_toffee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991040676763689203",
+    "in_reply_to_user_id": "3301687694",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990706577528266802",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shirlene_girl @noname2095_ @amber_toffee 是盆栽欸\n我还买过来着"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1791585754755350528",
+        "conversation_id": "1990426048434143232",
+        "created_at": "2025-11-19T07:07:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T08:07:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991040676763689203"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "3301687694",
+              "start": 0,
+              "username": "Shirlene_girl"
+            },
+            {
+              "end": 27,
+              "id": "1736265610911428608",
+              "start": 15,
+              "username": "noname2095_"
+            },
+            {
+              "end": 41,
+              "id": "1424779836938022913",
+              "start": 28,
+              "username": "amber_toffee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991040676763689203",
+        "in_reply_to_user_id": "3301687694",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990706577528266802",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shirlene_girl @noname2095_ @amber_toffee 是盆栽欸\n我还买过来着"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3301687694",
+        "conversation_id": "1990426048434143232",
+        "created_at": "2025-11-18T09:00:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T10:00:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990706577528266802"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1736265610911428608",
+              "start": 0,
+              "username": "noname2095_"
+            },
+            {
+              "end": 26,
+              "id": "1424779836938022913",
+              "start": 13,
+              "username": "amber_toffee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990706577528266802",
+        "in_reply_to_user_id": "1736265610911428608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 260,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990426048434143232",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@noname2095_ @amber_toffee 还有秋明源呢？很早之前说被抓了，当时淘宝店铺就是字帖盆栽的，那个时候池田日雌还没停产"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-17T21:45:14.000Z",
+        "description": "07年的超大只mtf🍥🏳️‍⚧️｜无证含糖，hrt2023.7.15｜预备役家长党｜双向+重抑|欢迎来找我贴贴｜现居山东｜不od不割手｜INFP｜暂不圆角｜政治立场不确定｜努力rle中｜“我曾踏足山巅，也曾进入低谷，二者都使我受益良多”",
+        "id": "1791585754755350528",
+        "location": "雨檬の幻想乡",
+        "name": "🍥神楽坂·雨檬&梦雨🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1983521304704864425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984482845377904641/18i9NVgR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1028,
+          "following_count": 185,
+          "like_count": 4788,
+          "listed_count": 2,
+          "media_count": 83,
+          "tweet_count": 1235
+        },
+        "username": "RainLemon0715",
+        "verified": false
+      },
+      {
+        "created_at": "2015-07-30T16:04:36.000Z",
+        "description": "mtftx/INFJ-T/养兔🐇/妹妹@EleanorAnatidae",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 19,
+                "username": "EleanorAnatidae"
+              }
+            ]
+          }
+        },
+        "id": "3301687694",
+        "location": "👰🏻‍♀️",
+        "name": "雪玲🐰🏳️‍⚧️",
+        "pinned_tweet_id": "1921757539684823388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981795569040322560/12ws3iSV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4035,
+          "following_count": 1710,
+          "like_count": 26190,
+          "listed_count": 13,
+          "media_count": 308,
+          "tweet_count": 4581
+        },
+        "username": "Shirlene_girl",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-17T06:03:03.000Z",
+        "description": "🧡🤍🩷🏳️‍⚧️\n我很穷啥也不会请给我钱\n那你能帮帮我吗\n我是跨女给我往包裹里倒塞两盒日雌\nhttps://t.co/5wRZ4IDVG0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "noname2095.bsky.social",
+                "end": 69,
+                "expanded_url": "http://noname2095.bsky.social",
+                "start": 46,
+                "url": "https://t.co/5wRZ4IDVG0"
+              }
+            ]
+          }
+        },
+        "id": "1736265610911428608",
+        "location": "南极洲",
+        "name": "noname",
+        "pinned_tweet_id": "1772656363941908692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945223550417186816/HdhCpSMc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1721,
+          "following_count": 289,
+          "like_count": 3576,
+          "listed_count": 4,
+          "media_count": 251,
+          "tweet_count": 8080
+        },
+        "username": "noname2095_",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-09T17:09:33.000Z",
+        "description": "❤︎ @noaayoyaoaya / ☭ / ᴍᴛꜰ / ɪɴᴛᴘ / ᴘʜᴅ @wgsi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 3,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 45,
+                "start": 40,
+                "username": "wgsi"
+              }
+            ]
+          }
+        },
+        "id": "1424779836938022913",
+        "location": "ʜɪᴄ ʀʜᴏᴅᴜꜱ, ʜɪᴄ ꜱᴀʟᴛᴀ",
+        "name": "amber ଳ⋆.ೃ࿔*･",
+        "pinned_tweet_id": "1989417649600954728",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897152328362233856/uJFVlByt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19233,
+          "following_count": 2408,
+          "like_count": 34519,
+          "listed_count": 59,
+          "media_count": 837,
+          "tweet_count": 17896
+        },
+        "username": "amber_toffee",
+        "verified": true
+      }
+    ]
+  }
+}

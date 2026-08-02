@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1791585754755350528",
+    "conversation_id": "2022861320970817798",
+    "created_at": "2026-02-15T02:31:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T03:31:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022861320970817798"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1992038421318205440",
+          "start": 3,
+          "username": "tingxinzhongyu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022861320970817798",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022836576859148602",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tingxinzhongyu: 一睁眼我妈举着一个蓝白粉手环\n“我终于知道你在担心什么了 我支持 我们找医生去”\n于是她带着我找了应该是本地最权威的医生，还因为为什么不能给我开证跟医生battle😭我原来也是家长党吗？\n转念一想，我这不在山东吗？怎么在家了？\n于是只能看…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1791585754755350528",
+        "conversation_id": "2022861320970817798",
+        "created_at": "2026-02-15T02:31:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T03:31:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022861320970817798"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1992038421318205440",
+              "start": 3,
+              "username": "tingxinzhongyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022861320970817798",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022836576859148602",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tingxinzhongyu: 一睁眼我妈举着一个蓝白粉手环\n“我终于知道你在担心什么了 我支持 我们找医生去”\n于是她带着我找了应该是本地最权威的医生，还因为为什么不能给我开证跟医生battle😭我原来也是家长党吗？\n转念一想，我这不在山东吗？怎么在家了？\n于是只能看…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992038421318205440",
+        "conversation_id": "2022836576859148602",
+        "created_at": "2026-02-15T00:53:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T01:53:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022836576859148602"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2022836576859148602",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 854,
+          "like_count": 37,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "一睁眼我妈举着一个蓝白粉手环\n“我终于知道你在担心什么了 我支持 我们找医生去”\n于是她带着我找了应该是本地最权威的医生，还因为为什么不能给我开证跟医生battle😭我原来也是家长党吗？\n转念一想，我这不在山东吗？怎么在家了？\n于是只能看着开好的证，理解我的父母，在我眼前消失…天亮了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-17T21:45:14.000Z",
+        "description": "07🍥🏳️‍⚧️｜持证含糖，hrt21.1.10｜半家长党…吗？｜双向+重抑|欢迎来找我贴贴｜现居山东｜不od不割手｜INFP｜想当个女孩子｜暂不圆角｜无政治立场｜努力rle中｜好妹妹 @Huang_Yut1ng ｜“我曾踏足山巅，也曾进入低谷，二者都使我受益良多”https://t.co/dZ34K4NAXF",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "Huang_Yut1ng"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/yumeng1314520",
+                "end": 156,
+                "expanded_url": "http://t.me/yumeng1314520",
+                "start": 133,
+                "url": "https://t.co/dZ34K4NAXF"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+iN5huf7JvPkxY…",
+                "end": 23,
+                "expanded_url": "https://t.me/+iN5huf7JvPkxYWE9",
+                "start": 0,
+                "url": "https://t.co/GweBgmAiDG"
+              }
+            ]
+          }
+        },
+        "id": "1791585754755350528",
+        "location": "明天",
+        "name": "🍥神楽坂·雨檬&梦雨🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2020497923587674452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018330545328152576/MiPIgQL4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3531,
+          "following_count": 311,
+          "like_count": 7831,
+          "listed_count": 4,
+          "media_count": 196,
+          "tweet_count": 2044
+        },
+        "url": "https://t.co/GweBgmAiDG",
+        "username": "RainLemon0715",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "02 176 65kg//mtf hrt 2025.11.21🍥//我想要很多很多的爱 欢迎聊天互fo 永远的可爱姐姐@jikeOjk7623",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 59,
+                "username": "jikeOjk7623"
+              }
+            ]
+          }
+        },
+        "id": "1992038421318205440",
+        "name": "听羽 🏳️‍⚧️",
+        "pinned_tweet_id": "2018898357348155536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992039552731725825/3Uy_y4UJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 280,
+          "following_count": 348,
+          "like_count": 2406,
+          "listed_count": 1,
+          "media_count": 58,
+          "tweet_count": 1222
+        },
+        "username": "tingxinzhongyu",
+        "verified": false
+      }
+    ]
+  }
+}

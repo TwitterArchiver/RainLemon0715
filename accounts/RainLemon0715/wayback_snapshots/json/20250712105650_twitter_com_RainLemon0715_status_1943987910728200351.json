@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1791585754755350528",
+    "conversation_id": "1943985013130756501",
+    "created_at": "2025-07-12T10:56:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-12T11:56:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943987910728200351"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1863379963019407360",
+          "start": 0,
+          "username": "DeadHtxxx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943987910728200351",
+    "in_reply_to_user_id": "1863379963019407360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943985013130756501",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DeadHtxxx 是是是，姐姐是很猛的雄性（雌性）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1791585754755350528",
+        "conversation_id": "1943985013130756501",
+        "created_at": "2025-07-12T10:56:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-12T11:56:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943987910728200351"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1863379963019407360",
+              "start": 0,
+              "username": "DeadHtxxx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943987910728200351",
+        "in_reply_to_user_id": "1863379963019407360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943985013130756501",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DeadHtxxx 是是是，姐姐是很猛的雄性（雌性）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1863379963019407360",
+        "conversation_id": "1943985013130756501",
+        "created_at": "2025-07-12T10:45:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-12T11:45:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943985013130756501"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1943985013130756501",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我这种猛男居然也用上卫生巾了 真是羞耻啊😡😡😡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-17T21:45:14.000Z",
+        "description": "07年的超大只mtf🍥🏳️‍⚧️｜无证含糖，hrt2023.7.15｜深柜家暴党｜双向+重抑|欢迎来找我贴贴｜现居山东｜不od不割手｜INFP｜“我曾踏足山巅，也曾进入低谷，二者都使我受益良多”",
+        "id": "1791585754755350528",
+        "location": "雨檬の幻想乡",
+        "name": "🍥神楽坂·雨檬&梦雨🏳️‍⚧️🍥（苦逼打工版）",
+        "pinned_tweet_id": "1942600680453157022",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906911119580823552/VQjZGMza_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 316,
+          "following_count": 126,
+          "like_count": 2387,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 505
+        },
+        "username": "RainLemon0715",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-02T00:32:33.000Z",
+        "description": "05女大，我是大猛t谢谢，名义上有对象实际上已经被晾着好久了，纯纯的被冷暴力🥹🥹，爱好睡觉💤，如果我在床上，我大概会兽性大发和猫一样睡上一整天😻 #les #trans #wlw 欢迎来tg群玩https://t.co/6Azjo0ESsB",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 77,
+                "start": 73,
+                "tag": "les"
+              },
+              {
+                "end": 84,
+                "start": 78,
+                "tag": "trans"
+              },
+              {
+                "end": 89,
+                "start": 85,
+                "tag": "wlw"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+nERDpDPxHLljM…",
+                "end": 120,
+                "expanded_url": "https://t.me/+nERDpDPxHLljMjM1",
+                "start": 97,
+                "url": "https://t.co/6Azjo0ESsB"
+              }
+            ]
+          }
+        },
+        "id": "1863379963019407360",
+        "location": "东湾路15号院（叛逃布林窩",
+        "name": "___HTxxx___",
+        "pinned_tweet_id": "1871370035744370984",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863664465528623105/YdCr9Waf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 604,
+          "following_count": 146,
+          "like_count": 1979,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 622
+        },
+        "username": "DeadHtxxx",
+        "verified": false
+      }
+    ]
+  }
+}

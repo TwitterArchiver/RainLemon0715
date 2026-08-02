@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2001241137181605889",
+        "3_2001241136548208641"
+      ]
+    },
+    "author_id": "1791585754755350528",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2001241140226674796",
+    "created_at": "2025-12-17T10:40:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-17T11:40:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2001241140226674796"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/xsDbuqWiZo",
+          "end": 31,
+          "expanded_url": "https://x.com/RainLemon0715/status/2001241140226674796/photo/1",
+          "media_key": "3_2001241137181605889",
+          "start": 8,
+          "url": "https://t.co/xsDbuqWiZo"
+        },
+        {
+          "display_url": "pic.x.com/xsDbuqWiZo",
+          "end": 31,
+          "expanded_url": "https://x.com/RainLemon0715/status/2001241140226674796/photo/1",
+          "media_key": "3_2001241136548208641",
+          "start": 8,
+          "url": "https://t.co/xsDbuqWiZo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001241140226674796",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今日份小厨娘～ https://t.co/xsDbuqWiZo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2275,
+        "media_key": "3_2001241137181605889",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8XWNhObwAEORw0.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2275,
+        "media_key": "3_2001241136548208641",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8XWNe3a4AE8idP.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2001241137181605889",
+            "3_2001241136548208641"
+          ]
+        },
+        "author_id": "1791585754755350528",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2001241140226674796",
+        "created_at": "2025-12-17T10:40:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T11:40:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001241140226674796"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xsDbuqWiZo",
+              "end": 31,
+              "expanded_url": "https://x.com/RainLemon0715/status/2001241140226674796/photo/1",
+              "media_key": "3_2001241137181605889",
+              "start": 8,
+              "url": "https://t.co/xsDbuqWiZo"
+            },
+            {
+              "display_url": "pic.x.com/xsDbuqWiZo",
+              "end": 31,
+              "expanded_url": "https://x.com/RainLemon0715/status/2001241140226674796/photo/1",
+              "media_key": "3_2001241136548208641",
+              "start": 8,
+              "url": "https://t.co/xsDbuqWiZo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001241140226674796",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今日份小厨娘～ https://t.co/xsDbuqWiZo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-17T21:45:14.000Z",
+        "description": "07年的超大只mtf🍥🏳️‍⚧️｜持证含糖，hrt21.1.10-22.12/扭转⚠️/2023.7.15恢复｜半家长党…吗？｜双向+重抑|欢迎来找我贴贴｜现居山东｜不od不割手｜INFP｜暂不圆角｜政治立场不确定｜努力rle中｜🚪50，可加好友（QQ）｜清水推｜“我曾踏足山巅，也曾进入低谷，二者都使我受益良多”",
+        "id": "1791585754755350528",
+        "location": "未來由自己書寫",
+        "name": "🍥神楽坂·雨檬&梦雨🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1994881540015493629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998523715638931458/M5oGaoU7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1227,
+          "following_count": 190,
+          "like_count": 5618,
+          "listed_count": 3,
+          "media_count": 115,
+          "tweet_count": 1461
+        },
+        "username": "RainLemon0715",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1791585754755350528",
+    "conversation_id": "2011754805069562059",
+    "created_at": "2026-01-16T22:47:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-16T23:47:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012295614768259555"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1971433895863386117",
+          "start": 0,
+          "username": "Aki1991aki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012295614768259555",
+    "in_reply_to_user_id": "1971433895863386117",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012295200417161663",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aki1991aki 抱抱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 498,
+        "media_key": "16_2012295193060589570",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/G-0b0QWaQAIU-Nd.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/G-0b0QWaQAIU-Nd.mp4"
+          }
+        ],
+        "width": 498
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1791585754755350528",
+        "conversation_id": "2011754805069562059",
+        "created_at": "2026-01-16T22:47:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T23:47:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012295614768259555"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1971433895863386117",
+              "start": 0,
+              "username": "Aki1991aki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012295614768259555",
+        "in_reply_to_user_id": "1971433895863386117",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012295200417161663",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aki1991aki 抱抱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2012295193060589570"
+          ]
+        },
+        "author_id": "1971433895863386117",
+        "conversation_id": "2011754805069562059",
+        "created_at": "2026-01-16T22:45:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T23:45:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012295200417161663"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1791585754755350528",
+              "start": 0,
+              "username": "RainLemon0715"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7nSlPKgKra",
+              "end": 38,
+              "expanded_url": "https://x.com/Aki1991aki/status/2012295200417161663/photo/1",
+              "media_key": "16_2012295193060589570",
+              "start": 15,
+              "url": "https://t.co/7nSlPKgKra"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012295200417161663",
+        "in_reply_to_user_id": "1791585754755350528",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011754805069562059",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RainLemon0715 https://t.co/7nSlPKgKra"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-17T21:45:14.000Z",
+        "description": "07年的超大只mtf🍥🏳️‍⚧️｜持证含糖，hrt21.1.10-22.12/扭转⚠️/2023.7.15恢复｜半家长党…吗？｜双向+重抑|欢迎来找我贴贴｜现居山东｜不od不割手｜INFP｜暂不圆角｜无政治立场｜努力rle中｜🚪50，可加好友（QQ）｜清水推｜“我曾踏足山巅，也曾进入低谷，二者都使我受益良多”",
+        "id": "1791585754755350528",
+        "location": "未來由自己書寫",
+        "name": "🍥神楽坂·雨檬&梦雨🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2010535213299048582",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998523715638931458/M5oGaoU7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2288,
+          "following_count": 281,
+          "like_count": 7209,
+          "listed_count": 4,
+          "media_count": 164,
+          "tweet_count": 1831
+        },
+        "username": "RainLemon0715",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-26T04:37:51.000Z",
+        "description": "AMAB\n\n反差別とは距離を置く、台湾もパレスチナもウクライナ関係はミュート\n\n早く死にたい人",
+        "id": "1971433895863386117",
+        "location": "石の川の県",
+        "name": "あき🏳️‍🌈🏳️‍⚧️",
+        "pinned_tweet_id": "1999955226158350717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001615215021203456/2kKIt4Ww_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 119,
+          "like_count": 4007,
+          "listed_count": 10,
+          "media_count": 112,
+          "tweet_count": 5063
+        },
+        "username": "Aki1991aki",
+        "verified": false
+      }
+    ]
+  }
+}

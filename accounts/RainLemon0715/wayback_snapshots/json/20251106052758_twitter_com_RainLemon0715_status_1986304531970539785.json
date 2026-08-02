@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1791585754755350528",
+    "conversation_id": "1986304531970539785",
+    "created_at": "2025-11-06T05:27:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-06T06:27:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1986304531970539785"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1964621451048484864",
+          "start": 3,
+          "username": "hasuhasu114514"
+        },
+        {
+          "end": 31,
+          "id": "1598222875403505664",
+          "start": 22,
+          "username": "DXDMW123"
+        },
+        {
+          "end": 50,
+          "id": "1620696016549822469",
+          "start": 36,
+          "username": "lybng34420753"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986304531970539785",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "一等奖@hasuhasu114514\n二等奖@DXDMW123\n三等奖：@lybng34420753"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1791585754755350528",
+        "conversation_id": "1986304531970539785",
+        "created_at": "2025-11-06T05:27:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T06:27:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986304531970539785"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1964621451048484864",
+              "start": 3,
+              "username": "hasuhasu114514"
+            },
+            {
+              "end": 31,
+              "id": "1598222875403505664",
+              "start": 22,
+              "username": "DXDMW123"
+            },
+            {
+              "end": 50,
+              "id": "1620696016549822469",
+              "start": 36,
+              "username": "lybng34420753"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986304531970539785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一等奖@hasuhasu114514\n二等奖@DXDMW123\n三等奖：@lybng34420753"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-17T21:45:14.000Z",
+        "description": "07年的超大只mtf🍥🏳️‍⚧️｜无证含糖，hrt2023.7.15｜深柜家暴党｜双向+重抑|欢迎来找我贴贴｜现居山东｜不od不割手｜INFP｜暂不圆角｜政治立场不确定｜努力rle中｜“我曾踏足山巅，也曾进入低谷，二者都使我受益良多”",
+        "id": "1791585754755350528",
+        "location": "雨檬の幻想乡",
+        "name": "🍥神楽坂·雨檬&梦雨🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1983521304704864425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984482845377904641/18i9NVgR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 807,
+          "following_count": 169,
+          "like_count": 4233,
+          "listed_count": 2,
+          "media_count": 70,
+          "tweet_count": 1113
+        },
+        "username": "RainLemon0715",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-07T09:27:17.000Z",
+        "description": "丨06MTF丨月计人丨喜欢二次元涩涩（）丨身体原因断糖丨170-42丨",
+        "id": "1964621451048484864",
+        "name": "吸穴蓮🇨🇳🇯🇵🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964656312350072832/dj4u1zlx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 245,
+          "like_count": 1089,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 443
+        },
+        "username": "hasuhasu114514",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-01T07:50:14.000Z",
+        "description": "嗷呜～",
+        "id": "1598222875403505664",
+        "name": "掉线大魔王沈墨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1598223078722441217/oxRK7fAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 663,
+          "like_count": 221,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 195
+        },
+        "username": "DXDMW123",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-01T08:10:38.000Z",
+        "description": "𝔼𝕟𝕛𝕠𝕪 𝕋𝕠𝕕𝕒𝕪\n今日無事，唯有開心🍑",
+        "id": "1620696016549822469",
+        "name": "梨子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1620700349991456770/AOLuU2Pb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 152,
+          "like_count": 121,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 38
+        },
+        "username": "lybng34420753",
+        "verified": false
+      }
+    ]
+  }
+}

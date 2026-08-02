@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1791585754755350528",
+    "conversation_id": "1943893703581741357",
+    "created_at": "2025-07-13T14:02:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-13T15:02:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944396983608983681"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 14,
+          "normalized_text": "恭喜重",
+          "probability": 0.9656,
+          "start": 12,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "873489613934927872",
+          "start": 0,
+          "username": "taro_puree"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944396983608983681",
+    "in_reply_to_user_id": "873489613934927872",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943893703581741357",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@taro_puree 恭喜重生🎉"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1943893693552787456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvoZA91WAAAETIi.jpg",
+        "width": 1153
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1943893699559055360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvoZBUNWYAAVMCe.jpg",
+        "width": 1507
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1791585754755350528",
+        "conversation_id": "1943893703581741357",
+        "created_at": "2025-07-13T14:02:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-13T15:02:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944396983608983681"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 14,
+              "normalized_text": "恭喜重",
+              "probability": 0.9656,
+              "start": 12,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "873489613934927872",
+              "start": 0,
+              "username": "taro_puree"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944396983608983681",
+        "in_reply_to_user_id": "873489613934927872",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943893703581741357",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@taro_puree 恭喜重生🎉"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1943893693552787456",
+            "3_1943893699559055360"
+          ]
+        },
+        "author_id": "873489613934927872",
+        "conversation_id": "1943893703581741357",
+        "created_at": "2025-07-12T04:42:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-12T05:42:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943893703581741357"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZSB7kw8Zf1",
+              "end": 28,
+              "expanded_url": "https://x.com/taro_puree/status/1943893703581741357/photo/1",
+              "media_key": "3_1943893693552787456",
+              "start": 5,
+              "url": "https://t.co/ZSB7kw8Zf1"
+            },
+            {
+              "display_url": "pic.x.com/ZSB7kw8Zf1",
+              "end": 28,
+              "expanded_url": "https://x.com/taro_puree/status/1943893703581741357/photo/1",
+              "media_key": "3_1943893699559055360",
+              "start": 5,
+              "url": "https://t.co/ZSB7kw8Zf1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943893703581741357",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 44,
+          "impression_count": 80782,
+          "like_count": 607,
+          "quote_count": 0,
+          "reply_count": 53,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "爱大家！ https://t.co/ZSB7kw8Zf1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-17T21:45:14.000Z",
+        "description": "07年的超大只mtf🍥🏳️‍⚧️｜无证含糖，hrt2023.7.15｜深柜家暴党｜双向+重抑|欢迎来找我贴贴｜现居山东｜不od不割手｜INFP｜“我曾踏足山巅，也曾进入低谷，二者都使我受益良多”",
+        "id": "1791585754755350528",
+        "location": "雨檬の幻想乡",
+        "name": "🍥神楽坂·雨檬&梦雨🏳️‍⚧️🍥（苦逼打工版）",
+        "pinned_tweet_id": "1927644848741634415",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906911119580823552/VQjZGMza_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 315,
+          "following_count": 125,
+          "like_count": 2410,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 513
+        },
+        "username": "RainLemon0715",
+        "verified": false
+      },
+      {
+        "created_at": "2017-06-10T10:38:47.000Z",
+        "description": "(she/her) /本体是4i女/深柜潜在家暴党/专业自我扭转10余年成为精神ftm（不是）/梦想是早日经济和心理独立/社工专业濒临退学中/个人音乐工作室营业中🥺",
+        "id": "873489613934927872",
+        "name": "果泥泥",
+        "pinned_tweet_id": "1734496818707472726",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1787304549323288576/A8oJBe68_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 719,
+          "following_count": 241,
+          "like_count": 18596,
+          "listed_count": 2,
+          "media_count": 245,
+          "tweet_count": 2793
+        },
+        "username": "taro_puree",
+        "verified": false
+      }
+    ]
+  }
+}

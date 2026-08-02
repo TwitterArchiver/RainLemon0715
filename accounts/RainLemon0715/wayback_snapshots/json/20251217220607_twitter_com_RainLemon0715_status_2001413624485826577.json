@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1791585754755350528",
+    "conversation_id": "2001140478084001950",
+    "created_at": "2025-12-17T22:06:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-17T23:06:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001413624485826577"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1944397601354465280",
+          "start": 0,
+          "username": "AzusaBA0713"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001413624485826577",
+    "in_reply_to_user_id": "1944397601354465280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001140478084001950",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AzusaBA0713 抱抱妹妹～\n早日康复～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1791585754755350528",
+        "conversation_id": "2001140478084001950",
+        "created_at": "2025-12-17T22:06:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T23:06:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001413624485826577"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1944397601354465280",
+              "start": 0,
+              "username": "AzusaBA0713"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001413624485826577",
+        "in_reply_to_user_id": "1944397601354465280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001140478084001950",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AzusaBA0713 抱抱妹妹～\n早日康复～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1944397601354465280",
+        "conversation_id": "2001140478084001950",
+        "created_at": "2025-12-17T04:00:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T05:00:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001140478084001950"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2001140478084001950",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 5164,
+          "like_count": 71,
+          "quote_count": 1,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "10.28日，因意识不清醒，导致我从6层直接摔了下去，全身多处骨折，中间一直在治疗所以没有发贴，非常抱歉，现还在医院进行治疗...\n距整体恢复需至少1年\n坐起来还剩两个月\n虽然之后的1年里都要坐轮椅但保持好的心态还是很重要的，宝子们也要天天开心，听自己的想法。\n˵^•𖥦•^˵(呜呜...换药布好疼...)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-17T21:45:14.000Z",
+        "description": "07年的超大只mtf🍥🏳️‍⚧️｜持证含糖，hrt21.1.10-22.12/扭转⚠️/2023.7.15恢复｜半家长党…吗？｜双向+重抑|欢迎来找我贴贴｜现居山东｜不od不割手｜INFP｜暂不圆角｜政治立场不确定｜努力rle中｜🚪50，可加好友（QQ）｜清水推｜“我曾踏足山巅，也曾进入低谷，二者都使我受益良多”",
+        "id": "1791585754755350528",
+        "location": "未來由自己書寫",
+        "name": "🍥神楽坂·雨檬&梦雨🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1994881540015493629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998523715638931458/M5oGaoU7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1231,
+          "following_count": 194,
+          "like_count": 5637,
+          "listed_count": 3,
+          "media_count": 115,
+          "tweet_count": 1464
+        },
+        "username": "RainLemon0715",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-13T14:05:32.000Z",
+        "description": "瓦达西只是一个喜欢吃🍥糖糖🍥的小孩纸˃ ˄ ˂̥̥/INFP-T/生产日期2010/7/13/1.65m/mtf/xyn/hrt/2025/4/28/轻度抑郁/陪伴需求量超大/厌学/向往自由💫可Q/可扩列(要扩列的私信我)12:10-21:50在线(主主失联中)有意加",
+        "id": "1944397601354465280",
+        "location": "中国",
+        "name": "木辛伊(梓星星)🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966995836837269504/yObOvbeA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 862,
+          "following_count": 1094,
+          "like_count": 459,
+          "listed_count": 3,
+          "media_count": 15,
+          "tweet_count": 69
+        },
+        "username": "AzusaBA0713",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1791585754755350528",
+    "conversation_id": "1973447194599657743",
+    "created_at": "2025-10-06T01:23:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-06T02:23:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975008883262525594"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1767161673566359552",
+          "start": 0,
+          "username": "willa_citrus"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975008883262525594",
+    "in_reply_to_user_id": "1767161673566359552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974480463407546407",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@willa_citrus 谢谢姐姐！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1791585754755350528",
+        "conversation_id": "1973447194599657743",
+        "created_at": "2025-10-06T01:23:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T02:23:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975008883262525594"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1767161673566359552",
+              "start": 0,
+              "username": "willa_citrus"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975008883262525594",
+        "in_reply_to_user_id": "1767161673566359552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974480463407546407",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@willa_citrus 谢谢姐姐！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767161673566359552",
+        "conversation_id": "1973447194599657743",
+        "created_at": "2025-10-04T14:23:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T15:23:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974480463407546407"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1791585754755350528",
+              "start": 0,
+              "username": "RainLemon0715"
+            }
+          ],
+          "urls": [
+            {
+              "description": "目がかなりズレます 色々調整してみてください！ 🙆‍♀️してもいい事🙆‍♀️ ・アイコン、キャラシへの使用 ・多少の加工、加筆 ・メーカーを元にキャラクターを作ること ・動画やTRPGなどでの使用 ・投げ銭機能のある場所での使用や有償依頼などでの資料として使うこと 🙅‍♀️ダメなこと🙅‍♀️ ・自作発言 ・作成した画像を使ったグッズ等の販売 ・政治、批判、攻撃的、過激なアカウントでの使用 ・悪意のある加工、加筆 ・AI学習 □既存キャラを再現することについて 基本的には辞めた方が良いです。 もし作る場合は、その作品または人物の二次創作ガイドライン、またpicrew自体の利用規約、そしてこのメーカーの利用規約に従ってください。 作った画像でなにかトラブルがあっても自己責任になります。 よろしくお願い致します。 ルールを守ってくださいますようお願い致します🙏 何かあればご連絡ください。 Twitter:@Zr6Ov 　✦絢瀬",
+              "display_url": "picrew.me/en/image_maker…",
+              "end": 38,
+              "expanded_url": "https://picrew.me/en/image_maker/1904634",
+              "images": [
+                {
+                  "height": 400,
+                  "url": "https://pbs.twimg.com/news_img/1974789936382722049/ZhKEJGs4?format=png&name=orig",
+                  "width": 400
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1974789936382722049/ZhKEJGs4?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 15,
+              "status": 200,
+              "title": "キラキラ鱈メーカー3",
+              "unwound_url": "https://picrew.me/en/image_maker/1904634",
+              "url": "https://t.co/zAYXRqLQdR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974480463407546407",
+        "in_reply_to_user_id": "1791585754755350528",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 46,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974465953246457908",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RainLemon0715 https://t.co/zAYXRqLQdR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-17T21:45:14.000Z",
+        "description": "07年的超大只mtf🍥🏳️‍⚧️｜无证含糖，hrt2023.7.15｜深柜家暴党｜双向+重抑|欢迎来找我贴贴｜现居山东｜不od不割手｜INFP｜暂不圆角｜政治立场不确定｜努力rle中｜“我曾踏足山巅，也曾进入低谷，二者都使我受益良多”",
+        "id": "1791585754755350528",
+        "location": "雨檬の幻想乡",
+        "name": "🍥神楽坂·雨檬&梦雨🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1956885660859863208",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906911119580823552/VQjZGMza_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 414,
+          "following_count": 134,
+          "like_count": 2937,
+          "listed_count": 1,
+          "media_count": 26,
+          "tweet_count": 679
+        },
+        "username": "RainLemon0715",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-11T12:12:39.000Z",
+        "description": "想当个可爱的孩子 / 杭州三本工科PhD在读 / 怪猎以及魂5 / 多给我点赞啊！/ 碰到漂亮或者说话好玩的孩子就会试图交朋友 / 如果空下来一定要做个播客节目 / 甜甜同居五年啦 @rat_miyari",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 102,
+                "start": 91,
+                "username": "rat_miyari"
+              }
+            ]
+          }
+        },
+        "id": "1767161673566359552",
+        "location": "杭州",
+        "name": "王小檬𝖂𝖎𝖑𝖑𝖆🍋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973447014701735941/8l8H5eUt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11600,
+          "following_count": 186,
+          "like_count": 3657,
+          "listed_count": 32,
+          "media_count": 225,
+          "tweet_count": 4921
+        },
+        "username": "willa_citrus",
+        "verified": false
+      }
+    ]
+  }
+}

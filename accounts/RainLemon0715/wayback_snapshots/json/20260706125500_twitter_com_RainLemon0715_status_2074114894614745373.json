@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1791585754755350528",
+    "conversation_id": "2074111506770510066",
+    "created_at": "2026-07-06T12:55:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T13:55:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074114894614745373"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1840033512470278144",
+          "start": 0,
+          "username": "xinglyu8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074114894614745373",
+    "in_reply_to_user_id": "1840033512470278144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074111506770510066",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xinglyu8964 还能这样理解?！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1791585754755350528",
+        "conversation_id": "2074111506770510066",
+        "created_at": "2026-07-06T12:55:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T13:55:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074114894614745373"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1840033512470278144",
+              "start": 0,
+              "username": "xinglyu8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074114894614745373",
+        "in_reply_to_user_id": "1840033512470278144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074111506770510066",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xinglyu8964 还能这样理解?！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840033512470278144",
+        "conversation_id": "2074111506770510066",
+        "created_at": "2026-07-06T12:41:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T13:41:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074111506770510066"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/RainLemon0715/…",
+              "end": 72,
+              "expanded_url": "https://twitter.com/RainLemon0715/status/2074019430896738628",
+              "start": 49,
+              "url": "https://t.co/2us3XVucz1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074111506770510066",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074019430896738628",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "孤雌生殖的耶稣当然是性染色体为xx的真两性（间性人），并且因为祂的性别认同为男 所以耶稣是间跨男 https://t.co/2us3XVucz1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-17T21:45:14.000Z",
+        "description": "07🍥🏳️‍⚧️｜持证含糖，hrt21.1.8｜究极家暴党｜双向+重抑|欢迎来找我贴贴｜现居山东｜不od不割手｜INFP｜想当个女孩子｜SRS资金筹备ing｜无政治立场｜努力rle中｜最好的老婆@whalexxs，我的此生挚爱~|“我曾踏足山巅，也曾进入低谷，二者都使我受益良多”（现在是兼职糖果商人哦）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 97,
+                "username": "whalexxs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+iN5huf7JvPkxY…",
+                "end": 23,
+                "expanded_url": "https://t.me/+iN5huf7JvPkxYWE9",
+                "start": 0,
+                "url": "https://t.co/GweBgmAiDG"
+              }
+            ]
+          }
+        },
+        "id": "1791585754755350528",
+        "location": "明天",
+        "name": "🍥神楽坂·雨檬&梦雨🏳️‍⚧️🍬🍬🍬",
+        "pinned_tweet_id": "2072850591412625599",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018330545328152576/MiPIgQL4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4110,
+          "following_count": 327,
+          "like_count": 7934,
+          "listed_count": 6,
+          "media_count": 230,
+          "tweet_count": 2209
+        },
+        "url": "https://t.co/GweBgmAiDG",
+        "username": "RainLemon0715",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-28T14:19:24.000Z",
+        "description": "日记本/此号包含大量「改字改词改说法的抬杠找茬」、「碎碎念」和「性压抑渴男言论」/小资产阶级/南方汉族/无糖未术跨性别女/无浪漫倾向/双性恋/人控恋成年癖/健智健視健听健语健肢人/左撇子/汉语标准语母语者/皮下是黑大衣三又田力厷人/政治正确多元化万岁/恳求不要安慰我感激不尽/就叠buff就皈依者狂热那咋了",
+        "id": "1840033512470278144",
+        "name": "星吕",
+        "pinned_tweet_id": "2073418711902630202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057492681174159361/dUVrtTNv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 51,
+          "like_count": 1049,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 1680
+        },
+        "url": "",
+        "username": "xinglyu8964",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1791585754755350528",
+    "conversation_id": "1972123234138313007",
+    "created_at": "2025-09-29T07:37:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-29T08:37:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972566507977887763"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1697725634133561344",
+          "start": 0,
+          "username": "HeXiaoQi77"
+        },
+        {
+          "end": 26,
+          "id": "1793491174122192896",
+          "start": 12,
+          "username": "boilingwatter"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972566507977887763",
+    "in_reply_to_user_id": "1697725634133561344",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972312914590920727",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HeXiaoQi77 @boilingwatter 186均值以上！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1791585754755350528",
+        "conversation_id": "1972123234138313007",
+        "created_at": "2025-09-29T07:37:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T08:37:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972566507977887763"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1697725634133561344",
+              "start": 0,
+              "username": "HeXiaoQi77"
+            },
+            {
+              "end": 26,
+              "id": "1793491174122192896",
+              "start": 12,
+              "username": "boilingwatter"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972566507977887763",
+        "in_reply_to_user_id": "1697725634133561344",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972312914590920727",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HeXiaoQi77 @boilingwatter 186均值以上！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1697725634133561344",
+        "conversation_id": "1972123234138313007",
+        "created_at": "2025-09-28T14:50:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-28T15:50:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972312914590920727"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1793491174122192896",
+              "start": 0,
+              "username": "boilingwatter"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972312914590920727",
+        "in_reply_to_user_id": "1793491174122192896",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 219,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972123234138313007",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@boilingwatter 178平均值以上！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-17T21:45:14.000Z",
+        "description": "07年的超大只mtf🍥🏳️‍⚧️｜无证含糖，hrt2023.7.15｜深柜家暴党｜双向+重抑|欢迎来找我贴贴｜现居山东｜不od不割手｜INFP｜暂不圆角｜政治立场不确定｜努力rle中｜“我曾踏足山巅，也曾进入低谷，二者都使我受益良多”",
+        "id": "1791585754755350528",
+        "location": "雨檬の幻想乡",
+        "name": "🍥神楽坂·雨檬&梦雨🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1956885660859863208",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906911119580823552/VQjZGMza_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 402,
+          "following_count": 132,
+          "like_count": 2876,
+          "listed_count": 1,
+          "media_count": 26,
+          "tweet_count": 652
+        },
+        "username": "RainLemon0715",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-01T21:38:41.000Z",
+        "description": "已跨术女，离异带娃。不线下不推广，喜欢干净的Timeline，随机回fo。麻烦大家帮我注册下开通节点反佣：https://t.co/40o9p6pot9。自用梯子https://t.co/P2SqLbYHcR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "oyicn.link/ul/YbU25D?chan…",
+                "end": 76,
+                "expanded_url": "https://oyicn.link/ul/YbU25D?channelId=41797868",
+                "start": 53,
+                "url": "https://t.co/40o9p6pot9"
+              },
+              {
+                "display_url": "login.doumao.vip/#/register?cod…",
+                "end": 104,
+                "expanded_url": "https://login.doumao.vip/#/register?code=bo5Qmt30",
+                "start": 81,
+                "url": "https://t.co/P2SqLbYHcR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/HeXiaoQi77",
+                "end": 23,
+                "expanded_url": "https://t.me/HeXiaoQi77",
+                "start": 0,
+                "url": "https://t.co/r3aQCrk9jR"
+              }
+            ]
+          }
+        },
+        "id": "1697725634133561344",
+        "location": "WIH International Hospital",
+        "name": "柒_Rain☕️",
+        "pinned_tweet_id": "1913865519406403642",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862795292178829312/I6s-XESc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13271,
+          "following_count": 282,
+          "like_count": 14930,
+          "listed_count": 52,
+          "media_count": 150,
+          "tweet_count": 11673
+        },
+        "url": "https://t.co/r3aQCrk9jR",
+        "username": "HeXiaoQi77",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-23T03:56:45.000Z",
+        "description": "南氵氵叫我水水就行🥺||语言：中文/English||🏳️‍⚧️🏳️‍🌈||本科CS在读||目前精神状态良好||眼熟的和喜欢的我会自动fo你哦🥺（不fo发diao照的和看黄男）||什么都想干但是目前为止都一事无成的废水，也许明天会好起来的",
+        "id": "1793491174122192896",
+        "name": "boilingwatter🍥",
+        "pinned_tweet_id": "1958104725632553471",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1793491539148349441/GiFM2QYW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1606,
+          "following_count": 175,
+          "like_count": 604,
+          "listed_count": 2,
+          "media_count": 77,
+          "tweet_count": 1204
+        },
+        "username": "boilingwatter",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1791585754755350528",
+    "conversation_id": "1942600680453157022",
+    "created_at": "2025-07-08T15:04:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-08T16:04:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1942600680453157022"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 48,
+          "id": "1596939907859202049",
+          "start": 32,
+          "username": "mishamimihemumu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942600680453157022",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "注意\n此条推文是官宣推\n本人自2025年7月8日23时起\n正式与@mishamimihemumu 解除恋爱关系\n感谢她40天以来的陪伴\n希望她未来幸福\n（本帖将置顶三天）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1791585754755350528",
+        "conversation_id": "1942600680453157022",
+        "created_at": "2025-07-08T15:04:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T16:04:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942600680453157022"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 48,
+              "id": "1596939907859202049",
+              "start": 32,
+              "username": "mishamimihemumu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942600680453157022",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "注意\n此条推文是官宣推\n本人自2025年7月8日23时起\n正式与@mishamimihemumu 解除恋爱关系\n感谢她40天以来的陪伴\n希望她未来幸福\n（本帖将置顶三天）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-17T21:45:14.000Z",
+        "description": "07年的超大只mtf🍥🏳️‍⚧️｜无证含糖，hrt2023.7.15｜深柜家暴党｜双向+重抑｜恋爱ing|欢迎来找我贴贴｜现居山东",
+        "id": "1791585754755350528",
+        "location": "雨檬の幻想乡",
+        "name": "🍥神楽坂·雨檬&梦雨🏳️‍⚧️🍥（苦逼打工版）",
+        "pinned_tweet_id": "1927644848741634415",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906911119580823552/VQjZGMza_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 299,
+          "following_count": 135,
+          "like_count": 2243,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 482
+        },
+        "username": "RainLemon0715",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-27T18:52:19.000Z",
+        "description": "爱人@Shenyuebanran\n女儿@RainLemon0715",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "Shenyuebanran"
+              },
+              {
+                "end": 33,
+                "start": 19,
+                "username": "RainLemon0715"
+              }
+            ]
+          }
+        },
+        "id": "1596939907859202049",
+        "location": "安然身边",
+        "name": "🍥米莎米莎✨🏳️‍⚧️⚧️🏴‍☠️🇧🇾",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894881226059653121/uTkJIrfX_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 623,
+          "following_count": 273,
+          "like_count": 7563,
+          "listed_count": 2,
+          "media_count": 248,
+          "tweet_count": 816
+        },
+        "username": "mishamimihemumu",
+        "verified": false
+      }
+    ]
+  }
+}

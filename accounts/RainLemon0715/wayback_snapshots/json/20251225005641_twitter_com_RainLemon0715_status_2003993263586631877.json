@@ -1,0 +1,434 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2003858101834051584",
+        "3_2003858102505132032"
+      ],
+      "media_source_tweet_id": [
+        "2003858114261684639",
+        "2003858114261684639"
+      ]
+    },
+    "author_id": "1791585754755350528",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      }
+    ],
+    "conversation_id": "2003993263586631877",
+    "created_at": "2025-12-25T00:56:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-25T01:56:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003993263586631877"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 48,
+          "start": 45,
+          "tag": "伪娘"
+        },
+        {
+          "end": 57,
+          "start": 49,
+          "tag": "cosplay"
+        },
+        {
+          "end": 64,
+          "start": 59,
+          "tag": "男の娘ᅠ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1728420200192806912",
+          "start": 3,
+          "username": "gugugezitang"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ORlLe5xq24",
+          "end": 88,
+          "expanded_url": "https://x.com/gugugezitang/status/2003858114261684639/photo/1",
+          "media_key": "3_2003858101834051584",
+          "start": 65,
+          "url": "https://t.co/ORlLe5xq24"
+        },
+        {
+          "display_url": "pic.x.com/ORlLe5xq24",
+          "end": 88,
+          "expanded_url": "https://x.com/gugugezitang/status/2003858114261684639/photo/1",
+          "media_key": "3_2003858102505132032",
+          "start": 65,
+          "url": "https://t.co/ORlLe5xq24"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003993263586631877",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003858114261684639",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gugugezitang: 是新的圣诞礼物哦，拿ai试试简单做了一下，效果还不错 #伪娘 #cosplay  #男の娘ᅠ https://t.co/ORlLe5xq24"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2003858101834051584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G88iU6QbcAAUeN6.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2003858102505132032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G88iU8wbUAA3aJf.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2003858101834051584",
+            "3_2003858102505132032"
+          ],
+          "media_source_tweet_id": [
+            "2003858114261684639",
+            "2003858114261684639"
+          ]
+        },
+        "author_id": "1791585754755350528",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2003993263586631877",
+        "created_at": "2025-12-25T00:56:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-25T01:56:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003993263586631877"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 48,
+              "start": 45,
+              "tag": "伪娘"
+            },
+            {
+              "end": 57,
+              "start": 49,
+              "tag": "cosplay"
+            },
+            {
+              "end": 64,
+              "start": 59,
+              "tag": "男の娘ᅠ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1728420200192806912",
+              "start": 3,
+              "username": "gugugezitang"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ORlLe5xq24",
+              "end": 88,
+              "expanded_url": "https://x.com/gugugezitang/status/2003858114261684639/photo/1",
+              "media_key": "3_2003858101834051584",
+              "start": 65,
+              "url": "https://t.co/ORlLe5xq24"
+            },
+            {
+              "display_url": "pic.x.com/ORlLe5xq24",
+              "end": 88,
+              "expanded_url": "https://x.com/gugugezitang/status/2003858114261684639/photo/1",
+              "media_key": "3_2003858102505132032",
+              "start": 65,
+              "url": "https://t.co/ORlLe5xq24"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003993263586631877",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003858114261684639",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @gugugezitang: 是新的圣诞礼物哦，拿ai试试简单做了一下，效果还不错 #伪娘 #cosplay  #男の娘ᅠ https://t.co/ORlLe5xq24"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2003858101834051584",
+            "3_2003858102505132032"
+          ]
+        },
+        "author_id": "1728420200192806912",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2003858114261684639",
+        "created_at": "2025-12-24T15:59:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T16:59:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003858114261684639"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 30,
+              "start": 27,
+              "tag": "伪娘"
+            },
+            {
+              "end": 39,
+              "start": 31,
+              "tag": "cosplay"
+            },
+            {
+              "end": 46,
+              "start": 41,
+              "tag": "男の娘ᅠ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ORlLe5xq24",
+              "end": 70,
+              "expanded_url": "https://x.com/gugugezitang/status/2003858114261684639/photo/1",
+              "media_key": "3_2003858101834051584",
+              "start": 47,
+              "url": "https://t.co/ORlLe5xq24"
+            },
+            {
+              "display_url": "pic.x.com/ORlLe5xq24",
+              "end": 70,
+              "expanded_url": "https://x.com/gugugezitang/status/2003858114261684639/photo/1",
+              "media_key": "3_2003858102505132032",
+              "start": 47,
+              "url": "https://t.co/ORlLe5xq24"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003858114261684639",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 270,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "是新的圣诞礼物哦，拿ai试试简单做了一下，效果还不错 #伪娘 #cosplay  #男の娘ᅠ https://t.co/ORlLe5xq24"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-17T21:45:14.000Z",
+        "description": "07年的超大只mtf🍥🏳️‍⚧️｜持证含糖，hrt21.1.10-22.12/扭转⚠️/2023.7.15恢复｜半家长党…吗？｜双向+重抑|欢迎来找我贴贴｜现居山东｜不od不割手｜INFP｜暂不圆角｜政治立场不确定｜努力rle中｜🚪50，可加好友（QQ）｜清水推｜“我曾踏足山巅，也曾进入低谷，二者都使我受益良多”",
+        "id": "1791585754755350528",
+        "location": "未來由自己書寫",
+        "name": "🍥神楽坂·雨檬&梦雨🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1994881540015493629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998523715638931458/M5oGaoU7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1359,
+          "following_count": 202,
+          "like_count": 6074,
+          "listed_count": 3,
+          "media_count": 133,
+          "tweet_count": 1576
+        },
+        "username": "RainLemon0715",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-25T14:28:00.000Z",
+        "description": "07年/168cm，63kg\n🚪20r（备注自己的QQ自己会加）\nqq：2015332037",
+        "id": "1728420200192806912",
+        "name": "咕咕鸽子汤）",
+        "pinned_tweet_id": "1997677648252928094",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876658949585539072/dkg0wo6H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 79,
+          "like_count": 49,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 52
+        },
+        "username": "gugugezitang",
+        "verified": false
+      }
+    ]
+  }
+}

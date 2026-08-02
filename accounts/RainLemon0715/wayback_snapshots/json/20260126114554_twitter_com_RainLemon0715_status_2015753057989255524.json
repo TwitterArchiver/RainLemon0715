@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1791585754755350528",
+    "conversation_id": "2015632616574386429",
+    "created_at": "2026-01-26T11:45:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T12:45:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015753057989255524"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1407215903406706688",
+          "start": 0,
+          "username": "Zako_Fries"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015753057989255524",
+    "in_reply_to_user_id": "1407215903406706688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015632616574386429",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Zako_Fries 这么贵😨"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1531,
+        "media_key": "3_2015632611692183552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_j3LlmbAAA62JZ.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1791585754755350528",
+        "conversation_id": "2015632616574386429",
+        "created_at": "2026-01-26T11:45:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T12:45:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015753057989255524"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1407215903406706688",
+              "start": 0,
+              "username": "Zako_Fries"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015753057989255524",
+        "in_reply_to_user_id": "1407215903406706688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015632616574386429",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zako_Fries 这么贵😨"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015632611692183552"
+          ]
+        },
+        "author_id": "1407215903406706688",
+        "conversation_id": "2015632616574386429",
+        "created_at": "2026-01-26T03:47:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T04:47:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015632616574386429"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tzafcldNLW",
+              "end": 39,
+              "expanded_url": "https://x.com/Zako_Fries/status/2015632616574386429/photo/1",
+              "media_key": "3_2015632611692183552",
+              "start": 16,
+              "url": "https://t.co/tzafcldNLW"
+            },
+            {
+              "display_url": "x.com/zako_fries/sta…",
+              "end": 63,
+              "expanded_url": "https://twitter.com/zako_fries/status/2006604130396287491",
+              "start": 40,
+              "url": "https://t.co/cVUvyObMTf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015632616574386429",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 100,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006604130396287491",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "醫院費用更新到230k美元了（ https://t.co/tzafcldNLW https://t.co/cVUvyObMTf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-17T21:45:14.000Z",
+        "description": "07年的超大只mtf🍥🏳️‍⚧️｜持证含糖，hrt21.1.10-22.12/扭转⚠️/2023.7.15恢复｜半家长党…吗？｜双向+重抑|欢迎来找我贴贴｜现居山东｜不od不割手｜INFP｜暂不圆角｜无政治立场｜努力rle中｜🚪50，可加好友（QQ）｜清水推｜“我曾踏足山巅，也曾进入低谷，二者都使我受益良多”",
+        "id": "1791585754755350528",
+        "location": "未來由自己書寫",
+        "name": "🍥神楽坂·雨檬&梦雨🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2010535213299048582",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998523715638931458/M5oGaoU7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2850,
+          "following_count": 293,
+          "like_count": 7533,
+          "listed_count": 4,
+          "media_count": 173,
+          "tweet_count": 1926
+        },
+        "username": "RainLemon0715",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-22T05:57:05.000Z",
+        "description": "是一隻超級缺抱抱的女同海豹",
+        "id": "1407215903406706688",
+        "location": "United States",
+        "name": "☮️ZakoFries🍥",
+        "pinned_tweet_id": "1961988587861483558",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960474406888804352/2GN4Zy-8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 380,
+          "following_count": 316,
+          "like_count": 4375,
+          "listed_count": 0,
+          "media_count": 456,
+          "tweet_count": 5337
+        },
+        "username": "Zako_Fries",
+        "verified": true
+      }
+    ]
+  }
+}

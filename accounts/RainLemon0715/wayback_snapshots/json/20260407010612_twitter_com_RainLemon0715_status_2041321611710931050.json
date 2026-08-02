@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1791585754755350528",
+    "conversation_id": "2041321611710931050",
+    "created_at": "2026-04-07T01:06:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T02:06:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041321611710931050"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1611246341728120835",
+          "start": 3,
+          "username": "Aureliax17QwQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041321611710931050",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 34
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041084645203444046",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Aureliax17QwQ: 国内对跨性别的态度是不反对跨存在，\n但是不允许宣传。\n\n那换言之就是，跨性别🏳️‍⚧️就他妈是蟑螂🪳😅\n你允许蟑螂存在，但是不允许我跳出来被看见\n\n还不反对，不鼓励😅搞得自己很正确一样\n我闲的没事遭这罪？\n我们不发声，怎么去污名化？…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1791585754755350528",
+        "conversation_id": "2041321611710931050",
+        "created_at": "2026-04-07T01:06:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T02:06:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041321611710931050"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1611246341728120835",
+              "start": 3,
+              "username": "Aureliax17QwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041321611710931050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 34
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041084645203444046",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Aureliax17QwQ: 国内对跨性别的态度是不反对跨存在，\n但是不允许宣传。\n\n那换言之就是，跨性别🏳️‍⚧️就他妈是蟑螂🪳😅\n你允许蟑螂存在，但是不允许我跳出来被看见\n\n还不反对，不鼓励😅搞得自己很正确一样\n我闲的没事遭这罪？\n我们不发声，怎么去污名化？…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1611246341728120835",
+        "conversation_id": "2041084645203444046",
+        "created_at": "2026-04-06T09:24:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T10:12:52.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041081697668866139",
+          "2041081982353088745",
+          "2041084645203444046"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041084645203444046",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "国内对跨性别的态度是不反对跨存在，\n但是不允许宣传。\n\n那换言之就是，跨性别🏳️‍⚧️就他妈是蟑螂🪳😅\n你允许蟑螂存在，但是不允许我跳出来被看见\n\n还不反对，不鼓励😅搞得自己很正确一样\n我闲的没事遭这罪？\n我们不发声，怎么去污名化？\n\n因为讨厌自己的性征而焦虑抑郁甚至自残轻生的那些不是你，在网上、在现实里被指指点点的不是你。\n跨性别今天的一切，用药，医疗资源，待遇，不都是我们自己争取来的，大家努力来的吗？\n我们要继续发声，继续努力，\n才能得到全面性教育，才能正常化，才能过上正常的生活。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 11634,
+          "like_count": 327,
+          "quote_count": 3,
+          "reply_count": 21,
+          "retweet_count": 34
+        },
+        "reply_settings": "everyone",
+        "text": "国内对跨性别的态度是不反对跨存在，\n但是不允许宣传。\n\n那换言之就是，跨性别🏳️‍⚧️就他妈是蟑螂🪳😅\n你允许蟑螂存在，但是不允许我跳出来被看见\n\n还不反对，不鼓励😅搞得自己很正确一样\n我闲的没事遭这罪？\n我们不发声，怎么去污名化？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-17T21:45:14.000Z",
+        "description": "07🍥🏳️‍⚧️｜持证含糖，hrt21.1.10｜究极家暴党｜双向+重抑|欢迎来找我贴贴｜现居山东｜不od不割手｜INFP｜想当个女孩子｜暂不圆角｜无政治立场｜努力rle中｜最好的老婆@whalexxs｜好妹妹 @Huang_Yut1ng ｜“我曾踏足山巅，也曾进入低谷，二者都使我受益良多”（现在是兼职糖果商人哦）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 92,
+                "username": "whalexxs"
+              },
+              {
+                "end": 119,
+                "start": 106,
+                "username": "Huang_Yut1ng"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+iN5huf7JvPkxY…",
+                "end": 23,
+                "expanded_url": "https://t.me/+iN5huf7JvPkxYWE9",
+                "start": 0,
+                "url": "https://t.co/GweBgmAiDG"
+              }
+            ]
+          }
+        },
+        "id": "1791585754755350528",
+        "location": "明天",
+        "name": "🍥神楽坂·雨檬&梦雨🏳️‍⚧️🍥糖果商人🌈🍬",
+        "pinned_tweet_id": "2038958095024656541",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018330545328152576/MiPIgQL4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4085,
+          "following_count": 335,
+          "like_count": 8086,
+          "listed_count": 5,
+          "media_count": 225,
+          "tweet_count": 2177
+        },
+        "url": "https://t.co/GweBgmAiDG",
+        "username": "RainLemon0715",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-06T06:20:59.000Z",
+        "description": "神经病兼免费但失败的心理委员，可以把我当树洞｜mtf｜06｜重抑｜INFP｜已炸柜｜💊｜想倾诉或聊天可以tg找我说话（或者私信哦～）|tg：https://t.co/5kLEQoTlFF |最爱的小孩@dnshu135734｜我永远爱你们❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 100,
+                "username": "dnshu135734"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/Aureliax17",
+                "end": 93,
+                "expanded_url": "http://t.me/Aureliax17",
+                "start": 70,
+                "url": "https://t.co/5kLEQoTlFF"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aureliax17",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aureliax17",
+                "start": 0,
+                "url": "https://t.co/h6OCEkrSu6"
+              }
+            ]
+          }
+        },
+        "id": "1611246341728120835",
+        "location": "长安",
+        "name": "海月水母x17🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008776444445626368/iHOJfO5R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1372,
+          "following_count": 247,
+          "like_count": 5931,
+          "listed_count": 2,
+          "media_count": 120,
+          "tweet_count": 1558
+        },
+        "url": "https://t.co/h6OCEkrSu6",
+        "username": "Aureliax17QwQ",
+        "verified": true
+      }
+    ]
+  }
+}

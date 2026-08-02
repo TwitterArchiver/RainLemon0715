@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1791585754755350528",
+    "conversation_id": "1938964208168902907",
+    "created_at": "2025-06-29T06:00:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-29T07:00:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939202289157480576"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1780642673713356800",
+          "start": 0,
+          "username": "zhsy211427"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939202289157480576",
+    "in_reply_to_user_id": "1780642673713356800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938964208168902907",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhsy211427 有解决办法的，只要家里不剪我头发，我就保证不割"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1791585754755350528",
+        "conversation_id": "1938964208168902907",
+        "created_at": "2025-06-29T06:00:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-29T07:00:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939202289157480576"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1780642673713356800",
+              "start": 0,
+              "username": "zhsy211427"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939202289157480576",
+        "in_reply_to_user_id": "1780642673713356800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938964208168902907",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhsy211427 有解决办法的，只要家里不剪我头发，我就保证不割"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780642673713356800",
+        "conversation_id": "1938964208168902907",
+        "created_at": "2025-06-28T14:14:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T15:14:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938964208168902907"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1938964208168902907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2118,
+          "like_count": 41,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "割手只有零和无数次，开了头就无法回去了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-17T21:45:14.000Z",
+        "description": "07年的超大只mtf🍥🏳️‍⚧️｜无证含糖，hrt2023.7.15｜深柜家暴党｜双向+重抑｜恋爱ing|欢迎来找我贴贴｜现居山东｜最好的老公@mishamimihemumu❤️｜妈咪 @Shenyuebanran",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 71,
+                "username": "mishamimihemumu"
+              },
+              {
+                "end": 107,
+                "start": 93,
+                "username": "Shenyuebanran"
+              }
+            ]
+          }
+        },
+        "id": "1791585754755350528",
+        "location": "雨檬の幻想乡",
+        "name": "🍥神楽坂·雨檬&梦雨🏳️‍⚧️🍥（苦逼打工版）",
+        "pinned_tweet_id": "1927644848741634415",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906911119580823552/VQjZGMza_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 291,
+          "following_count": 133,
+          "like_count": 2004,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 436
+        },
+        "username": "RainLemon0715",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-17T17:01:27.000Z",
+        "description": "大一动画在读，很纠结的一个人，这里算是自己的一个小树洞吧，含🏳️‍⚧️两个月的小菜鸡🍥25.3.17｜爱好各种三维软件｜人生清单进行中......|blender爱好者｜粒子动画制作中…… ｜  性别未知？（mtx? ）｜欢迎动画技术交流｜同类互fo 咕咕",
+        "id": "1780642673713356800",
+        "name": "咕咕不哭🏳️‍⚧️",
+        "pinned_tweet_id": "1928316268039295197",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876133551264985088/f0P2uBOl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 71,
+          "like_count": 75,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 167
+        },
+        "username": "zhsy211427",
+        "verified": false
+      }
+    ]
+  }
+}

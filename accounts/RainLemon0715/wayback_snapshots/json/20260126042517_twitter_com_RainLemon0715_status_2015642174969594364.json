@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1791585754755350528",
+    "conversation_id": "2015642174969594364",
+    "created_at": "2026-01-26T04:25:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T05:25:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2015642174969594364"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/8az_pap/status…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/8az_pap/status/2015044622414942616",
+          "start": 21,
+          "url": "https://t.co/DpRecwCkuK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015642174969594364",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015044622414942616",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我要是能有这样的父母我就可以不这么痛苦了 https://t.co/DpRecwCkuK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2015044617750855680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_bgZ1eaQAAe522.jpg",
+        "width": 931
+      },
+      {
+        "height": 708,
+        "media_key": "3_2015044615326617600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_bgZscbUAAEnKo.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1791585754755350528",
+        "conversation_id": "2015642174969594364",
+        "created_at": "2026-01-26T04:25:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T05:25:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015642174969594364"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/8az_pap/status…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/8az_pap/status/2015044622414942616",
+              "start": 21,
+              "url": "https://t.co/DpRecwCkuK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015642174969594364",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015044622414942616",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我要是能有这样的父母我就可以不这么痛苦了 https://t.co/DpRecwCkuK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015044617750855680",
+            "3_2015044615326617600"
+          ]
+        },
+        "author_id": "1662374338908270592",
+        "conversation_id": "2015044622414942616",
+        "created_at": "2026-01-24T12:50:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T13:50:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015044622414942616"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SR7aXandSj",
+              "end": 35,
+              "expanded_url": "https://x.com/8az_pap/status/2015044622414942616/photo/1",
+              "media_key": "3_2015044617750855680",
+              "start": 12,
+              "url": "https://t.co/SR7aXandSj"
+            },
+            {
+              "display_url": "pic.x.com/SR7aXandSj",
+              "end": 35,
+              "expanded_url": "https://x.com/8az_pap/status/2015044622414942616/photo/1",
+              "media_key": "3_2015044615326617600",
+              "start": 12,
+              "url": "https://t.co/SR7aXandSj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015044622414942616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 253,
+          "impression_count": 515184,
+          "like_count": 1129,
+          "quote_count": 19,
+          "reply_count": 91,
+          "retweet_count": 34
+        },
+        "reply_settings": "everyone",
+        "text": "和家长党年龄党拼了😭👊 https://t.co/SR7aXandSj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-17T21:45:14.000Z",
+        "description": "07年的超大只mtf🍥🏳️‍⚧️｜持证含糖，hrt21.1.10-22.12/扭转⚠️/2023.7.15恢复｜半家长党…吗？｜双向+重抑|欢迎来找我贴贴｜现居山东｜不od不割手｜INFP｜暂不圆角｜无政治立场｜努力rle中｜🚪50，可加好友（QQ）｜清水推｜“我曾踏足山巅，也曾进入低谷，二者都使我受益良多”",
+        "id": "1791585754755350528",
+        "location": "未來由自己書寫",
+        "name": "🍥神楽坂·雨檬&梦雨🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2010535213299048582",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998523715638931458/M5oGaoU7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2841,
+          "following_count": 293,
+          "like_count": 7519,
+          "listed_count": 4,
+          "media_count": 172,
+          "tweet_count": 1921
+        },
+        "username": "RainLemon0715",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-27T08:26:20.000Z",
+        "description": "出厂日期：2006.11.15\n翻车顺男\nHRT 2025.9.03-2025.10.03\n2026.1.2-\n半个家长党",
+        "id": "1662374338908270592",
+        "location": "杭州下沙",
+        "name": "8az_🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978061538394349568/KPunYccH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 260,
+          "following_count": 40,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 122
+        },
+        "username": "8az_pap",
+        "verified": false
+      }
+    ]
+  }
+}

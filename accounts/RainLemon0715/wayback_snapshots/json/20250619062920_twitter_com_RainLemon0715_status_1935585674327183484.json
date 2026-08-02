@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1791585754755350528",
+    "conversation_id": "1935243370827497744",
+    "created_at": "2025-06-19T06:29:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-19T07:29:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935585674327183484"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1904873292366036992",
+          "start": 0,
+          "username": "Chiyuyu520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935585674327183484",
+    "in_reply_to_user_id": "1904873292366036992",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935243370827497744",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chiyuyu520 填了喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 349,
+        "media_key": "3_1935243367924846592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GttdlvsXUAAhu7J.png",
+        "width": 628
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1791585754755350528",
+        "conversation_id": "1935243370827497744",
+        "created_at": "2025-06-19T06:29:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-19T07:29:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935585674327183484"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904873292366036992",
+              "start": 0,
+              "username": "Chiyuyu520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935585674327183484",
+        "in_reply_to_user_id": "1904873292366036992",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935243370827497744",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chiyuyu520 填了喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1935243367924846592"
+          ]
+        },
+        "author_id": "1904873292366036992",
+        "conversation_id": "1935243370827497744",
+        "created_at": "2025-06-18T07:49:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-18T08:49:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935243370827497744"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "MtF.Report 是一个致力于研究与支持中国青少年跨性别女性（MtF）的小型公益平台。我们通过深入的调研和真实案例，打破信息壁垒，让世界了解她们的处境，帮助她们走出困境，迈向更安全、更有尊严的生活。",
+              "display_url": "MtF.Report",
+              "end": 48,
+              "expanded_url": "http://MtF.Report",
+              "start": 25,
+              "status": 200,
+              "title": "MtF.Report",
+              "unwound_url": "https://mtf.report/",
+              "url": "https://t.co/K2oJ9kpauU"
+            },
+            {
+              "description": "亲爱的受访者，您好！ 感谢您抽出宝贵的时间参与 MtF.Report 泛问卷调查。 这份问卷旨在汇集跨性别女性（MtF）在成长、医疗、家庭、校园与社会诸多场景中的真实体验，帮助我们更深入地理解您所面对的处境与需求，从而推动更具温度、也更具针对性的倡导与支持。 我们深知，回忆和书写这些经历可能伴随情绪波动，甚至触发不适。请随时关注自己的身心状态：如果有任何时候感到疲惫、不安或痛苦，您可以暂停、跳过某些问题，或选择终止填写。无论您做出何种决定，我们都将尊重并支持您。 所有回答将在严格保密的前提下仅用于研究与倡导。问卷收集过程中不会记录可识别个人身份的信息，也不会与第三方共享。请放心，如实表达您的想法与感受——您的声音对我们而言无比珍贵。 愿这份问卷不仅是一次数据收集，更成为一次温柔的倾听；愿它传递出一个讯息：您并不孤单，有人始终关注并珍视着您。 我们的联系方式（电子邮件）： mail@mtf.report",
+              "display_url": "forms.gle/PEFPdLXQWwERdb…",
+              "end": 86,
+              "expanded_url": "https://forms.gle/PEFPdLXQWwERdbQb7",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/1935243376124940288/QUzbeone?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1935243376124940288/QUzbeone?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 63,
+              "status": 200,
+              "title": "MtF.Report泛问卷调查",
+              "unwound_url": "https://docs.google.com/forms/d/e/1FAIpQLSdZfei8qy5aijeolKJ_RcIn6_vXwCtKTUHWLoSUF8QDjc2DPg/viewform?usp=send_form",
+              "url": "https://t.co/S8EyhAPA8l"
+            },
+            {
+              "display_url": "pic.x.com/uFVo5skf3t",
+              "end": 110,
+              "expanded_url": "https://x.com/Chiyuyu520/status/1935243370827497744/photo/1",
+              "media_key": "3_1935243367924846592",
+              "start": 87,
+              "url": "https://t.co/uFVo5skf3t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935243370827497744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "MtF.Report",
+                "end": 48,
+                "expanded_url": "http://MtF.Report",
+                "start": 25,
+                "url": "https://t.co/VlPlOCkC5b"
+              },
+              {
+                "display_url": "forms.gle/PEFPdLXQWwERdb…",
+                "end": 86,
+                "expanded_url": "https://forms.gle/PEFPdLXQWwERdbQb7",
+                "start": 63,
+                "url": "https://t.co/WpY5rQbrzM"
+              }
+            ]
+          },
+          "text": "亲爱的受访者，您好！\n\n感谢您抽出宝贵的时间参与 https://t.co/VlPlOCkC5b 泛问卷调查。\n\n链接如下↓\nhttps://t.co/WpY5rQbrzM\n\n这份问卷旨在汇集跨性别女性（MtF）在成长、医疗、家庭、校园与社会诸多场景中的真实体验，帮助我们更深入地理解您所面对的处境与需求，从而推动更具温度、也更具针对性的倡导与支持。\n\n我们深知，回忆和书写这些经历可能伴随情绪波动，甚至触发不适。请随时关注自己的身心状态：如果有任何时候感到疲惫、不安或痛苦，您可以暂停、跳过某些问题，或选择终止填写。无论您做出何种决定，我们都将尊重并支持您。\n\n所有回答将在严格保密的前提下仅用于研究与倡导。问卷收集过程中不会记录可识别个人身份的信息，也不会与第三方共享。请放心，如实表达您的想法与感受——您的声音对我们而言无比珍贵。\n\n愿这份问卷不仅是一次数据收集，更成为一次温柔的倾听；愿它传递出一个讯息：\n您并不孤单，有人始终关注并珍视着您。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 11420,
+          "like_count": 74,
+          "quote_count": 2,
+          "reply_count": 20,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "亲爱的受访者，您好！\n\n感谢您抽出宝贵的时间参与 https://t.co/K2oJ9kpauU 泛问卷调查。\n\n链接如下↓\nhttps://t.co/S8EyhAPA8l https://t.co/uFVo5skf3t"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-17T21:45:14.000Z",
+        "description": "07年的超大只mtf🍥🏳️‍⚧️｜无证含糖，hrt2023.7.15｜深柜家暴党｜双向+重抑｜恋爱ing|欢迎来找我贴贴｜现居山东｜最好的老公@mishamimihemumu❤️｜妈咪 @Shenyuebanran",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 71,
+                "username": "mishamimihemumu"
+              },
+              {
+                "end": 107,
+                "start": 93,
+                "username": "Shenyuebanran"
+              }
+            ]
+          }
+        },
+        "id": "1791585754755350528",
+        "location": "雨檬の幻想乡",
+        "name": "🍥神楽坂·雨檬&梦雨🏳️‍⚧️🍥（苦逼打工版）",
+        "pinned_tweet_id": "1927644848741634415",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906911119580823552/VQjZGMza_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 292,
+          "following_count": 131,
+          "like_count": 1879,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 398
+        },
+        "username": "RainLemon0715",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "14岁mtf🍥 | 含糖2025.3.24 | 双相精分 | 生日0907 | 想要贴贴抱抱 | 回避型依恋 | 雷抽烟喝酒见证蛆抽象人 | 不介意私聊 | 爱着 @Chufeinya 和 @haruhi_LAP | 跨过晨昏线，便是永夜。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 82,
+                "username": "Chufeinya"
+              },
+              {
+                "end": 106,
+                "start": 95,
+                "username": "haruhi_LAP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Chiyu.IT",
+                "end": 23,
+                "expanded_url": "http://Chiyu.IT",
+                "start": 0,
+                "url": "https://t.co/1nusPXgxh8"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "你家床上",
+        "name": "池鱼鱼🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1934260295163371769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909835175166722049/nGPUKPNP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1689,
+          "following_count": 1025,
+          "like_count": 1579,
+          "listed_count": 2,
+          "media_count": 115,
+          "tweet_count": 626
+        },
+        "url": "https://t.co/1nusPXgxh8",
+        "username": "Chiyuyu520",
+        "verified": true
+      }
+    ]
+  }
+}

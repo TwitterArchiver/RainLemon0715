@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2027382290704457728"
+      ],
+      "media_source_tweet_id": [
+        "2027382293820739919"
+      ]
+    },
+    "author_id": "1791585754755350528",
+    "conversation_id": "2027729865009737784",
+    "created_at": "2026-02-28T12:57:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T13:57:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027729865009737784"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1791585754755350528",
+          "start": 3,
+          "username": "RainLemon0715"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Sse3zAFhLK",
+          "end": 105,
+          "expanded_url": "https://x.com/RainLemon0715/status/2027382293820739919/photo/1",
+          "media_key": "3_2027382290704457728",
+          "start": 82,
+          "url": "https://t.co/Sse3zAFhLK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027729865009737784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027382293820739919",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RainLemon0715: 打算自力更生了\n现在檬这里也可以买日本芝麻油以及各种的糖果了～\n糖果价格的话\n可以加QQ 2730406023询问糖果🍬价格 https://t.co/Sse3zAFhLK"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2027729865009737784].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2027729865009737784",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2027729865009737784"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1906,
+        "media_key": "3_2027382290704457728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCK1c61bYAA300m.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027382290704457728"
+          ]
+        },
+        "author_id": "1791585754755350528",
+        "conversation_id": "2027382293820739919",
+        "created_at": "2026-02-27T13:56:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T14:56:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027382293820739919"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Sse3zAFhLK",
+              "end": 86,
+              "expanded_url": "https://x.com/RainLemon0715/status/2027382293820739919/photo/1",
+              "media_key": "3_2027382290704457728",
+              "start": 63,
+              "url": "https://t.co/Sse3zAFhLK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027382293820739919",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1373,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "打算自力更生了\n现在檬这里也可以买日本芝麻油以及各种的糖果了～\n糖果价格的话\n可以加QQ 2730406023询问糖果🍬价格 https://t.co/Sse3zAFhLK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-17T21:45:14.000Z",
+        "description": "07🍥🏳️‍⚧️｜持证含糖，hrt21.1.10｜究极家暴党｜双向+重抑|欢迎来找我贴贴｜现居山东｜不od不割手｜INFP｜想当个女孩子｜暂不圆角｜无政治立场｜努力rle中｜最好的老婆@whalexxs｜好妹妹 @Huang_Yut1ng ｜“我曾踏足山巅，也曾进入低谷，二者都使我受益良多”（现在是兼职糖果商人哦）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 92,
+                "username": "whalexxs"
+              },
+              {
+                "end": 119,
+                "start": 106,
+                "username": "Huang_Yut1ng"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+iN5huf7JvPkxY…",
+                "end": 23,
+                "expanded_url": "https://t.me/+iN5huf7JvPkxYWE9",
+                "start": 0,
+                "url": "https://t.co/GweBgmAiDG"
+              }
+            ]
+          }
+        },
+        "id": "1791585754755350528",
+        "location": "明天",
+        "name": "🍥神楽坂·雨檬&梦雨🏳️‍⚧️🍥（糖果商人限定版）",
+        "pinned_tweet_id": "2027382293820739919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018330545328152576/MiPIgQL4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3759,
+          "following_count": 318,
+          "like_count": 7880,
+          "listed_count": 5,
+          "media_count": 204,
+          "tweet_count": 2080
+        },
+        "url": "https://t.co/GweBgmAiDG",
+        "username": "RainLemon0715",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1791585754755350528",
+    "conversation_id": "1944885188930232600",
+    "created_at": "2025-07-16T00:07:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-16T01:07:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1945274111401583054"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1618314905475743749",
+          "start": 0,
+          "username": "CuOqwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945274111401583054",
+    "in_reply_to_user_id": "1618314905475743749",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945186585860886797",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CuOqwq 谢谢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1791585754755350528",
+        "conversation_id": "1944885188930232600",
+        "created_at": "2025-07-16T00:07:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-16T01:07:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945274111401583054"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1618314905475743749",
+              "start": 0,
+              "username": "CuOqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945274111401583054",
+        "in_reply_to_user_id": "1618314905475743749",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945186585860886797",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CuOqwq 谢谢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1618314905475743749",
+        "conversation_id": "1944885188930232600",
+        "created_at": "2025-07-15T18:19:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-15T19:19:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945186585860886797"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1791585754755350528",
+              "start": 0,
+              "username": "RainLemon0715"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945186585860886797",
+        "in_reply_to_user_id": "1791585754755350528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944885188930232600",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RainLemon0715 生日快乐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-17T21:45:14.000Z",
+        "description": "07年的超大只mtf🍥🏳️‍⚧️｜无证含糖，hrt2023.7.15｜深柜家暴党｜双向+重抑|欢迎来找我贴贴｜现居山东｜不od不割手｜INFP｜“我曾踏足山巅，也曾进入低谷，二者都使我受益良多”",
+        "id": "1791585754755350528",
+        "location": "雨檬の幻想乡",
+        "name": "🍥神楽坂·雨檬&梦雨🏳️‍⚧️🍥（打工结束版）",
+        "pinned_tweet_id": "1927644848741634415",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906911119580823552/VQjZGMza_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 322,
+          "following_count": 125,
+          "like_count": 2457,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 537
+        },
+        "username": "RainLemon0715",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-25T18:28:45.000Z",
+        "description": "2010.3.12出厂/我是精神病（其实没有qwq/性别男是同🏳️‍🌈/喜欢各种漫画动漫/兴趣爱好是音乐，很喜欢古典乐！/叫我CuO或者氧化铜就好，叫我铜也很不错qwq/极好的朋友@Chiyuyu520",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 90,
+                "username": "Chiyuyu520"
+              }
+            ]
+          }
+        },
+        "id": "1618314905475743749",
+        "location": "重庆",
+        "name": "CuO",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940797879205109760/v0Wl0hDL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 98,
+          "like_count": 1538,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 215
+        },
+        "username": "CuOqwq",
+        "verified": false
+      }
+    ]
+  }
+}

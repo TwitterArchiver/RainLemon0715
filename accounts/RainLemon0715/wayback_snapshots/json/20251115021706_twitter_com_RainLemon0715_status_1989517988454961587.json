@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1791585754755350528",
+    "conversation_id": "1989515739913752633",
+    "created_at": "2025-11-15T02:17:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-15T03:17:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989517988454961587"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1735017872353808385",
+          "start": 0,
+          "username": "whitecloud_ybw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989517988454961587",
+    "in_reply_to_user_id": "1735017872353808385",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989515739913752633",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whitecloud_ybw 北朝（"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1989515696028749827",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5wt_BDbkAMDk19.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1279,
+        "media_key": "3_1989515695508598784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5wt-_HasAA39-3.jpg",
+        "width": 1706
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1989515695873536000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5wt_AebMAAOIvr.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1989515700323725312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5wt_RDbsAA0QEY.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1791585754755350528",
+        "conversation_id": "1989515739913752633",
+        "created_at": "2025-11-15T02:17:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T03:17:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989517988454961587"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1735017872353808385",
+              "start": 0,
+              "username": "whitecloud_ybw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989517988454961587",
+        "in_reply_to_user_id": "1735017872353808385",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989515739913752633",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whitecloud_ybw 北朝（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989515696028749827",
+            "3_1989515695508598784",
+            "3_1989515695873536000",
+            "3_1989515700323725312"
+          ]
+        },
+        "author_id": "1735017872353808385",
+        "conversation_id": "1989515739913752633",
+        "created_at": "2025-11-15T02:08:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T03:08:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989515739913752633"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qt1G9h5l2l",
+              "end": 30,
+              "expanded_url": "https://x.com/whitecloud_ybw/status/1989515739913752633/photo/1",
+              "media_key": "3_1989515696028749827",
+              "start": 7,
+              "url": "https://t.co/qt1G9h5l2l"
+            },
+            {
+              "display_url": "pic.x.com/qt1G9h5l2l",
+              "end": 30,
+              "expanded_url": "https://x.com/whitecloud_ybw/status/1989515739913752633/photo/1",
+              "media_key": "3_1989515695508598784",
+              "start": 7,
+              "url": "https://t.co/qt1G9h5l2l"
+            },
+            {
+              "display_url": "pic.x.com/qt1G9h5l2l",
+              "end": 30,
+              "expanded_url": "https://x.com/whitecloud_ybw/status/1989515739913752633/photo/1",
+              "media_key": "3_1989515695873536000",
+              "start": 7,
+              "url": "https://t.co/qt1G9h5l2l"
+            },
+            {
+              "display_url": "pic.x.com/qt1G9h5l2l",
+              "end": 30,
+              "expanded_url": "https://x.com/whitecloud_ybw/status/1989515739913752633/photo/1",
+              "media_key": "3_1989515700323725312",
+              "start": 7,
+              "url": "https://t.co/qt1G9h5l2l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989515739913752633",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "北上还是南下 https://t.co/qt1G9h5l2l"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-17T21:45:14.000Z",
+        "description": "07年的超大只mtf🍥🏳️‍⚧️｜无证含糖，hrt2023.7.15｜预备役家长党｜双向+重抑|欢迎来找我贴贴｜现居山东｜不od不割手｜INFP｜暂不圆角｜政治立场不确定｜努力rle中｜“我曾踏足山巅，也曾进入低谷，二者都使我受益良多”",
+        "id": "1791585754755350528",
+        "location": "雨檬の幻想乡",
+        "name": "🍥神楽坂·雨檬&梦雨🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1983521304704864425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984482845377904641/18i9NVgR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 957,
+          "following_count": 179,
+          "like_count": 4607,
+          "listed_count": 2,
+          "media_count": 77,
+          "tweet_count": 1202
+        },
+        "username": "RainLemon0715",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-13T19:24:40.000Z",
+        "description": "尹白雯//☁️ A cloud in the sky shaped like my love for you.//南极洲外逃企鹅//地科只学了一晚居然能省一?!//情绪障碍//INF…P或J随缘//即将成年//2025.7.23平常的一天//私信扩列找我玩🥺//有个对象@amecandy_x🥰",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 146,
+                "start": 135,
+                "username": "amecandy_x"
+              }
+            ]
+          }
+        },
+        "id": "1735017872353808385",
+        "location": "南极洲企鹅之国驻华办事处",
+        "name": "是白雯雯呀",
+        "pinned_tweet_id": "1986436953705971880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975016159910199296/uWHoG_7L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 423,
+          "following_count": 310,
+          "like_count": 3588,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 610
+        },
+        "username": "whitecloud_ybw",
+        "verified": false
+      }
+    ]
+  }
+}

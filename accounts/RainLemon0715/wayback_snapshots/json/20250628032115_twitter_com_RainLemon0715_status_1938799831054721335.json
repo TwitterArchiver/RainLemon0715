@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1791585754755350528",
+    "conversation_id": "1938749270322249894",
+    "created_at": "2025-06-28T03:21:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-28T04:21:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938799831054721335"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1811011225058430982",
+          "start": 0,
+          "username": "Shenyuebanran"
+        },
+        {
+          "end": 31,
+          "id": "1596939907859202049",
+          "start": 15,
+          "username": "mishamimihemumu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938799831054721335",
+    "in_reply_to_user_id": "1811011225058430982",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938749270322249894",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shenyuebanran @mishamimihemumu 🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1791585754755350528",
+        "conversation_id": "1938749270322249894",
+        "created_at": "2025-06-28T03:21:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T04:21:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938799831054721335"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1811011225058430982",
+              "start": 0,
+              "username": "Shenyuebanran"
+            },
+            {
+              "end": 31,
+              "id": "1596939907859202049",
+              "start": 15,
+              "username": "mishamimihemumu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938799831054721335",
+        "in_reply_to_user_id": "1811011225058430982",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938749270322249894",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shenyuebanran @mishamimihemumu 🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811011225058430982",
+        "conversation_id": "1938749270322249894",
+        "created_at": "2025-06-28T00:00:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T01:00:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938749270322249894"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 54,
+              "id": "1596939907859202049",
+              "start": 38,
+              "username": "mishamimihemumu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938749270322249894",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 274,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "分享一下osns的感受吧（珍爱生命，远离od）大概是o了8-10tsns，据@mishamimihemumu 描述：10min左右开始眼神发直流口水，口齿不清胡言乱语，持续口齿不清胡言乱语后无法认出老公，被老公指奸（x）了2min后陷入昏迷状态6-8h左右，本人主观感受是在做一个做了好久，重复很多次的梦，总之不会再去o了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-17T21:45:14.000Z",
+        "description": "07年的超大只mtf🍥🏳️‍⚧️｜无证含糖，hrt2023.7.15｜深柜家暴党｜双向+重抑｜恋爱ing|欢迎来找我贴贴｜现居山东｜最好的老公@mishamimihemumu❤️｜妈咪 @Shenyuebanran",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 71,
+                "username": "mishamimihemumu"
+              },
+              {
+                "end": 107,
+                "start": 93,
+                "username": "Shenyuebanran"
+              }
+            ]
+          }
+        },
+        "id": "1791585754755350528",
+        "location": "雨檬の幻想乡",
+        "name": "🍥神楽坂·雨檬&梦雨🏳️‍⚧️🍥（苦逼打工版）",
+        "pinned_tweet_id": "1927644848741634415",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906911119580823552/VQjZGMza_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 292,
+          "following_count": 132,
+          "like_count": 1968,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 429
+        },
+        "username": "RainLemon0715",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-10T12:15:13.000Z",
+        "description": "这里是安然/可以叫我然然/坐标沈阳/历史/文学/里推@anrbushuijiao 老公大人:@mishamimihemumu最爱的姐姐@datadelete_4444好妹妹：@Hongcha_Orchids姐姐：@altaz_0山河入眼皆萧瑟， 道是人间不安然。 冷露侵衣添夜寂， 孤灯照影梦难安",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 26,
+                "username": "anrbushuijiao"
+              },
+              {
+                "end": 62,
+                "start": 46,
+                "username": "mishamimihemumu"
+              },
+              {
+                "end": 83,
+                "start": 67,
+                "username": "datadelete_4444"
+              },
+              {
+                "end": 103,
+                "start": 87,
+                "username": "Hongcha_Orchids"
+              },
+              {
+                "end": 114,
+                "start": 106,
+                "username": "altaz_0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+i6DdJbpVkcw1N…",
+                "end": 23,
+                "expanded_url": "https://t.me/+i6DdJbpVkcw1NmJl",
+                "start": 0,
+                "url": "https://t.co/A4ANhCK6Mh"
+              }
+            ]
+          }
+        },
+        "id": "1811011225058430982",
+        "location": "永恒的梦境中",
+        "name": "Luna_然🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1928303154740724154",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927387985646854144/bZgbbpwX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2191,
+          "following_count": 74,
+          "like_count": 4709,
+          "listed_count": 5,
+          "media_count": 363,
+          "tweet_count": 2210
+        },
+        "url": "https://t.co/A4ANhCK6Mh",
+        "username": "Shenyuebanran",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-27T18:52:19.000Z",
+        "description": "爱人@Shenyuebanran\n女儿@RainLemon0715",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "Shenyuebanran"
+              },
+              {
+                "end": 33,
+                "start": 19,
+                "username": "RainLemon0715"
+              }
+            ]
+          }
+        },
+        "id": "1596939907859202049",
+        "location": "和爱人在一起",
+        "name": "🍥米莎米莎✨🏳️‍⚧️⚧️🏴‍☠️🇧🇾",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894881226059653121/uTkJIrfX_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 626,
+          "following_count": 274,
+          "like_count": 7555,
+          "listed_count": 2,
+          "media_count": 246,
+          "tweet_count": 809
+        },
+        "username": "mishamimihemumu",
+        "verified": false
+      }
+    ]
+  }
+}

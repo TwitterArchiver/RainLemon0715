@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1791585754755350528",
+    "conversation_id": "2008813949698126152",
+    "created_at": "2026-01-07T09:53:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-07T10:53:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008839329725218847"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1735017872353808385",
+          "start": 0,
+          "username": "whitecloud_ybw"
+        },
+        {
+          "end": 27,
+          "id": "1197488719906738176",
+          "start": 16,
+          "username": "nina456777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008839329725218847",
+    "in_reply_to_user_id": "1735017872353808385",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008837195910799557",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whitecloud_ybw @nina456777 好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1791585754755350528",
+        "conversation_id": "2008813949698126152",
+        "created_at": "2026-01-07T09:53:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T10:53:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008839329725218847"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1735017872353808385",
+              "start": 0,
+              "username": "whitecloud_ybw"
+            },
+            {
+              "end": 27,
+              "id": "1197488719906738176",
+              "start": 16,
+              "username": "nina456777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008839329725218847",
+        "in_reply_to_user_id": "1735017872353808385",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008837195910799557",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whitecloud_ybw @nina456777 好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1735017872353808385",
+        "conversation_id": "2008813949698126152",
+        "created_at": "2026-01-07T09:44:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T10:44:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008837195910799557"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1197488719906738176",
+              "start": 0,
+              "username": "nina456777"
+            },
+            {
+              "end": 26,
+              "id": "1791585754755350528",
+              "start": 12,
+              "username": "RainLemon0715"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008837195910799557",
+        "in_reply_to_user_id": "1197488719906738176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008836565381095738",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nina456777 @RainLemon0715 请务必给我抽成负数谢谢w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-17T21:45:14.000Z",
+        "description": "07年的超大只mtf🍥🏳️‍⚧️｜持证含糖，hrt21.1.10-22.12/扭转⚠️/2023.7.15恢复｜半家长党…吗？｜双向+重抑|欢迎来找我贴贴｜现居山东｜不od不割手｜INFP｜暂不圆角｜政治立场不确定｜努力rle中｜🚪50，可加好友（QQ）｜清水推｜“我曾踏足山巅，也曾进入低谷，二者都使我受益良多”",
+        "id": "1791585754755350528",
+        "location": "未來由自己書寫",
+        "name": "🍥神楽坂·雨檬&梦雨🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1994881540015493629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998523715638931458/M5oGaoU7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1509,
+          "following_count": 208,
+          "like_count": 6843,
+          "listed_count": 3,
+          "media_count": 149,
+          "tweet_count": 1709
+        },
+        "username": "RainLemon0715",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-13T19:24:40.000Z",
+        "description": "尹白雯//☁️ A cloud in the sky shaped like my love for you.//南极洲外逃企鹅//地科只学了一晚居然能省一?!//情绪障碍//INF…P或J随缘//2025.7.23平常的一天//友善的都会回fo//私信扩列找我玩🥺//我家猫猫@amecandy_x🥰",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 150,
+                "start": 139,
+                "username": "amecandy_x"
+              }
+            ]
+          }
+        },
+        "id": "1735017872353808385",
+        "location": "-12cm",
+        "name": "尹家白雯雯",
+        "pinned_tweet_id": "1986436953705971880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008360696917225476/5TXcHSHg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 499,
+          "following_count": 382,
+          "like_count": 5507,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 851
+        },
+        "username": "whitecloud_ybw",
+        "verified": false
+      },
+      {
+        "created_at": "2019-11-21T12:15:50.000Z",
+        "description": "看到这句话的人立刻失去所有烦恼！然后起来伸个懒腰喝口水保持身体健康 | 男娘 泛性恋 留子 无糖 友跨 清水",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/nina456777",
+                "end": 23,
+                "expanded_url": "https://t.me/nina456777",
+                "start": 0,
+                "url": "https://t.co/UVuJTXgptP"
+              }
+            ]
+          }
+        },
+        "id": "1197488719906738176",
+        "location": "不告诉你",
+        "name": "nina😪（求互fo",
+        "pinned_tweet_id": "2004863264736579726",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007048719586451456/UOdQfZ-7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 355,
+          "following_count": 926,
+          "like_count": 1279,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 285
+        },
+        "url": "https://t.co/UVuJTXgptP",
+        "username": "nina456777",
+        "verified": false
+      }
+    ]
+  }
+}

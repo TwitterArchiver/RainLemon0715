@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1791585754755350528",
+    "conversation_id": "1977150718764368245",
+    "created_at": "2025-10-11T23:13:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-12T00:13:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977150718764368245"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1581478431274983424",
+          "start": 3,
+          "username": "zhoynqi3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977150718764368245",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 38
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976424126605820234",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zhoynqi3: 写给跨性别女性的：\n1.如果想要尝试化妆，可以找简单的教程练练手，化妆是一个熟练度的事情，并不是技术性的活，也就是说化多了就会化得好。\n2.在早期无需去区分自己的面部适合哪种妆容，对于新手来说，学会“水乳—遮瑕—隔离—粉底—定妆”就好，等这些会了，再…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1791585754755350528",
+        "conversation_id": "1977150718764368245",
+        "created_at": "2025-10-11T23:13:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T00:13:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977150718764368245"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1581478431274983424",
+              "start": 3,
+              "username": "zhoynqi3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977150718764368245",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 38
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976424126605820234",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zhoynqi3: 写给跨性别女性的：\n1.如果想要尝试化妆，可以找简单的教程练练手，化妆是一个熟练度的事情，并不是技术性的活，也就是说化多了就会化得好。\n2.在早期无需去区分自己的面部适合哪种妆容，对于新手来说，学会“水乳—遮瑕—隔离—粉底—定妆”就好，等这些会了，再…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1581478431274983424",
+        "conversation_id": "1976424126605820234",
+        "created_at": "2025-10-09T23:06:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T00:06:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976424126605820234"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1976424126605820234",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 168,
+          "impression_count": 27024,
+          "like_count": 458,
+          "quote_count": 3,
+          "reply_count": 18,
+          "retweet_count": 38
+        },
+        "reply_settings": "everyone",
+        "text": "写给跨性别女性的：\n1.如果想要尝试化妆，可以找简单的教程练练手，化妆是一个熟练度的事情，并不是技术性的活，也就是说化多了就会化得好。\n2.在早期无需去区分自己的面部适合哪种妆容，对于新手来说，学会“水乳—遮瑕—隔离—粉底—定妆”就好，等这些会了，再学“阴影、画眉、腮红、口红、眼影”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-17T21:45:14.000Z",
+        "description": "07年的超大只mtf🍥🏳️‍⚧️｜无证含糖，hrt2023.7.15｜深柜家暴党｜双向+重抑|欢迎来找我贴贴｜现居山东｜不od不割手｜INFP｜暂不圆角｜政治立场不确定｜努力rle中｜“我曾踏足山巅，也曾进入低谷，二者都使我受益良多”",
+        "id": "1791585754755350528",
+        "location": "雨檬の幻想乡",
+        "name": "🍥神楽坂·雨檬&梦雨🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1956885660859863208",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976482299664642048/uRLRpVc5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 419,
+          "following_count": 137,
+          "like_count": 3089,
+          "listed_count": 1,
+          "media_count": 28,
+          "tweet_count": 714
+        },
+        "username": "RainLemon0715",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-16T02:53:47.000Z",
+        "description": "🌈女同女权，友跨友双，LGBT支持者，混乱中立，不属于任何阵营。",
+        "id": "1581478431274983424",
+        "name": "yo89yo64",
+        "pinned_tweet_id": "1976511377679487385",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1672979337656631298/mQbOFn-g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2799,
+          "following_count": 164,
+          "like_count": 22082,
+          "listed_count": 12,
+          "media_count": 189,
+          "tweet_count": 5191
+        },
+        "username": "zhoynqi3",
+        "verified": false
+      }
+    ]
+  }
+}

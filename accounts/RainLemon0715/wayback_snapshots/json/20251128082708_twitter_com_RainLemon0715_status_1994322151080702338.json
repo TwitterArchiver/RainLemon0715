@@ -1,0 +1,141 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1791585754755350528",
+    "conversation_id": "1994320578983956631",
+    "created_at": "2025-11-28T08:27:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-28T09:27:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994322151080702338"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1994322151080702338",
+    "in_reply_to_user_id": "1791585754755350528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994320578983956631",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "想试一点点女生的风格，却连那“一点点”都要压着呼吸。\n更心酸的是，就算真的鼓起勇气想买，也会在付款前犹豫再三。不是因为贵，而是害怕被家人看到、害怕被熟人看到、害怕被问“你买这个做什么？”害怕被质疑、被否定、被说“你能不能有点男生的样子”别人购物是开心、期待，而你每一次“下单”都像是一场赌"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1791585754755350528",
+        "conversation_id": "1994320578983956631",
+        "created_at": "2025-11-28T08:27:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T09:27:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994322151080702338"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1994322151080702338",
+        "in_reply_to_user_id": "1791585754755350528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994320578983956631",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "想试一点点女生的风格，却连那“一点点”都要压着呼吸。\n更心酸的是，就算真的鼓起勇气想买，也会在付款前犹豫再三。不是因为贵，而是害怕被家人看到、害怕被熟人看到、害怕被问“你买这个做什么？”害怕被质疑、被否定、被说“你能不能有点男生的样子”别人购物是开心、期待，而你每一次“下单”都像是一场赌"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1791585754755350528",
+        "conversation_id": "1994320578983956631",
+        "created_at": "2025-11-28T08:20:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T09:20:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994320578983956631"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1994320578983956631",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近进入换季了，空气开始变凉。路上的女生披着软软的毛衣、蓬松的外套，还有那种一看就很暖的针织围巾，整个人都像被秋冬的滤镜包住一样。她们轻轻松松地走在风里，袖子宽宽的，毛衣软软的，颜色都是温柔的奶白、燕麦、雾粉，看起来既舒服又自在。而你站在人群里，看着那些顺着季节自然变柔、变暖的穿"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-17T21:45:14.000Z",
+        "description": "07年的超大只mtf🍥🏳️‍⚧️｜持证含糖，hrt2023.7.15｜半家长党｜双向+重抑|欢迎来找我贴贴｜现居山东｜不od不割手｜INFP｜暂不圆角｜政治立场不确定｜努力rle中｜🚪50，可加好友（QQ）｜清水推｜“我曾踏足山巅，也曾进入低谷，二者都使我受益良多”",
+        "id": "1791585754755350528",
+        "location": "未來由自己書寫",
+        "name": "🍥神楽坂·雨檬&梦雨🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1991802839946219639",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984482845377904641/18i9NVgR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1162,
+          "following_count": 187,
+          "like_count": 5160,
+          "listed_count": 3,
+          "media_count": 95,
+          "tweet_count": 1335
+        },
+        "username": "RainLemon0715",
+        "verified": false
+      }
+    ]
+  }
+}

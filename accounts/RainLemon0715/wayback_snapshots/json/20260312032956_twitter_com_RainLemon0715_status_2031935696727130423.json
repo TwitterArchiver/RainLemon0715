@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1791585754755350528",
+    "conversation_id": "2031724710141296749",
+    "created_at": "2026-03-12T03:29:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T04:29:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031935696727130423"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1459356998097850370",
+          "start": 0,
+          "username": "Aequoia1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031935696727130423",
+    "in_reply_to_user_id": "1459356998097850370",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031724710141296749",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aequoia1 吓哭了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1791585754755350528",
+        "conversation_id": "2031724710141296749",
+        "created_at": "2026-03-12T03:29:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T04:29:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031935696727130423"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1459356998097850370",
+              "start": 0,
+              "username": "Aequoia1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031935696727130423",
+        "in_reply_to_user_id": "1459356998097850370",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031724710141296749",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aequoia1 吓哭了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1459356998097850370",
+        "conversation_id": "2031724710141296749",
+        "created_at": "2026-03-11T13:31:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T14:31:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031724710141296749"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2031724710141296749",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 34,
+          "impression_count": 36915,
+          "like_count": 401,
+          "quote_count": 5,
+          "reply_count": 45,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "药娘和顺女同学聊天。  \n药娘：哇，你这身新衣服好好看！  \n同学：嘿嘿，我爸妈给我买的生日礼物啦～  \n\n药娘默默记在心里，开始期待自己的生日。\n\n生日当天，药娘小心翼翼问父母：  \n“爸妈……今年有生日礼物吗？”  \n\n“当然有啊～我们今天特意带你去理发店，新的一岁，头发剪短点才精神、才帅气嘛！”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-17T21:45:14.000Z",
+        "description": "07🍥🏳️‍⚧️｜持证含糖，hrt21.1.10｜究极家暴党｜双向+重抑|欢迎来找我贴贴｜现居山东｜不od不割手｜INFP｜想当个女孩子｜暂不圆角｜无政治立场｜努力rle中｜最好的老婆@whalexxs｜好妹妹 @Huang_Yut1ng ｜“我曾踏足山巅，也曾进入低谷，二者都使我受益良多”（现在是兼职糖果商人哦）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 92,
+                "username": "whalexxs"
+              },
+              {
+                "end": 119,
+                "start": 106,
+                "username": "Huang_Yut1ng"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+iN5huf7JvPkxY…",
+                "end": 23,
+                "expanded_url": "https://t.me/+iN5huf7JvPkxYWE9",
+                "start": 0,
+                "url": "https://t.co/GweBgmAiDG"
+              }
+            ]
+          }
+        },
+        "id": "1791585754755350528",
+        "location": "明天",
+        "name": "🍥神楽坂·雨檬&梦雨🏳️‍⚧️🍥糖果商人🌈🍬",
+        "pinned_tweet_id": "2030803190787272850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018330545328152576/MiPIgQL4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3813,
+          "following_count": 316,
+          "like_count": 1,
+          "listed_count": 5,
+          "media_count": 204,
+          "tweet_count": 2097
+        },
+        "url": "https://t.co/GweBgmAiDG",
+        "username": "RainLemon0715",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-13T03:06:53.000Z",
+        "description": "If you’ve chosen life, then choose to live.",
+        "id": "1459356998097850370",
+        "name": "Ich1noseyukI🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1637329154960916480/-ulZkX_O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 260,
+          "following_count": 408,
+          "like_count": 4962,
+          "listed_count": 1,
+          "media_count": 40,
+          "tweet_count": 800
+        },
+        "username": "Aequoia1",
+        "verified": false
+      }
+    ]
+  }
+}

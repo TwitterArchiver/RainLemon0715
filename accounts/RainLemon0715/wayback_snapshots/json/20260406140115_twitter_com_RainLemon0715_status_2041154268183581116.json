@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1791585754755350528",
+    "conversation_id": "2041154268183581116",
+    "created_at": "2026-04-06T14:01:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T15:01:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041154268183581116"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/chao965224/sta…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/chao965224/status/2041140413386653980",
+          "start": 7,
+          "url": "https://t.co/pQaVSf5IIu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041154268183581116",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041140413386653980",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "欢迎下次光临 https://t.co/pQaVSf5IIu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2041140407896326144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFOWYvVbQAAaqFx.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1791585754755350528",
+        "conversation_id": "2041154268183581116",
+        "created_at": "2026-04-06T14:01:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T15:01:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041154268183581116"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/chao965224/sta…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/chao965224/status/2041140413386653980",
+              "start": 7,
+              "url": "https://t.co/pQaVSf5IIu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041154268183581116",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041140413386653980",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "欢迎下次光临 https://t.co/pQaVSf5IIu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041140407896326144"
+          ]
+        },
+        "author_id": "1917467569944158209",
+        "conversation_id": "2040285265479270518",
+        "created_at": "2026-04-06T13:06:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T14:06:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041140413386653980"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1791585754755350528",
+              "start": 0,
+              "username": "RainLemon0715"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/coRLvkhWsF",
+              "end": 44,
+              "expanded_url": "https://x.com/chao965224/status/2041140413386653980/photo/1",
+              "media_key": "3_2041140407896326144",
+              "start": 21,
+              "url": "https://t.co/coRLvkhWsF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041140413386653980",
+        "in_reply_to_user_id": "1791585754755350528",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040285265479270518",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RainLemon0715 色收到啦😚 https://t.co/coRLvkhWsF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-17T21:45:14.000Z",
+        "description": "07🍥🏳️‍⚧️｜持证含糖，hrt21.1.10｜究极家暴党｜双向+重抑|欢迎来找我贴贴｜现居山东｜不od不割手｜INFP｜想当个女孩子｜暂不圆角｜无政治立场｜努力rle中｜最好的老婆@whalexxs｜好妹妹 @Huang_Yut1ng ｜“我曾踏足山巅，也曾进入低谷，二者都使我受益良多”（现在是兼职糖果商人哦）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 92,
+                "username": "whalexxs"
+              },
+              {
+                "end": 119,
+                "start": 106,
+                "username": "Huang_Yut1ng"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+iN5huf7JvPkxY…",
+                "end": 23,
+                "expanded_url": "https://t.me/+iN5huf7JvPkxYWE9",
+                "start": 0,
+                "url": "https://t.co/GweBgmAiDG"
+              }
+            ]
+          }
+        },
+        "id": "1791585754755350528",
+        "location": "明天",
+        "name": "🍥神楽坂·雨檬&梦雨🏳️‍⚧️🍥糖果商人🌈🍬",
+        "pinned_tweet_id": "2038958095024656541",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018330545328152576/MiPIgQL4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4079,
+          "following_count": 335,
+          "like_count": 8084,
+          "listed_count": 5,
+          "media_count": 224,
+          "tweet_count": 2175
+        },
+        "url": "https://t.co/GweBgmAiDG",
+        "username": "RainLemon0715",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-30T06:35:18.000Z",
+        "description": "爆裂吧现实！粉碎吧精神！放逐这个世界！",
+        "id": "1917467569944158209",
+        "name": "小chen陈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020872746381742080/ieJ34P-e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 36,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 6
+        },
+        "username": "chao965224",
+        "verified": false
+      }
+    ]
+  }
+}

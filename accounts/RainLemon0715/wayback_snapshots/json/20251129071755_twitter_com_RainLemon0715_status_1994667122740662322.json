@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1791585754755350528",
+    "conversation_id": "1994656684124639277",
+    "created_at": "2025-11-29T07:17:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T08:17:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994667122740662322"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1621552410048237569",
+          "start": 0,
+          "username": "amecandy_x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994667122740662322",
+    "in_reply_to_user_id": "1621552410048237569",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994656684124639277",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@amecandy_x 羡慕"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1994656673248808963",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G65xrRnbkAMu3Qe.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1994656673269796864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G65xrRsb0AAHehm.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1994656673278169089",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G65xrRubkAEOsfy.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1994656673261391873",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G65xrRqbkAEawdL.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1791585754755350528",
+        "conversation_id": "1994656684124639277",
+        "created_at": "2025-11-29T07:17:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T08:17:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994667122740662322"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1621552410048237569",
+              "start": 0,
+              "username": "amecandy_x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994667122740662322",
+        "in_reply_to_user_id": "1621552410048237569",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994656684124639277",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amecandy_x 羡慕"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994656673248808963",
+            "3_1994656673269796864",
+            "3_1994656673278169089",
+            "3_1994656673261391873"
+          ]
+        },
+        "author_id": "1621552410048237569",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1994656684124639277",
+        "created_at": "2025-11-29T06:36:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T07:36:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994656684124639277"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3uieMwb2Mb",
+              "end": 50,
+              "expanded_url": "https://x.com/amecandy_x/status/1994656684124639277/photo/1",
+              "media_key": "3_1994656673248808963",
+              "start": 27,
+              "url": "https://t.co/3uieMwb2Mb"
+            },
+            {
+              "display_url": "pic.x.com/3uieMwb2Mb",
+              "end": 50,
+              "expanded_url": "https://x.com/amecandy_x/status/1994656684124639277/photo/1",
+              "media_key": "3_1994656673269796864",
+              "start": 27,
+              "url": "https://t.co/3uieMwb2Mb"
+            },
+            {
+              "display_url": "pic.x.com/3uieMwb2Mb",
+              "end": 50,
+              "expanded_url": "https://x.com/amecandy_x/status/1994656684124639277/photo/1",
+              "media_key": "3_1994656673278169089",
+              "start": 27,
+              "url": "https://t.co/3uieMwb2Mb"
+            },
+            {
+              "display_url": "pic.x.com/3uieMwb2Mb",
+              "end": 50,
+              "expanded_url": "https://x.com/amecandy_x/status/1994656684124639277/photo/1",
+              "media_key": "3_1994656673261391873",
+              "start": 27,
+              "url": "https://t.co/3uieMwb2Mb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994656684124639277",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 64,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天和雯雯去了千佛山～\n佛像都是复制品但是都很有韵味 https://t.co/3uieMwb2Mb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-17T21:45:14.000Z",
+        "description": "07年的超大只mtf🍥🏳️‍⚧️｜持证含糖，hrt2023.7.15｜半家长党｜双向+重抑|欢迎来找我贴贴｜现居山东｜不od不割手｜INFP｜暂不圆角｜政治立场不确定｜努力rle中｜🚪50，可加好友（QQ）｜清水推｜“我曾踏足山巅，也曾进入低谷，二者都使我受益良多”",
+        "id": "1791585754755350528",
+        "location": "未來由自己書寫",
+        "name": "🍥神楽坂·雨檬&梦雨🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1991802839946219639",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984482845377904641/18i9NVgR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1172,
+          "following_count": 188,
+          "like_count": 5181,
+          "listed_count": 3,
+          "media_count": 95,
+          "tweet_count": 1344
+        },
+        "username": "RainLemon0715",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-03T16:53:25.000Z",
+        "description": "「小雨不乖，请你抱紧。」🌧/18yo-Transfem/HRT since 2022🍥CS→Fullstack/LLM🌐blogger✒️旅游✈（推文暴论输出注意⚠️）----Tags: #odtwt💊#shtwt🩸#drugtwt💉 \\\\\\ ❤️‍🔥@wawoqu2772",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 100,
+                "start": 94,
+                "tag": "odtwt"
+              },
+              {
+                "end": 107,
+                "start": 101,
+                "tag": "shtwt"
+              },
+              {
+                "end": 116,
+                "start": 108,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 137,
+                "start": 126,
+                "username": "wawoqu2772"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/Ul32kqFwEJ"
+              }
+            ]
+          }
+        },
+        "id": "1621552410048237569",
+        "location": "山东📍济南",
+        "name": "小雨🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976595751519326208/nobANKHE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4678,
+          "following_count": 1607,
+          "like_count": 22496,
+          "listed_count": 12,
+          "media_count": 872,
+          "tweet_count": 7575
+        },
+        "url": "https://t.co/Ul32kqFwEJ",
+        "username": "amecandy_x",
+        "verified": false
+      }
+    ]
+  }
+}

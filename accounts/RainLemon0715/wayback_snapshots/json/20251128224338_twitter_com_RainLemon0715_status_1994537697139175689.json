@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1791585754755350528",
+    "conversation_id": "1993469446149804390",
+    "created_at": "2025-11-28T22:43:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-28T23:43:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994537697139175689"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1162988465325133824",
+          "start": 0,
+          "username": "ZiTzZnssrlHASXk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994537697139175689",
+    "in_reply_to_user_id": "1162988465325133824",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994499082652672089",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZiTzZnssrlHASXk 好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1791585754755350528",
+        "conversation_id": "1993469446149804390",
+        "created_at": "2025-11-28T22:43:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T23:43:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994537697139175689"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1162988465325133824",
+              "start": 0,
+              "username": "ZiTzZnssrlHASXk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994537697139175689",
+        "in_reply_to_user_id": "1162988465325133824",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994499082652672089",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZiTzZnssrlHASXk 好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1162988465325133824",
+        "conversation_id": "1993469446149804390",
+        "created_at": "2025-11-28T20:10:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T21:10:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994499082652672089"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1791585754755350528",
+              "start": 0,
+              "username": "RainLemon0715"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994499082652672089",
+        "in_reply_to_user_id": "1791585754755350528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994192224658014488",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RainLemon0715 實在沒證據，至少要準備一下反制手段，比如：防狼噴霧（辣椒水之類的）。\n避免第三次發生，如果真的不幸有第三次，至少要確保第三次發生時可以記錄下來，把這群畜生告死。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-17T21:45:14.000Z",
+        "description": "07年的超大只mtf🍥🏳️‍⚧️｜持证含糖，hrt2023.7.15｜半家长党｜双向+重抑|欢迎来找我贴贴｜现居山东｜不od不割手｜INFP｜暂不圆角｜政治立场不确定｜努力rle中｜🚪50，可加好友（QQ）｜清水推｜“我曾踏足山巅，也曾进入低谷，二者都使我受益良多”",
+        "id": "1791585754755350528",
+        "location": "未來由自己書寫",
+        "name": "🍥神楽坂·雨檬&梦雨🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1991802839946219639",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984482845377904641/18i9NVgR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1170,
+          "following_count": 187,
+          "like_count": 5172,
+          "listed_count": 3,
+          "media_count": 95,
+          "tweet_count": 1341
+        },
+        "username": "RainLemon0715",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-18T07:24:11.000Z",
+        "description": "nothing here",
+        "id": "1162988465325133824",
+        "name": "afjcusnf303",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1618127931976613888/MaGiYq9C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 29,
+          "like_count": 1142,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 1076
+        },
+        "username": "ZiTzZnssrlHASXk",
+        "verified": false
+      }
+    ]
+  }
+}

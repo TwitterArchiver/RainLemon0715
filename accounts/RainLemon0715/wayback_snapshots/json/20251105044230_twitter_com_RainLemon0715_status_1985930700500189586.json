@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1791585754755350528",
+    "conversation_id": "1985752845937766882",
+    "created_at": "2025-11-05T04:42:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-05T05:42:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985930700500189586"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1712759769659068416",
+          "start": 0,
+          "username": "DoxXin97340"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985930700500189586",
+    "in_reply_to_user_id": "1712759769659068416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985752845937766882",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DoxXin97340 qwq\n是ftm嘛…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1791585754755350528",
+        "conversation_id": "1985752845937766882",
+        "created_at": "2025-11-05T04:42:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T05:42:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985930700500189586"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1712759769659068416",
+              "start": 0,
+              "username": "DoxXin97340"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985930700500189586",
+        "in_reply_to_user_id": "1712759769659068416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985752845937766882",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DoxXin97340 qwq\n是ftm嘛…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1712759769659068416",
+        "conversation_id": "1985752845937766882",
+        "created_at": "2025-11-04T16:55:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T17:55:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985752845937766882"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1985752845937766882",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 80,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁懂每天要蹲着尿尿啊 要打到明年2月猜能站着（｡ò ∀ ó｡）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-17T21:45:14.000Z",
+        "description": "07年的超大只mtf🍥🏳️‍⚧️｜无证含糖，hrt2023.7.15｜深柜家暴党｜双向+重抑|欢迎来找我贴贴｜现居山东｜不od不割手｜INFP｜暂不圆角｜政治立场不确定｜努力rle中｜“我曾踏足山巅，也曾进入低谷，二者都使我受益良多”",
+        "id": "1791585754755350528",
+        "location": "雨檬の幻想乡",
+        "name": "🍥神楽坂·雨檬&梦雨🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1983521304704864425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984482845377904641/18i9NVgR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 791,
+          "following_count": 168,
+          "like_count": 4191,
+          "listed_count": 2,
+          "media_count": 71,
+          "tweet_count": 1104
+        },
+        "username": "RainLemon0715",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-13T09:19:14.000Z",
+        "description": "哥(姐姐)们，你是在看简介嘛😝\n生产日期2012.2.22 保质期未知 已出柜\n幽默静步男-无名 主打一个幽默 政治立场你觉得呢 😜💜💖💙 三角洲国际服玩家-爱玩鸟兽兽 会用一点UE5 intel志强垃圾佬epyc热爱者 NAS玩家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "nas-gp.fucku.top",
+                "end": 23,
+                "expanded_url": "http://nas-gp.fucku.top",
+                "start": 0,
+                "url": "https://t.co/UMTZOik325"
+              }
+            ]
+          }
+        },
+        "id": "1712759769659068416",
+        "location": "精神病院",
+        "name": "Gpong🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985005828059906048/lIJBvfKq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 257,
+          "like_count": 456,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 427
+        },
+        "url": "https://t.co/UMTZOik325",
+        "username": "DoxXin97340",
+        "verified": false
+      }
+    ]
+  }
+}

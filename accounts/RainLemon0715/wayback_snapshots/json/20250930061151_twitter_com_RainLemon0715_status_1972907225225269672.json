@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1791585754755350528",
+    "conversation_id": "1972573349214928952",
+    "created_at": "2025-09-30T06:11:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-30T07:11:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972907225225269672"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "623965569",
+          "start": 0,
+          "username": "nothousand"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972907225225269672",
+    "in_reply_to_user_id": "623965569",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972573349214928952",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nothousand ？原又出新角色了？"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6305,
+        "height": 720,
+        "media_key": "13_1972573287101374464",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1972573287101374464/img/WRtQ0FnASASbvTdc.jpg",
+        "public_metrics": {
+          "view_count": 271
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1972573287101374464/vid/avc1/480x270/s-HefdpmidoTr_WP.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1972573287101374464/vid/avc1/640x360/LmWz-jg7Jp865z1Z.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1972573287101374464/vid/avc1/1280x720/dWPC6fQH8CXzFSIe.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1972573287101374464/pl/IBLTU0FHQBxJ01wp.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1791585754755350528",
+        "conversation_id": "1972573349214928952",
+        "created_at": "2025-09-30T06:11:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-30T07:11:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972907225225269672"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "623965569",
+              "start": 0,
+              "username": "nothousand"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972907225225269672",
+        "in_reply_to_user_id": "623965569",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972573349214928952",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nothousand ？原又出新角色了？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1972573287101374464"
+          ]
+        },
+        "author_id": "623965569",
+        "conversation_id": "1972573349214928952",
+        "created_at": "2025-09-29T08:05:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T09:05:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972573349214928952"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sNgK1uhLmj",
+              "end": 35,
+              "expanded_url": "https://x.com/nothousand/status/1972573349214928952/video/1",
+              "media_key": "13_1972573287101374464",
+              "start": 12,
+              "url": "https://t.co/sNgK1uhLmj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972573349214928952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 771,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "还是在大屏上玩游戏爽。 https://t.co/sNgK1uhLmj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-17T21:45:14.000Z",
+        "description": "07年的超大只mtf🍥🏳️‍⚧️｜无证含糖，hrt2023.7.15｜深柜家暴党｜双向+重抑|欢迎来找我贴贴｜现居山东｜不od不割手｜INFP｜暂不圆角｜政治立场不确定｜努力rle中｜“我曾踏足山巅，也曾进入低谷，二者都使我受益良多”",
+        "id": "1791585754755350528",
+        "location": "雨檬の幻想乡",
+        "name": "🍥神楽坂·雨檬&梦雨🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1956885660859863208",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906911119580823552/VQjZGMza_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 404,
+          "following_count": 132,
+          "like_count": 2877,
+          "listed_count": 1,
+          "media_count": 26,
+          "tweet_count": 653
+        },
+        "username": "RainLemon0715",
+        "verified": false
+      },
+      {
+        "created_at": "2012-07-01T16:27:02.000Z",
+        "description": "/记录一些异世界的碎碎念w #INFJ\n##有奇怪想法和需求的人看黄男别来关注我关了也会被我清理！！\n/谨慎fo因为我们可能不是一类人，或者不是你以为的那类人喔\n/不定期删除三无号，不同频的人还请见谅\n/需要回fo请大胆和我说我会来仔细观察你然后给你答案\n//雷自残od各种赤裸色色看到这样的人会unfo",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 19,
+                "start": 14,
+                "tag": "INFJ"
+              },
+              {
+                "end": 48,
+                "start": 21,
+                "tag": "有奇怪想法和需求的人看黄男别来关注我关了也会被我清理"
+              }
+            ]
+          }
+        },
+        "id": "623965569",
+        "location": "earth",
+        "name": "芊茉音華🏳️‍⚧️",
+        "pinned_tweet_id": "1940754100695769098",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967060261854212096/znbkYaQl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1601,
+          "following_count": 99,
+          "like_count": 4527,
+          "listed_count": 2,
+          "media_count": 255,
+          "tweet_count": 3294
+        },
+        "username": "nothousand",
+        "verified": false
+      }
+    ]
+  }
+}

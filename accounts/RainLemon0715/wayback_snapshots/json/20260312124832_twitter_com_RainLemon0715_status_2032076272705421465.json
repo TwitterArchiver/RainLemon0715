@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1791585754755350528",
+    "conversation_id": "2032060994168795457",
+    "created_at": "2026-03-12T12:48:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T13:48:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032076272705421465"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2007397795532333056",
+          "start": 0,
+          "username": "shaoxiancao1314"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032076272705421465",
+    "in_reply_to_user_id": "2007397795532333056",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032060994168795457",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shaoxiancao1314 抱抱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1791585754755350528",
+        "conversation_id": "2032060994168795457",
+        "created_at": "2026-03-12T12:48:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T13:48:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032076272705421465"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2007397795532333056",
+              "start": 0,
+              "username": "shaoxiancao1314"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032076272705421465",
+        "in_reply_to_user_id": "2007397795532333056",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032060994168795457",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shaoxiancao1314 抱抱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007397795532333056",
+        "conversation_id": "2032060994168795457",
+        "created_at": "2026-03-12T11:47:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T12:47:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032060994168795457"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2032060994168795457",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 609,
+          "like_count": 9,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "被家暴扇脸了呜呜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-17T21:45:14.000Z",
+        "description": "07🍥🏳️‍⚧️｜持证含糖，hrt21.1.10｜究极家暴党｜双向+重抑|欢迎来找我贴贴｜现居山东｜不od不割手｜INFP｜想当个女孩子｜暂不圆角｜无政治立场｜努力rle中｜最好的老婆@whalexxs｜好妹妹 @Huang_Yut1ng ｜“我曾踏足山巅，也曾进入低谷，二者都使我受益良多”（现在是兼职糖果商人哦）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 92,
+                "username": "whalexxs"
+              },
+              {
+                "end": 119,
+                "start": 106,
+                "username": "Huang_Yut1ng"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+iN5huf7JvPkxY…",
+                "end": 23,
+                "expanded_url": "https://t.me/+iN5huf7JvPkxYWE9",
+                "start": 0,
+                "url": "https://t.co/GweBgmAiDG"
+              }
+            ]
+          }
+        },
+        "id": "1791585754755350528",
+        "location": "明天",
+        "name": "🍥神楽坂·雨檬&梦雨🏳️‍⚧️🍥糖果商人🌈🍬",
+        "pinned_tweet_id": "2030803190787272850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018330545328152576/MiPIgQL4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3810,
+          "following_count": 317,
+          "like_count": 2,
+          "listed_count": 5,
+          "media_count": 204,
+          "tweet_count": 2101
+        },
+        "url": "https://t.co/GweBgmAiDG",
+        "username": "RainLemon0715",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-03T10:25:12.000Z",
+        "description": "低价🍥客服\n https://t.co/PBMuiF9RT5\ntg公告通知频道https://t.co/JRh1GMpZFp\ntg售后聊天群https://t.co/bCgbn8KY2x\n蓝V互fo",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/qianxian1314520",
+                "end": 30,
+                "expanded_url": "http://t.me/qianxian1314520",
+                "start": 7,
+                "url": "https://t.co/PBMuiF9RT5"
+              },
+              {
+                "display_url": "t.me/tangyuwendetan…",
+                "end": 62,
+                "expanded_url": "http://t.me/tangyuwendetang520",
+                "start": 39,
+                "url": "https://t.co/JRh1GMpZFp"
+              },
+              {
+                "display_url": "t.me/+EVeqakNumwY5O…",
+                "end": 93,
+                "expanded_url": "https://t.me/+EVeqakNumwY5OTNh",
+                "start": 70,
+                "url": "https://t.co/bCgbn8KY2x"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yesmtf.com",
+                "end": 23,
+                "expanded_url": "http://yesmtf.com",
+                "start": 0,
+                "url": "https://t.co/Z6vEIn46JX"
+              }
+            ]
+          }
+        },
+        "id": "2007397795532333056",
+        "name": "烧仙草🍥🏳️‍⚧️（糖🍥商）",
+        "pinned_tweet_id": "2021027137004896416",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029278451736485888/iKkTT_aR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1346,
+          "following_count": 385,
+          "like_count": 3407,
+          "listed_count": 1,
+          "media_count": 1,
+          "tweet_count": 58
+        },
+        "url": "https://t.co/Z6vEIn46JX",
+        "username": "shaoxiancao1314",
+        "verified": true
+      }
+    ]
+  }
+}

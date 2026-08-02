@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1791585754755350528",
+    "conversation_id": "1982690724924830175",
+    "created_at": "2025-10-27T11:11:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-27T12:11:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982767084343005447"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1951914984293961728",
+          "start": 0,
+          "username": "yuemingruoan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982767084343005447",
+    "in_reply_to_user_id": "1951914984293961728",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982759759410598034",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuemingruoan 好～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1791585754755350528",
+        "conversation_id": "1982690724924830175",
+        "created_at": "2025-10-27T11:11:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T12:11:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982767084343005447"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1951914984293961728",
+              "start": 0,
+              "username": "yuemingruoan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982767084343005447",
+        "in_reply_to_user_id": "1951914984293961728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982759759410598034",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuemingruoan 好～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1951914984293961728",
+        "conversation_id": "1982690724924830175",
+        "created_at": "2025-10-27T10:42:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T11:42:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982759759410598034"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1791585754755350528",
+              "start": 0,
+              "username": "RainLemon0715"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982759759410598034",
+        "in_reply_to_user_id": "1791585754755350528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982723238661873714",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RainLemon0715 感冒药的话一般都是非选择性环氧合酶抑制剂，确实容易有胃肠道反应，可以试试选择性COX2抑制剂，比如塞来昔布之类的，然后还是胃疼的话可以吃颗奥美拉唑，以及，如果中药里真的有能治疗感冒的有效成分，早就被提炼出来做成所谓的西药了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-17T21:45:14.000Z",
+        "description": "07年的超大只mtf🍥🏳️‍⚧️｜无证含糖，hrt2023.7.15｜深柜家暴党｜双向+重抑|欢迎来找我贴贴｜现居山东｜不od不割手｜INFP｜暂不圆角｜政治立场不确定｜努力rle中｜“我曾踏足山巅，也曾进入低谷，二者都使我受益良多”",
+        "id": "1791585754755350528",
+        "location": "雨檬の幻想乡",
+        "name": "🍥神楽坂·雨檬&梦雨🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1977294839168618951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976482299664642048/uRLRpVc5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 594,
+          "following_count": 169,
+          "like_count": 3784,
+          "listed_count": 1,
+          "media_count": 57,
+          "tweet_count": 976
+        },
+        "username": "RainLemon0715",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-03T07:56:31.000Z",
+        "description": "pwq,一只mtf,MBTI是infp，喜欢玩galgame(听着就很不mtf来着）患有抑郁和分离转换性障碍,家暴党+天残党,有比较严重的自杀倾向pwq，总之，能过一天是一天啦",
+        "id": "1951914984293961728",
+        "location": "Xianggang,China",
+        "name": "🏳️‍⚧️月明若安🍥",
+        "pinned_tweet_id": "1974334075847782578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966571077523697665/KwUd6r7-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 78,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 288
+        },
+        "username": "yuemingruoan",
+        "verified": false
+      }
+    ]
+  }
+}

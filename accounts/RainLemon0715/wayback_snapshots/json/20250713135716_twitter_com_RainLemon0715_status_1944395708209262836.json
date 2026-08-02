@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1791585754755350528",
+    "conversation_id": "1943866471752642910",
+    "created_at": "2025-07-13T13:57:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-13T14:57:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944395708209262836"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1652582280974708736",
+          "start": 0,
+          "username": "yingxue20747802"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944395708209262836",
+    "in_reply_to_user_id": "1652582280974708736",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 5,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943866471752642910",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yingxue20747802 羡慕姐姐的家庭关系"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1943866457697255424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvoAPoXXgAALoHw.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1791585754755350528",
+        "conversation_id": "1943866471752642910",
+        "created_at": "2025-07-13T13:57:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-13T14:57:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944395708209262836"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1652582280974708736",
+              "start": 0,
+              "username": "yingxue20747802"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944395708209262836",
+        "in_reply_to_user_id": "1652582280974708736",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943866471752642910",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yingxue20747802 羡慕姐姐的家庭关系"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1943866457697255424"
+          ]
+        },
+        "author_id": "1652582280974708736",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1943866471752642910",
+        "created_at": "2025-07-12T02:54:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-12T03:54:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943866471752642910"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AakD7RQbI8",
+              "end": 36,
+              "expanded_url": "https://x.com/yingxue20747802/status/1943866471752642910/photo/1",
+              "media_key": "3_1943866457697255424",
+              "start": 13,
+              "url": "https://t.co/AakD7RQbI8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943866471752642910",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2309,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "早上和爸爸一起吃牛肉面~ https://t.co/AakD7RQbI8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-17T21:45:14.000Z",
+        "description": "07年的超大只mtf🍥🏳️‍⚧️｜无证含糖，hrt2023.7.15｜深柜家暴党｜双向+重抑|欢迎来找我贴贴｜现居山东｜不od不割手｜INFP｜“我曾踏足山巅，也曾进入低谷，二者都使我受益良多”",
+        "id": "1791585754755350528",
+        "location": "雨檬の幻想乡",
+        "name": "🍥神楽坂·雨檬&梦雨🏳️‍⚧️🍥（苦逼打工版）",
+        "pinned_tweet_id": "1927644848741634415",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906911119580823552/VQjZGMza_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 315,
+          "following_count": 125,
+          "like_count": 2419,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 517
+        },
+        "username": "RainLemon0715",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-30T07:55:02.000Z",
+        "description": "对我不友善的替我挡灾！\n\n这里是简介，我可以打广告吗？（广告位招租）←假嘟~就算你给我钱也不会打广告喔（除非你给的太多啦！）\n\n文学少女📖 │ les-ppl │ 退役魔法少女🪄（尊嘟）│ 美食生活岁静日常推 │ 聪明的笨蛋 │ 愿我，也愿你能一而再，再而三，三而不竭，千次万次毫不犹豫地救自己于这世间水火之中",
+        "id": "1652582280974708736",
+        "location": "霍格沃茨",
+        "name": "樱雪（退役魔法少女） 🍜🍔🍱🍇🍰🍒🍓🍟🍧",
+        "pinned_tweet_id": "1932833092819169298",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846140890232102912/ExumaWMa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35779,
+          "following_count": 81,
+          "like_count": 73061,
+          "listed_count": 42,
+          "media_count": 2901,
+          "tweet_count": 12189
+        },
+        "username": "yingxue20747802",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1791585754755350528",
+    "conversation_id": "1979122609309487513",
+    "created_at": "2025-10-18T06:56:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-18T07:56:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979441543615516966"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2177864551",
+          "start": 0,
+          "username": "yik_Yumi"
+        },
+        {
+          "end": 24,
+          "id": "1346974977434771460",
+          "start": 10,
+          "username": "N0rthern_Land"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979441543615516966",
+    "in_reply_to_user_id": "2177864551",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979122609309487513",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yik_Yumi @N0rthern_Land 好看"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1979122600899915776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3dBhQmWMAALPvQ.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1920,
+        "media_key": "3_1979122600904163328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3dBhQnXAAAkuhd.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1791585754755350528",
+        "conversation_id": "1979122609309487513",
+        "created_at": "2025-10-18T06:56:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T07:56:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979441543615516966"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2177864551",
+              "start": 0,
+              "username": "yik_Yumi"
+            },
+            {
+              "end": 24,
+              "id": "1346974977434771460",
+              "start": 10,
+              "username": "N0rthern_Land"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979441543615516966",
+        "in_reply_to_user_id": "2177864551",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979122609309487513",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yik_Yumi @N0rthern_Land 好看"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979122600899915776",
+            "3_1979122600904163328"
+          ]
+        },
+        "author_id": "2177864551",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1979122609309487513",
+        "created_at": "2025-10-17T09:49:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T10:49:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979122609309487513"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1346974977434771460",
+              "start": 3,
+              "username": "N0rthern_Land"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CwOQqWSmLc",
+              "end": 62,
+              "expanded_url": "https://x.com/yik_Yumi/status/1979122609309487513/photo/1",
+              "media_key": "3_1979122600899915776",
+              "start": 39,
+              "url": "https://t.co/CwOQqWSmLc"
+            },
+            {
+              "display_url": "pic.x.com/CwOQqWSmLc",
+              "end": 62,
+              "expanded_url": "https://x.com/yik_Yumi/status/1979122609309487513/photo/1",
+              "media_key": "3_1979122600904163328",
+              "start": 39,
+              "url": "https://t.co/CwOQqWSmLc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979122609309487513",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 8718,
+          "like_count": 118,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "和小北@N0rthern_Land 一起去喝了几杯！没想到小北的酒量这么好！ https://t.co/CwOQqWSmLc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-17T21:45:14.000Z",
+        "description": "07年的超大只mtf🍥🏳️‍⚧️｜无证含糖，hrt2023.7.15｜深柜家暴党｜双向+重抑|欢迎来找我贴贴｜现居山东｜不od不割手｜INFP｜暂不圆角｜政治立场不确定｜努力rle中｜“我曾踏足山巅，也曾进入低谷，二者都使我受益良多”",
+        "id": "1791585754755350528",
+        "location": "雨檬の幻想乡",
+        "name": "🍥神楽坂·雨檬&梦雨🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1977294839168618951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976482299664642048/uRLRpVc5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 441,
+          "following_count": 144,
+          "like_count": 3284,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 778
+        },
+        "username": "RainLemon0715",
+        "verified": false
+      },
+      {
+        "created_at": "2013-11-06T11:10:29.000Z",
+        "description": "玉米 Is Yumi🌍東京在住被写体📺爆米花传媒",
+        "id": "2177864551",
+        "location": "Tokyo-to, Japan",
+        "name": "一只玉米🌽Yumi",
+        "pinned_tweet_id": "1963591363569799572",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965393796872781825/_6qnhIbo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8500,
+          "following_count": 100,
+          "like_count": 1149,
+          "listed_count": 38,
+          "media_count": 569,
+          "tweet_count": 674
+        },
+        "username": "yik_Yumi",
+        "verified": true
+      },
+      {
+        "created_at": "2021-01-07T00:20:49.000Z",
+        "description": "从那不勒斯到今天走了有多远/🏳️‍🌈/粉红别关注我/女朋友@ayashikinoco/里账@san45142",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 29,
+                "username": "ayashikinoco"
+              },
+              {
+                "end": 54,
+                "start": 45,
+                "username": "san45142"
+              }
+            ]
+          }
+        },
+        "id": "1346974977434771460",
+        "name": "北长尾山雀",
+        "pinned_tweet_id": "1777993830031302950",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922171885707485184/cia_yxjJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62879,
+          "following_count": 793,
+          "like_count": 93328,
+          "listed_count": 150,
+          "media_count": 3197,
+          "tweet_count": 30511
+        },
+        "username": "N0rthern_Land",
+        "verified": false
+      }
+    ]
+  }
+}

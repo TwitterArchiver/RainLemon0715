@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1791585754755350528",
+    "conversation_id": "2019280336560222514",
+    "created_at": "2026-02-05T09:18:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-05T10:18:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019339791477977379"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1741437052560781316",
+          "start": 0,
+          "username": "KhadaJhin9373"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019339791477977379",
+    "in_reply_to_user_id": "1741437052560781316",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019334002390585599",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KhadaJhin9373 抱歉哦姐妹，这批次已经卖完了，姐妹可以等年后，年后还会做一些的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1791585754755350528",
+        "conversation_id": "2019280336560222514",
+        "created_at": "2026-02-05T09:18:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T10:18:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019339791477977379"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1741437052560781316",
+              "start": 0,
+              "username": "KhadaJhin9373"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019339791477977379",
+        "in_reply_to_user_id": "1741437052560781316",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019334002390585599",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KhadaJhin9373 抱歉哦姐妹，这批次已经卖完了，姐妹可以等年后，年后还会做一些的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741437052560781316",
+        "conversation_id": "2019280336560222514",
+        "created_at": "2026-02-05T08:55:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T09:55:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019334002390585599"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1791585754755350528",
+              "start": 0,
+              "username": "RainLemon0715"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019334002390585599",
+        "in_reply_to_user_id": "1791585754755350528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019280336560222514",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RainLemon0715 姐妹姐妹～纸飞机的转账还没用过，支持微信、支付宝的支付方式吗？还有价位是多少呀？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-17T21:45:14.000Z",
+        "description": "07年的超大只mtf🍥🏳️‍⚧️｜持证含糖，hrt21.1.10｜半家长党…吗？｜双向+重抑|欢迎来找我贴贴｜现居山东｜不od不割手｜INFP｜想当个可爱的女孩子｜暂不圆角｜无政治立场｜努力rle中｜好妹妹 @Huang_Yut1ng ｜“我曾踏足山巅，也曾进入低谷，二者都使我受益良多”",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 104,
+                "username": "Huang_Yut1ng"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+kjfbQpv3xT45N…",
+                "end": 23,
+                "expanded_url": "https://t.me/+kjfbQpv3xT45NmRl",
+                "start": 0,
+                "url": "https://t.co/1IDXU6dCNi"
+              }
+            ]
+          }
+        },
+        "id": "1791585754755350528",
+        "location": "明天",
+        "name": "🍥神楽坂·雨檬&梦雨🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2019021584439418985",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018330545328152576/MiPIgQL4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3328,
+          "following_count": 303,
+          "like_count": 7755,
+          "listed_count": 4,
+          "media_count": 187,
+          "tweet_count": 2009
+        },
+        "url": "https://t.co/1IDXU6dCNi",
+        "username": "RainLemon0715",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-31T12:32:16.000Z",
+        "description": "一個飄蕩在聖伊麗莎白的幽靈，一個天才中單",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtu.be/dQw4w9WgXcQ?si…",
+                "end": 23,
+                "expanded_url": "https://youtu.be/dQw4w9WgXcQ?si=4lNSabPAOojJXCCe",
+                "start": 0,
+                "url": "https://t.co/6EQg6GDltb"
+              }
+            ]
+          }
+        },
+        "id": "1741437052560781316",
+        "name": "瓦爾基里俯衝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960796530727702528/CGyVG0MO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 394,
+          "like_count": 20412,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 231
+        },
+        "url": "https://t.co/6EQg6GDltb",
+        "username": "KhadaJhin9373",
+        "verified": false
+      }
+    ]
+  }
+}

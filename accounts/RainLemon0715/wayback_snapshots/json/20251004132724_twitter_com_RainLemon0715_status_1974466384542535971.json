@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1791585754755350528",
+    "conversation_id": "1974454939327050003",
+    "created_at": "2025-10-04T13:27:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-04T14:27:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974466384542535971"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1452598562341023748",
+          "start": 0,
+          "username": "Ainai_qwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974466384542535971",
+    "in_reply_to_user_id": "1452598562341023748",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974454939327050003",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ainai_qwq 我！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1974454928195375104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2asS8wa0AAMkrE.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1791585754755350528",
+        "conversation_id": "1974454939327050003",
+        "created_at": "2025-10-04T13:27:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T14:27:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974466384542535971"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1452598562341023748",
+              "start": 0,
+              "username": "Ainai_qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974466384542535971",
+        "in_reply_to_user_id": "1452598562341023748",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974454939327050003",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ainai_qwq 我！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1974454928195375104"
+          ]
+        },
+        "author_id": "1452598562341023748",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1974454939327050003",
+        "created_at": "2025-10-04T12:41:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T13:41:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974454939327050003"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9Rj0GB4EuO",
+              "end": 30,
+              "expanded_url": "https://x.com/Ainai_qwq/status/1974454939327050003/photo/1",
+              "media_key": "3_1974454928195375104",
+              "start": 7,
+              "url": "https://t.co/9Rj0GB4EuO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974454939327050003",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 81,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁要吃☝🏻🤓 https://t.co/9Rj0GB4EuO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-17T21:45:14.000Z",
+        "description": "07年的超大只mtf🍥🏳️‍⚧️｜无证含糖，hrt2023.7.15｜深柜家暴党｜双向+重抑|欢迎来找我贴贴｜现居山东｜不od不割手｜INFP｜暂不圆角｜政治立场不确定｜努力rle中｜“我曾踏足山巅，也曾进入低谷，二者都使我受益良多”",
+        "id": "1791585754755350528",
+        "location": "雨檬の幻想乡",
+        "name": "🍥神楽坂·雨檬&梦雨🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1956885660859863208",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906911119580823552/VQjZGMza_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 409,
+          "following_count": 133,
+          "like_count": 2921,
+          "listed_count": 1,
+          "media_count": 26,
+          "tweet_count": 668
+        },
+        "username": "RainLemon0715",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-25T11:31:12.000Z",
+        "description": "大家好我是梦爱奈的大号 欢迎大家来找我聊天 tg群 https://t.co/4viLFGH11Z",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+TcUCEU4RVsRhZ…",
+                "end": 49,
+                "expanded_url": "https://t.me/+TcUCEU4RVsRhZDU1",
+                "start": 26,
+                "url": "https://t.co/4viLFGH11Z"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+TcUCEU4RVsRhZ…",
+                "end": 23,
+                "expanded_url": "https://t.me/+TcUCEU4RVsRhZDU1",
+                "start": 0,
+                "url": "https://t.co/4viLFGH11Z"
+              }
+            ]
+          }
+        },
+        "id": "1452598562341023748",
+        "name": "梦爱奈（糖商/全国可发🏳️‍⚧️🏳️‍🌈）",
+        "pinned_tweet_id": "1940741675258990954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858819869871140868/lTSVSBwe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2506,
+          "following_count": 627,
+          "like_count": 689,
+          "listed_count": 11,
+          "media_count": 147,
+          "tweet_count": 926
+        },
+        "url": "https://t.co/4viLFGH11Z",
+        "username": "Ainai_qwq",
+        "verified": true
+      }
+    ]
+  }
+}

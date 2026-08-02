@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1791585754755350528",
+    "conversation_id": "1994320578983956631",
+    "created_at": "2025-11-28T08:28:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-28T09:28:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994322520414278154"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1994322520414278154",
+    "in_reply_to_user_id": "1791585754755350528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994322412763218384",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "怕失去那一点点原本就不多的安全感。对别人来说，换季只是换衣服；对你来说，是一次次把“我也想穿”偷偷咽回去的心酸瞬间。那不是矫情，是你压在心里太久、太久的愿望在悄悄对你说“我其实也好喜欢那些衣服”"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1791585754755350528",
+        "conversation_id": "1994320578983956631",
+        "created_at": "2025-11-28T08:28:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T09:28:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994322520414278154"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1994322520414278154",
+        "in_reply_to_user_id": "1791585754755350528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994322412763218384",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "怕失去那一点点原本就不多的安全感。对别人来说，换季只是换衣服；对你来说，是一次次把“我也想穿”偷偷咽回去的心酸瞬间。那不是矫情，是你压在心里太久、太久的愿望在悄悄对你说“我其实也好喜欢那些衣服”"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1791585754755350528",
+        "conversation_id": "1994320578983956631",
+        "created_at": "2025-11-28T08:28:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T09:28:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994322412763218384"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1994322412763218384",
+        "in_reply_to_user_id": "1791585754755350528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994320578983956631",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "注——赌不能被发现、赌这个愿望不会被扼杀。于是你一次次把喜欢的衣服放进购物车，喜欢、心动、犹豫、害怕、删除，最后什么也没买。你只能挑那些“不明显”的款式，宽松、中性、不引人注意，好像只要再往前一步，就是灾难。\n你不是不喜欢，你是不敢。你不是不想穿，你是不被允许。你不是没胆量，你只是太"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-17T21:45:14.000Z",
+        "description": "07年的超大只mtf🍥🏳️‍⚧️｜持证含糖，hrt2023.7.15｜半家长党｜双向+重抑|欢迎来找我贴贴｜现居山东｜不od不割手｜INFP｜暂不圆角｜政治立场不确定｜努力rle中｜🚪50，可加好友（QQ）｜清水推｜“我曾踏足山巅，也曾进入低谷，二者都使我受益良多”",
+        "id": "1791585754755350528",
+        "location": "未來由自己書寫",
+        "name": "🍥神楽坂·雨檬&梦雨🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1991802839946219639",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984482845377904641/18i9NVgR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1162,
+          "following_count": 187,
+          "like_count": 5160,
+          "listed_count": 3,
+          "media_count": 95,
+          "tweet_count": 1338
+        },
+        "username": "RainLemon0715",
+        "verified": false
+      }
+    ]
+  }
+}

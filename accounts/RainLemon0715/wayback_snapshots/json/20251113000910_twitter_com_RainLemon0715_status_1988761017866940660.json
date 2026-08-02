@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1791585754755350528",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "1988761017866940660",
+    "created_at": "2025-11-13T00:09:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-13T01:09:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1988761017866940660"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/realwuzhe/stat…",
+          "end": 165,
+          "expanded_url": "https://twitter.com/realwuzhe/status/1988275990792204582",
+          "start": 142,
+          "url": "https://t.co/ZLF9rgBIJG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988761017866940660",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988275990792204582",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我小学的时候被校园霸凌，和我爹说想让他帮我出头，结果就是一巴掌呼过来说你不会找别人事别人怎么会打你，你活该\n初中的时候被他逼出抑郁症，他不允许我去医院继续治疗，把药没收了还说我是学心理的，你就是不好好学习装的\n高中刚开始因为性别焦虑太严重难以支撑的时候出柜，不理解，然后亲手给送扭转 https://t.co/ZLF9rgBIJG"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1791585754755350528",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "1988761017866940660",
+        "created_at": "2025-11-13T00:09:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T01:09:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988761017866940660"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/realwuzhe/stat…",
+              "end": 165,
+              "expanded_url": "https://twitter.com/realwuzhe/status/1988275990792204582",
+              "start": 142,
+              "url": "https://t.co/ZLF9rgBIJG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988761017866940660",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988275990792204582",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我小学的时候被校园霸凌，和我爹说想让他帮我出头，结果就是一巴掌呼过来说你不会找别人事别人怎么会打你，你活该\n初中的时候被他逼出抑郁症，他不允许我去医院继续治疗，把药没收了还说我是学心理的，你就是不好好学习装的\n高中刚开始因为性别焦虑太严重难以支撑的时候出柜，不理解，然后亲手给送扭转 https://t.co/ZLF9rgBIJG"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "5147381",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "1988275990792204582",
+        "created_at": "2025-11-11T16:01:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T17:01:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988275990792204582"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1988275990792204582",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 43,
+          "impression_count": 114669,
+          "like_count": 520,
+          "quote_count": 22,
+          "reply_count": 66,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "很多人对父母的要求太高了。在我看来，能做到小孩出了健康问题，及时带去看病，就算合格了。看似很简单很理所当然的样子，据我观察，其实能做到的父母不超过一半。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-17T21:45:14.000Z",
+        "description": "07年的超大只mtf🍥🏳️‍⚧️｜无证含糖，hrt2023.7.15｜深柜家暴党｜双向+重抑|欢迎来找我贴贴｜现居山东｜不od不割手｜INFP｜暂不圆角｜政治立场不确定｜努力rle中｜“我曾踏足山巅，也曾进入低谷，二者都使我受益良多”",
+        "id": "1791585754755350528",
+        "location": "雨檬の幻想乡",
+        "name": "🍥神楽坂·雨檬&梦雨🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1983521304704864425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984482845377904641/18i9NVgR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 879,
+          "following_count": 176,
+          "like_count": 4456,
+          "listed_count": 2,
+          "media_count": 75,
+          "tweet_count": 1170
+        },
+        "username": "RainLemon0715",
+        "verified": false
+      },
+      {
+        "created_at": "2007-04-18T19:09:47.000Z",
+        "description": "关注科技、好用的工具、美股、日常生活 | INTJ-A | 没有建群，不主动私信人，谨防骗子 | 投资有风险，不要听我的 | NFA | 不接广告，勿扰",
+        "id": "5147381",
+        "location": "the world",
+        "name": "wuzhe",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/866518410972192768/66vemQ1D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124060,
+          "following_count": 4414,
+          "like_count": 1395,
+          "listed_count": 1962,
+          "media_count": 682,
+          "tweet_count": 4498
+        },
+        "username": "realwuzhe",
+        "verified": true
+      }
+    ]
+  }
+}

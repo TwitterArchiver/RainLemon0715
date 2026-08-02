@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1791585754755350528",
+    "conversation_id": "2002063637624787130",
+    "created_at": "2025-12-20T11:28:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-20T12:28:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002340407615893876"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1827995499204579328",
+          "start": 0,
+          "username": "AlgorIssac99183"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002340407615893876",
+    "in_reply_to_user_id": "1827995499204579328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002339862608032197",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AlgorIssac99183 嗯嗯！\n咱一定会学会的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1791585754755350528",
+        "conversation_id": "2002063637624787130",
+        "created_at": "2025-12-20T11:28:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T12:28:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002340407615893876"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1827995499204579328",
+              "start": 0,
+              "username": "AlgorIssac99183"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002340407615893876",
+        "in_reply_to_user_id": "1827995499204579328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002339862608032197",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AlgorIssac99183 嗯嗯！\n咱一定会学会的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1827995499204579328",
+        "conversation_id": "2002063637624787130",
+        "created_at": "2025-12-20T11:26:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T12:26:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002339862608032197"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1791585754755350528",
+              "start": 0,
+              "username": "RainLemon0715"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002339862608032197",
+        "in_reply_to_user_id": "1791585754755350528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002063637624787130",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RainLemon0715 先学会爱自己哦～"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-17T21:45:14.000Z",
+        "description": "07年的超大只mtf🍥🏳️‍⚧️｜持证含糖，hrt21.1.10-22.12/扭转⚠️/2023.7.15恢复｜半家长党…吗？｜双向+重抑|欢迎来找我贴贴｜现居山东｜不od不割手｜INFP｜暂不圆角｜政治立场不确定｜努力rle中｜🚪50，可加好友（QQ）｜清水推｜“我曾踏足山巅，也曾进入低谷，二者都使我受益良多”",
+        "id": "1791585754755350528",
+        "location": "未來由自己書寫",
+        "name": "🍥神楽坂·雨檬&梦雨🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1994881540015493629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998523715638931458/M5oGaoU7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1284,
+          "following_count": 201,
+          "like_count": 5757,
+          "listed_count": 3,
+          "media_count": 122,
+          "tweet_count": 1496
+        },
+        "username": "RainLemon0715",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-26T09:05:02.000Z",
+        "description": "为什么期待被值得信赖的人调教呢～\n因为自己玩太累了还有概率翻车呢～\n真是个无可救药的抖m呢～",
+        "id": "1827995499204579328",
+        "name": "Algor Issac",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827995661868167168/Edq57tno_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 46,
+          "like_count": 135,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 121
+        },
+        "username": "AlgorIssac99183",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2020497909033431041",
+        "3_2020497909046030336"
+      ]
+    },
+    "author_id": "1791585754755350528",
+    "conversation_id": "2020497923587674452",
+    "created_at": "2026-02-08T14:00:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-08T15:00:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2020497923587674452"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "出售自制雌二醇凝胶5倍版35r💰10倍版60r💰有需要可以联系我",
+          "display_url": "t.me/yumeng1314520",
+          "end": 124,
+          "expanded_url": "http://t.me/yumeng1314520",
+          "start": 101,
+          "status": 200,
+          "title": "檬 雨",
+          "unwound_url": "https://t.me/yumeng1314520",
+          "url": "https://t.co/Pzu5BqtE98"
+        },
+        {
+          "display_url": "pic.x.com/NoxEVrBwVU",
+          "end": 192,
+          "expanded_url": "https://x.com/RainLemon0715/status/2020497923587674452/photo/1",
+          "media_key": "3_2020497909033431041",
+          "start": 169,
+          "url": "https://t.co/NoxEVrBwVU"
+        },
+        {
+          "display_url": "pic.x.com/NoxEVrBwVU",
+          "end": 192,
+          "expanded_url": "https://x.com/RainLemon0715/status/2020497923587674452/photo/1",
+          "media_key": "3_2020497909046030336",
+          "start": 169,
+          "url": "https://t.co/NoxEVrBwVU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020497923587674452",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "群1是檬檬的粉丝群，大家可以在群里友好交流，可以求安慰求帮助，总之可以畅所欲言～\n群2是檬檬的“保湿乳霜”群在群里可以订购可获得图灵老祖庇佑的“保湿乳霜”\n当然也可以加檬檬tg年后预定“保湿乳霜”请私信https://t.co/Pzu5BqtE98订购10倍版60💰100ml    5倍版35💰100ml  特殊定制版95💰100ml https://t.co/NoxEVrBwVU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2020497909033431041",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HApAJKlbcAEmroh.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2020497909046030336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HApAJKobsAAqanc.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020497909033431041",
+            "3_2020497909046030336"
+          ]
+        },
+        "author_id": "1791585754755350528",
+        "conversation_id": "2020497923587674452",
+        "created_at": "2026-02-08T14:00:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T15:00:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020497923587674452"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "出售自制雌二醇凝胶5倍版35r💰10倍版60r💰有需要可以联系我",
+              "display_url": "t.me/yumeng1314520",
+              "end": 124,
+              "expanded_url": "http://t.me/yumeng1314520",
+              "start": 101,
+              "status": 200,
+              "title": "檬 雨",
+              "unwound_url": "https://t.me/yumeng1314520",
+              "url": "https://t.co/Pzu5BqtE98"
+            },
+            {
+              "display_url": "pic.x.com/NoxEVrBwVU",
+              "end": 192,
+              "expanded_url": "https://x.com/RainLemon0715/status/2020497923587674452/photo/1",
+              "media_key": "3_2020497909033431041",
+              "start": 169,
+              "url": "https://t.co/NoxEVrBwVU"
+            },
+            {
+              "display_url": "pic.x.com/NoxEVrBwVU",
+              "end": 192,
+              "expanded_url": "https://x.com/RainLemon0715/status/2020497923587674452/photo/1",
+              "media_key": "3_2020497909046030336",
+              "start": 169,
+              "url": "https://t.co/NoxEVrBwVU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020497923587674452",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "群1是檬檬的粉丝群，大家可以在群里友好交流，可以求安慰求帮助，总之可以畅所欲言～\n群2是檬檬的“保湿乳霜”群在群里可以订购可获得图灵老祖庇佑的“保湿乳霜”\n当然也可以加檬檬tg年后预定“保湿乳霜”请私信https://t.co/Pzu5BqtE98订购10倍版60💰100ml    5倍版35💰100ml  特殊定制版95💰100ml https://t.co/NoxEVrBwVU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-17T21:45:14.000Z",
+        "description": "07年的超大只mtf🍥🏳️‍⚧️｜持证含糖，hrt21.1.10｜半家长党…吗？｜双向+重抑|欢迎来找我贴贴｜现居山东｜不od不割手｜INFP｜想当个可爱的女孩子｜暂不圆角｜无政治立场｜努力rle中｜好妹妹 @Huang_Yut1ng ｜“我曾踏足山巅，也曾进入低谷，二者都使我受益良多”",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 104,
+                "username": "Huang_Yut1ng"
+              }
+            ]
+          }
+        },
+        "id": "1791585754755350528",
+        "location": "明天",
+        "name": "🍥神楽坂·雨檬&梦雨🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2020482191755559194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018330545328152576/MiPIgQL4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3443,
+          "following_count": 305,
+          "like_count": 7771,
+          "listed_count": 5,
+          "media_count": 192,
+          "tweet_count": 2026
+        },
+        "username": "RainLemon0715",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1791585754755350528",
+    "conversation_id": "1986434663976755578",
+    "created_at": "2025-11-06T23:56:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-07T00:56:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986583533620789376"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1735017872353808385",
+          "start": 0,
+          "username": "wawoqu2772"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986583533620789376",
+    "in_reply_to_user_id": "1735017872353808385",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986434663976755578",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wawoqu2772 99"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2241,
+        "media_key": "3_1986434644376756225",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5E7yNObIAEo678.jpg",
+        "width": 540
+      },
+      {
+        "height": 2241,
+        "media_key": "3_1986434644548739072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5E7yN3bYAABK7v.jpg",
+        "width": 540
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1986434644389294080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5E7yNRacAA2OoD.jpg",
+        "width": 485
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1986434645253365761",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5E7yQfbIAEelH0.jpg",
+        "width": 958
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1791585754755350528",
+        "conversation_id": "1986434663976755578",
+        "created_at": "2025-11-06T23:56:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T00:56:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986583533620789376"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1735017872353808385",
+              "start": 0,
+              "username": "wawoqu2772"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986583533620789376",
+        "in_reply_to_user_id": "1735017872353808385",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986434663976755578",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wawoqu2772 99"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986434644376756225",
+            "3_1986434644548739072",
+            "3_1986434644389294080",
+            "3_1986434645253365761"
+          ]
+        },
+        "author_id": "1735017872353808385",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1986434663976755578",
+        "created_at": "2025-11-06T14:05:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T15:05:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986434663976755578"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/phqQU21FVu",
+              "end": 52,
+              "expanded_url": "https://x.com/wawoqu2772/status/1986434663976755578/photo/1",
+              "media_key": "3_1986434644376756225",
+              "start": 29,
+              "url": "https://t.co/phqQU21FVu"
+            },
+            {
+              "display_url": "pic.x.com/phqQU21FVu",
+              "end": 52,
+              "expanded_url": "https://x.com/wawoqu2772/status/1986434663976755578/photo/1",
+              "media_key": "3_1986434644548739072",
+              "start": 29,
+              "url": "https://t.co/phqQU21FVu"
+            },
+            {
+              "display_url": "pic.x.com/phqQU21FVu",
+              "end": 52,
+              "expanded_url": "https://x.com/wawoqu2772/status/1986434663976755578/photo/1",
+              "media_key": "3_1986434644389294080",
+              "start": 29,
+              "url": "https://t.co/phqQU21FVu"
+            },
+            {
+              "display_url": "pic.x.com/phqQU21FVu",
+              "end": 52,
+              "expanded_url": "https://x.com/wawoqu2772/status/1986434663976755578/photo/1",
+              "media_key": "3_1986434645253365761",
+              "start": 29,
+              "url": "https://t.co/phqQU21FVu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986434663976755578",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1773,
+          "like_count": 22,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "课上走神，给大家讲点故事…\n（重点是情感，我不是那种推） https://t.co/phqQU21FVu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-17T21:45:14.000Z",
+        "description": "07年的超大只mtf🍥🏳️‍⚧️｜无证含糖，hrt2023.7.15｜深柜家暴党｜双向+重抑|欢迎来找我贴贴｜现居山东｜不od不割手｜INFP｜暂不圆角｜政治立场不确定｜努力rle中｜“我曾踏足山巅，也曾进入低谷，二者都使我受益良多”",
+        "id": "1791585754755350528",
+        "location": "雨檬の幻想乡",
+        "name": "🍥神楽坂·雨檬&梦雨🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1983521304704864425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984482845377904641/18i9NVgR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 808,
+          "following_count": 171,
+          "like_count": 4243,
+          "listed_count": 2,
+          "media_count": 70,
+          "tweet_count": 1116
+        },
+        "username": "RainLemon0715",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-13T19:24:40.000Z",
+        "description": "尹白雯//精神南极人，身份认同是企鹅//地科只学了一晚居然省一//情绪障碍//INF…P或J随缘//即将成年//2025.7.23纪念糖🏳️‍⚧️🍥//私信扩列找我玩🥺//有个对象@amecandy_x🥰",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 90,
+                "username": "amecandy_x"
+              }
+            ]
+          }
+        },
+        "id": "1735017872353808385",
+        "location": "南极洲企鹅之国的海外领土",
+        "name": "是白雯雯呀🏳️‍⚧️",
+        "pinned_tweet_id": "1986436953705971880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975016159910199296/uWHoG_7L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 317,
+          "following_count": 255,
+          "like_count": 2897,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 493
+        },
+        "username": "wawoqu2772",
+        "verified": false
+      }
+    ]
+  }
+}

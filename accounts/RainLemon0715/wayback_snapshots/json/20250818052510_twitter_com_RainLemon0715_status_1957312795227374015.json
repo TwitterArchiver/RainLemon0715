@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1791585754755350528",
+    "conversation_id": "1956980046435954839",
+    "created_at": "2025-08-18T05:25:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-18T06:25:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957312795227374015"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1243955613148811265",
+          "start": 0,
+          "username": "LGBBQ_Ellenya"
+        },
+        {
+          "end": 27,
+          "id": "1767040816986656768",
+          "start": 15,
+          "username": "MeviuslX_Xl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957312795227374015",
+    "in_reply_to_user_id": "1243955613148811265",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957138080638644546",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LGBBQ_Ellenya @MeviuslX_Xl ？苹果可以"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1791585754755350528",
+        "conversation_id": "1956980046435954839",
+        "created_at": "2025-08-18T05:25:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T06:25:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957312795227374015"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1243955613148811265",
+              "start": 0,
+              "username": "LGBBQ_Ellenya"
+            },
+            {
+              "end": 27,
+              "id": "1767040816986656768",
+              "start": 15,
+              "username": "MeviuslX_Xl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957312795227374015",
+        "in_reply_to_user_id": "1243955613148811265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957138080638644546",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LGBBQ_Ellenya @MeviuslX_Xl ？苹果可以"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243955613148811265",
+        "conversation_id": "1956980046435954839",
+        "created_at": "2025-08-17T17:50:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-17T18:50:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957138080638644546"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1767040816986656768",
+              "start": 0,
+              "username": "MeviuslX_Xl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957138080638644546",
+        "in_reply_to_user_id": "1767040816986656768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956980046435954839",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MeviuslX_Xl 为什么我点不开😭\n安卓16缘故吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-17T21:45:14.000Z",
+        "description": "07年的超大只mtf🍥🏳️‍⚧️｜无证含糖，hrt2023.7.15｜深柜家暴党｜双向+重抑|欢迎来找我贴贴｜现居山东｜不od不割手｜INFP｜“我曾踏足山巅，也曾进入低谷，二者都使我受益良多”",
+        "id": "1791585754755350528",
+        "location": "雨檬の幻想乡",
+        "name": "🍥神楽坂·雨檬&梦雨🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1956885660859863208",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906911119580823552/VQjZGMza_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 368,
+          "following_count": 130,
+          "like_count": 2706,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 593
+        },
+        "username": "RainLemon0715",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-28T17:38:33.000Z",
+        "description": "🤨🫵🏳️‍🌈🏳️‍⚧️❓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/EIIenya",
+                "end": 23,
+                "expanded_url": "http://t.me/EIIenya",
+                "start": 0,
+                "url": "https://t.co/n76jhjzK4q"
+              }
+            ]
+          }
+        },
+        "id": "1243955613148811265",
+        "location": "Born&live 🇪🇸",
+        "name": "Ellenya Soldatonya 千秋🇪🇦🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833102763451875328/6DH157wa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1677,
+          "following_count": 2517,
+          "like_count": 250233,
+          "listed_count": 20,
+          "media_count": 4467,
+          "tweet_count": 44774
+        },
+        "url": "https://t.co/n76jhjzK4q",
+        "username": "LGBBQ_Ellenya",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-11T04:12:28.000Z",
+        "description": "一只笨笨的邪恶小魅魔｜可以叫我小梅，或者梅子干也行｜有最爱的主人+老公@Lovemostmevius ，也有很喜欢很喜欢的姐姐大人@wang3289 ，小梅的妈咪@miya051223｜有点腹黑毒舌，但是很好相处，想认识好多好多朋友｜目前精神状态有点差，但是在努力克服啦｜最后……这里有提问箱⬇️可以问小梅任何问题哦～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 35,
+                "username": "Lovemostmevius"
+              },
+              {
+                "end": 74,
+                "start": 65,
+                "username": "wang3289"
+              },
+              {
+                "end": 92,
+                "start": 81,
+                "username": "miya051223"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/MeviuslX_Xl843…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/MeviuslX_Xl84305",
+                "start": 0,
+                "url": "https://t.co/raPAD3yFdi"
+              }
+            ]
+          }
+        },
+        "id": "1767040816986656768",
+        "location": "魔王城",
+        "name": "ℳℯ𝓋𝒾𝓊𝓈",
+        "pinned_tweet_id": "1912136272698839097",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957098651299581952/LUPlmVG6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13391,
+          "following_count": 1091,
+          "like_count": 18096,
+          "listed_count": 29,
+          "media_count": 1074,
+          "tweet_count": 8418
+        },
+        "url": "https://t.co/raPAD3yFdi",
+        "username": "MeviuslX_Xl",
+        "verified": true
+      }
+    ]
+  }
+}

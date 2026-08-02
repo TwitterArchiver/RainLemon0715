@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1791585754755350528",
+    "conversation_id": "1979139431169769532",
+    "created_at": "2025-10-17T10:56:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-17T11:56:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979139431169769532"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1552918719440924672",
+          "start": 3,
+          "username": "Sanx0n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979139431169769532",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 377
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977742179264065721",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Sanx0n: 猫卷为了庆祝新店（号）开业 搞个抽奖吧\n\n奖品是：五盒日雌！抽五个人免费送！\n也可折现为266元！或换成其他药物（泰补 诺）～\n参与方法：关注，转发，评论，点赞\n开奖时间：11月1日\n\n需要购买的话欢迎私信～售价380/盒包邮 具体请看置顶 https:…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1176,
+        "media_key": "3_1977742156216549376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3JaAzaaQAATXGV.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1109,
+        "media_key": "3_1977742156208214016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3JaAzYbEAAh9W-.jpg",
+        "width": 1478
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1791585754755350528",
+        "conversation_id": "1979139431169769532",
+        "created_at": "2025-10-17T10:56:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T11:56:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979139431169769532"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1552918719440924672",
+              "start": 3,
+              "username": "Sanx0n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979139431169769532",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 377
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977742179264065721",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Sanx0n: 猫卷为了庆祝新店（号）开业 搞个抽奖吧\n\n奖品是：五盒日雌！抽五个人免费送！\n也可折现为266元！或换成其他药物（泰补 诺）～\n参与方法：关注，转发，评论，点赞\n开奖时间：11月1日\n\n需要购买的话欢迎私信～售价380/盒包邮 具体请看置顶 https:…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1977742156216549376",
+            "3_1977742156208214016"
+          ]
+        },
+        "author_id": "1552918719440924672",
+        "conversation_id": "1977742179264065721",
+        "created_at": "2025-10-13T14:24:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T15:24:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977742179264065721"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SKcYBhtUQH",
+              "end": 144,
+              "expanded_url": "https://x.com/Sanx0n/status/1977742179264065721/photo/1",
+              "media_key": "3_1977742156216549376",
+              "start": 121,
+              "url": "https://t.co/SKcYBhtUQH"
+            },
+            {
+              "display_url": "pic.x.com/SKcYBhtUQH",
+              "end": 144,
+              "expanded_url": "https://x.com/Sanx0n/status/1977742179264065721/photo/1",
+              "media_key": "3_1977742156208214016",
+              "start": 121,
+              "url": "https://t.co/SKcYBhtUQH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977742179264065721",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 45,
+          "impression_count": 64480,
+          "like_count": 621,
+          "quote_count": 12,
+          "reply_count": 400,
+          "retweet_count": 377
+        },
+        "reply_settings": "everyone",
+        "text": "猫卷为了庆祝新店（号）开业 搞个抽奖吧\n\n奖品是：五盒日雌！抽五个人免费送！\n也可折现为266元！或换成其他药物（泰补 诺）～\n参与方法：关注，转发，评论，点赞\n开奖时间：11月1日\n\n需要购买的话欢迎私信～售价380/盒包邮 具体请看置顶 https://t.co/SKcYBhtUQH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-17T21:45:14.000Z",
+        "description": "07年的超大只mtf🍥🏳️‍⚧️｜无证含糖，hrt2023.7.15｜深柜家暴党｜双向+重抑|欢迎来找我贴贴｜现居山东｜不od不割手｜INFP｜暂不圆角｜政治立场不确定｜努力rle中｜“我曾踏足山巅，也曾进入低谷，二者都使我受益良多”",
+        "id": "1791585754755350528",
+        "location": "雨檬の幻想乡",
+        "name": "🍥神楽坂·雨檬&梦雨🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1977294839168618951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976482299664642048/uRLRpVc5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 433,
+          "following_count": 138,
+          "like_count": 3215,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 756
+        },
+        "username": "RainLemon0715",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-29T07:27:40.000Z",
+        "description": "PhD @NTUsg | 💌@HobartR6🐟@Chiyuyu520🐱@_FurryFur_ | 里：@lumigj02 | 日雌380 泰补限时180 诺80 包邮",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 4,
+                "username": "NTUsg"
+              },
+              {
+                "end": 23,
+                "start": 14,
+                "username": "HobartR6"
+              },
+              {
+                "end": 35,
+                "start": 24,
+                "username": "Chiyuyu520"
+              },
+              {
+                "end": 47,
+                "start": 36,
+                "username": "_FurryFur_"
+              },
+              {
+                "end": 61,
+                "start": 52,
+                "username": "lumigj02"
+              }
+            ]
+          }
+        },
+        "id": "1552918719440924672",
+        "location": "成都/Singapore",
+        "name": "Sanxon & 猫卷 Co. (日雌泰补诺",
+        "pinned_tweet_id": "1978290955070374280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977456881494065152/mMVbYJ6v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1152,
+          "following_count": 842,
+          "like_count": 315,
+          "listed_count": 2,
+          "media_count": 58,
+          "tweet_count": 869
+        },
+        "username": "Sanx0n",
+        "verified": true
+      }
+    ]
+  }
+}

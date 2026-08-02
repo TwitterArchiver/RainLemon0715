@@ -1,0 +1,347 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1791585754755350528",
+    "conversation_id": "2011754805069562059",
+    "created_at": "2026-01-15T22:26:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-15T23:26:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2011928006806118757"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1906277351756886016",
+          "start": 0,
+          "username": "Pandora_LaBruja"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011928006806118757",
+    "in_reply_to_user_id": "1906277351756886016",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011920777386332589",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Pandora_LaBruja thank you"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1791585754755350528",
+        "conversation_id": "2011754805069562059",
+        "created_at": "2026-01-15T22:26:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-15T23:26:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011928006806118757"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1906277351756886016",
+              "start": 0,
+              "username": "Pandora_LaBruja"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011928006806118757",
+        "in_reply_to_user_id": "1906277351756886016",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011920777386332589",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Pandora_LaBruja thank you"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906277351756886016",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A film like Rogue One: A Star Wars Story",
+              "id": "86",
+              "name": "Movie"
+            },
+            "entity": {
+              "description": "Barbie is scheduled to be released in the United States on July 21, 2023.",
+              "id": "1527279290131238912",
+              "name": "Barbie (2023)"
+            }
+          },
+          {
+            "domain": {
+              "description": "A movie genre like Action",
+              "id": "87",
+              "name": "Movie Genre"
+            },
+            "entity": {
+              "id": "1283051822597279744",
+              "name": "Rom-com films"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comedy",
+              "id": "856976685916237824",
+              "name": "Comedy films"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sci-fi and fantasy",
+              "id": "856977093191647233",
+              "name": "Sci-fi & fantasy films"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Movies",
+              "id": "1072936713134071808",
+              "name": "Movies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1276514328007467008",
+              "name": "Movies & TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1283051822597279744",
+              "name": "Rom-com films"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Barbie is scheduled to be released in the United States on July 21, 2023.",
+              "id": "1527279290131238912",
+              "name": "Barbie (2023)"
+            }
+          }
+        ],
+        "conversation_id": "2011754805069562059",
+        "created_at": "2026-01-15T21:57:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-15T22:57:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011920777386332589"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 20,
+              "normalized_text": "Barbie",
+              "probability": 0.9137,
+              "start": 15,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1791585754755350528",
+              "start": 0,
+              "username": "RainLemon0715"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011920777386332589",
+        "in_reply_to_user_id": "1791585754755350528",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 121,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011754805069562059",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RainLemon0715 Barbie dice : \"se lo que quieras ser\".\n\nMientras no hagas mal a  otros....🫂🌟"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-17T21:45:14.000Z",
+        "description": "07年的超大只mtf🍥🏳️‍⚧️｜持证含糖，hrt21.1.10-22.12/扭转⚠️/2023.7.15恢复｜半家长党…吗？｜双向+重抑|欢迎来找我贴贴｜现居山东｜不od不割手｜INFP｜暂不圆角｜政治立场不确定｜努力rle中｜🚪50，可加好友（QQ）｜清水推｜“我曾踏足山巅，也曾进入低谷，二者都使我受益良多”",
+        "id": "1791585754755350528",
+        "location": "未來由自己書寫",
+        "name": "🍥神楽坂·雨檬&梦雨🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2010535213299048582",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998523715638931458/M5oGaoU7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1725,
+          "following_count": 220,
+          "like_count": 7119,
+          "listed_count": 3,
+          "media_count": 163,
+          "tweet_count": 1798
+        },
+        "username": "RainLemon0715",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-30T09:28:52.000Z",
+        "description": "Ahora Observo La Malicia Humana .../\nFan Obsesionad@ con Theresa Apocalypse..\nMi Canal : \nhttps://t.co/1GJAuZxSoA",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@pandora_knowl…",
+                "end": 113,
+                "expanded_url": "https://youtube.com/@pandora_knowledge?si=qkb9khJV4Gc37gyk",
+                "start": 90,
+                "url": "https://t.co/1GJAuZxSoA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/en/users/10336…",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/en/users/10336305/illustrations",
+                "start": 0,
+                "url": "https://t.co/e6Prk6LrCD"
+              }
+            ]
+          }
+        },
+        "id": "1906277351756886016",
+        "location": "Academia Abydos",
+        "name": "Pandora🏳️‍⚧️🇲🇽",
+        "pinned_tweet_id": "1988494753181151610",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011651223297150977/nXVduopK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 752,
+          "like_count": 31705,
+          "listed_count": 0,
+          "media_count": 892,
+          "tweet_count": 3829
+        },
+        "url": "https://t.co/e6Prk6LrCD",
+        "username": "Pandora_LaBruja",
+        "verified": false
+      }
+    ]
+  }
+}

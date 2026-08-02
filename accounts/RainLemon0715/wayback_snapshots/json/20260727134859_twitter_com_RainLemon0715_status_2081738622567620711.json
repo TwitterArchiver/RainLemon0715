@@ -1,0 +1,341 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1791585754755350528",
+    "conversation_id": "2081717240462995776",
+    "created_at": "2026-07-27T13:48:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T14:48:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081738622567620711"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1479696561302999042",
+          "start": 0,
+          "username": "quite8964"
+        },
+        {
+          "end": 27,
+          "id": "1721003883579748352",
+          "start": 11,
+          "username": "tushanhonghong9"
+        },
+        {
+          "end": 40,
+          "id": "1886449401029140485",
+          "start": 28,
+          "username": "shuanghenru"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081738622567620711",
+    "in_reply_to_user_id": "1479696561302999042",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081717240462995776",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@quite8964 @tushanhonghong9 @shuanghenru 喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1126,
+        "media_key": "3_2081717230765797376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOO-yr6a8AAcjhC.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1791585754755350528",
+        "conversation_id": "2081717240462995776",
+        "created_at": "2026-07-27T13:48:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T14:48:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081738622567620711"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1479696561302999042",
+              "start": 0,
+              "username": "quite8964"
+            },
+            {
+              "end": 27,
+              "id": "1721003883579748352",
+              "start": 11,
+              "username": "tushanhonghong9"
+            },
+            {
+              "end": 40,
+              "id": "1886449401029140485",
+              "start": 28,
+              "username": "shuanghenru"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081738622567620711",
+        "in_reply_to_user_id": "1479696561302999042",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081717240462995776",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@quite8964 @tushanhonghong9 @shuanghenru 喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081717230765797376"
+          ]
+        },
+        "author_id": "1479696561302999042",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2081717240462995776",
+        "created_at": "2026-07-27T12:24:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T13:24:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081717240462995776"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1721003883579748352",
+              "start": 3,
+              "username": "tushanhonghong9"
+            },
+            {
+              "end": 33,
+              "id": "1886449401029140485",
+              "start": 21,
+              "username": "shuanghenru"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/E4SNwex5Q2",
+              "end": 62,
+              "expanded_url": "https://x.com/quite8964/status/2081717240462995776/photo/1",
+              "media_key": "3_2081717230765797376",
+              "start": 39,
+              "url": "https://t.co/E4SNwex5Q2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081717240462995776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 295,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "和红红@tushanhonghong9 霜@shuanghenru 在面基😺 https://t.co/E4SNwex5Q2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-17T21:45:14.000Z",
+        "description": "07🍥🏳️‍⚧️｜持证含糖，hrt21.1.8｜究极家暴党｜双向+重抑|欢迎来找我贴贴｜现居山东｜不od不割手｜INFP｜想当个女孩子｜SRS资金筹备ing｜无政治立场｜努力rle中｜最好的老婆@whalexxs，我的此生挚爱~|“我曾踏足山巅，也曾进入低谷，二者都使我受益良多”（现在是兼职糖果商人哦）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 97,
+                "username": "whalexxs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+iN5huf7JvPkxY…",
+                "end": 23,
+                "expanded_url": "https://t.me/+iN5huf7JvPkxYWE9",
+                "start": 0,
+                "url": "https://t.co/GweBgmAiDG"
+              }
+            ]
+          }
+        },
+        "id": "1791585754755350528",
+        "location": "明天",
+        "name": "🍥神楽坂·雨檬&梦雨🏳️‍⚧️🍬（出🍥🍬）",
+        "pinned_tweet_id": "2074429195980050577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018330545328152576/MiPIgQL4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4484,
+          "following_count": 305,
+          "like_count": 8106,
+          "listed_count": 5,
+          "media_count": 260,
+          "tweet_count": 2315
+        },
+        "url": "https://t.co/GweBgmAiDG",
+        "username": "RainLemon0715",
+        "verified": true
+      },
+      {
+        "created_at": "2022-01-08T06:09:08.000Z",
+        "description": "永远17岁的小傻瓜 想要得到更多的喜欢和爱 可爱橘喵 互fo喵 小宠物猫 @Shion_Glad @A5Tr41 @dominnicchina",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 37,
+                "username": "Shion_Glad"
+              },
+              {
+                "end": 56,
+                "start": 49,
+                "username": "A5Tr41"
+              },
+              {
+                "end": 71,
+                "start": 57,
+                "username": "dominnicchina"
+              }
+            ]
+          }
+        },
+        "id": "1479696561302999042",
+        "location": "你的心里",
+        "name": "枫糖小橘🍊",
+        "pinned_tweet_id": "2066574974631248339",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938519215071481856/RGyMr1ce_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10841,
+          "following_count": 3125,
+          "like_count": 33166,
+          "listed_count": 30,
+          "media_count": 659,
+          "tweet_count": 14883
+        },
+        "url": "",
+        "username": "quite8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-05T03:18:25.000Z",
+        "description": "一场梦要多长，才生发希望？ 最苦相思，最远却是遗忘。/🍥250314/努力思考中...",
+        "id": "1721003883579748352",
+        "location": "涂山",
+        "name": "涂山红红",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1721008174629527552/jPpZLMx0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 914,
+          "following_count": 589,
+          "like_count": 74954,
+          "listed_count": 5,
+          "media_count": 196,
+          "tweet_count": 2870
+        },
+        "url": "",
+        "username": "tushanhonghong9",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-03T16:19:29.000Z",
+        "description": "09.12.23 MTF (She/Her) | HRT 25.5.9 | 双相 小证",
+        "id": "1886449401029140485",
+        "location": "🫥🫥🫥🫥🫥🫥",
+        "name": "霜🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952663751691255808/P0sBq0XV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 444,
+          "following_count": 928,
+          "like_count": 646,
+          "listed_count": 0,
+          "media_count": 96,
+          "tweet_count": 886
+        },
+        "url": "",
+        "username": "shuanghenru",
+        "verified": false
+      }
+    ]
+  }
+}

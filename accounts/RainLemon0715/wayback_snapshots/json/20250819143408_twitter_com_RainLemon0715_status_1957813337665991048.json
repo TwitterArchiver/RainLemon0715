@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1791585754755350528",
+    "conversation_id": "1957721585449857386",
+    "created_at": "2025-08-19T14:34:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-19T15:34:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957813337665991048"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1870430200506535936",
+          "start": 0,
+          "username": "zhshfngwis8964"
+        },
+        {
+          "end": 32,
+          "id": "1754456623358058496",
+          "start": 16,
+          "username": "lemonacgnleilei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957813337665991048",
+    "in_reply_to_user_id": "1870430200506535936",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957721585449857386",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhshfngwis8964 @lemonacgnleilei 姐姐hso"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1791585754755350528",
+        "conversation_id": "1957721585449857386",
+        "created_at": "2025-08-19T14:34:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T15:34:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957813337665991048"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1870430200506535936",
+              "start": 0,
+              "username": "zhshfngwis8964"
+            },
+            {
+              "end": 32,
+              "id": "1754456623358058496",
+              "start": 16,
+              "username": "lemonacgnleilei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957813337665991048",
+        "in_reply_to_user_id": "1870430200506535936",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957721585449857386",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhshfngwis8964 @lemonacgnleilei 姐姐hso"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870430200506535936",
+        "conversation_id": "1957721585449857386",
+        "created_at": "2025-08-19T08:29:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T09:29:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957721585449857386"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1754456623358058496",
+              "start": 1,
+              "username": "lemonacgnleilei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957721585449857386",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 328,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "被@lemonacgnleilei 艹出萝莉音了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-17T21:45:14.000Z",
+        "description": "07年的超大只mtf🍥🏳️‍⚧️｜无证含糖，hrt2023.7.15｜深柜家暴党｜双向+重抑|欢迎来找我贴贴｜现居山东｜不od不割手｜INFP｜“我曾踏足山巅，也曾进入低谷，二者都使我受益良多”",
+        "id": "1791585754755350528",
+        "location": "雨檬の幻想乡",
+        "name": "🍥神楽坂·雨檬&梦雨🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1956885660859863208",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906911119580823552/VQjZGMza_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 372,
+          "following_count": 132,
+          "like_count": 2713,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 597
+        },
+        "username": "RainLemon0715",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-21T11:24:58.000Z",
+        "description": "一只可爱的🧀🍥风味石英猫 出厂日期:08.01.13  24.08.22持证  24.04.20hrt",
+        "id": "1870430200506535936",
+        "name": "芝士🍥风味石英",
+        "pinned_tweet_id": "1907048371166351758",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870430376776327168/QVVqE23n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1056,
+          "following_count": 430,
+          "like_count": 6753,
+          "listed_count": 3,
+          "media_count": 77,
+          "tweet_count": 2476
+        },
+        "username": "zhshfngwis8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-05T10:47:34.000Z",
+        "description": "@lemonacgnlei小号，二次元cos三坑漫展圈的创业者，173/63女装攻S1温柔体贴型，纯男娘群：945161355～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "lemonacgnlei"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lemonacgnleilei",
+                "end": 23,
+                "expanded_url": "https://t.me/lemonacgnleilei",
+                "start": 0,
+                "url": "https://t.co/wj3Q9DbQzI"
+              }
+            ]
+          }
+        },
+        "id": "1754456623358058496",
+        "location": "广东惠州",
+        "name": "柠萌酱（首发版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951126481096359936/VPrx17pW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4270,
+          "following_count": 1394,
+          "like_count": 24,
+          "listed_count": 16,
+          "media_count": 12,
+          "tweet_count": 10427
+        },
+        "url": "https://t.co/wj3Q9DbQzI",
+        "username": "lemonacgnleilei",
+        "verified": false
+      }
+    ]
+  }
+}

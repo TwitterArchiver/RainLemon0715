@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1791585754755350528",
+    "conversation_id": "1938427782478106771",
+    "created_at": "2025-06-27T10:13:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-27T11:13:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938541093454532884"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1809565825206292480",
+          "start": 0,
+          "username": "Rin_Chord"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938541093454532884",
+    "in_reply_to_user_id": "1809565825206292480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938427782478106771",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rin_Chord 是可爱的蓝毛大狐狸～\n抱抱～"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2005,
+        "media_key": "3_1938427779420467200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Guaty48bMAAG7_j.jpg",
+        "width": 1121
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1791585754755350528",
+        "conversation_id": "1938427782478106771",
+        "created_at": "2025-06-27T10:13:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T11:13:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938541093454532884"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1809565825206292480",
+              "start": 0,
+              "username": "Rin_Chord"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938541093454532884",
+        "in_reply_to_user_id": "1809565825206292480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938427782478106771",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rin_Chord 是可爱的蓝毛大狐狸～\n抱抱～"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1938427779420467200"
+          ]
+        },
+        "author_id": "1809565825206292480",
+        "conversation_id": "1938427782478106771",
+        "created_at": "2025-06-27T02:42:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T03:42:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938427782478106771"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8LJ73iHAke",
+              "end": 32,
+              "expanded_url": "https://x.com/Rin_Chord/status/1938427782478106771/photo/1",
+              "media_key": "3_1938427779420467200",
+              "start": 9,
+              "url": "https://t.co/8LJ73iHAke"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938427782478106771",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2174,
+          "like_count": 59,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "早～上～好～哦～ https://t.co/8LJ73iHAke"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-17T21:45:14.000Z",
+        "description": "07年的超大只mtf🍥🏳️‍⚧️｜无证含糖，hrt2023.7.15｜深柜家暴党｜双向+重抑｜恋爱ing|欢迎来找我贴贴｜现居山东｜最好的老公@mishamimihemumu❤️｜妈咪 @Shenyuebanran",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 71,
+                "username": "mishamimihemumu"
+              },
+              {
+                "end": 107,
+                "start": 93,
+                "username": "Shenyuebanran"
+              }
+            ]
+          }
+        },
+        "id": "1791585754755350528",
+        "location": "雨檬の幻想乡",
+        "name": "🍥神楽坂·雨檬&梦雨🏳️‍⚧️🍥（苦逼打工版）",
+        "pinned_tweet_id": "1927644848741634415",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906911119580823552/VQjZGMza_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 292,
+          "following_count": 133,
+          "like_count": 1962,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 427
+        },
+        "username": "RainLemon0715",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-06T12:31:40.000Z",
+        "description": "◇一只努力生活的蓝毛大狐狸 ◇爱人 @kawaii_bing   ◇珠三角常驻女大 ◇聊天好友位88r◇ --Chord Studio : START",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 18,
+                "username": "kawaii_bing"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "chrdsite.rinchord.studio",
+                "end": 23,
+                "expanded_url": "https://chrdsite.rinchord.studio/",
+                "start": 0,
+                "url": "https://t.co/g0uXX0FfLl"
+              }
+            ]
+          }
+        },
+        "id": "1809565825206292480",
+        "location": "距离您 0.2 km",
+        "name": "渺宙凛娴",
+        "pinned_tweet_id": "1840460431267451246",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933429754025422850/H7nF6NXa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5026,
+          "following_count": 85,
+          "like_count": 1117,
+          "listed_count": 9,
+          "media_count": 221,
+          "tweet_count": 1877
+        },
+        "url": "https://t.co/g0uXX0FfLl",
+        "username": "Rin_Chord",
+        "verified": false
+      }
+    ]
+  }
+}

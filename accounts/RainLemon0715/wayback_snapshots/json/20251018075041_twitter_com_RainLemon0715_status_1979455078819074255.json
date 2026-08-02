@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1791585754755350528",
+    "conversation_id": "1724079988813807818",
+    "created_at": "2025-10-18T07:50:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-18T08:50:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979455078819074255"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "957544663275028481",
+          "start": 0,
+          "username": "SuBanXia1120"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979455078819074255",
+    "in_reply_to_user_id": "957544663275028481",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1724079988813807818",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SuBanXia1120 剑魔？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1791585754755350528",
+        "conversation_id": "1724079988813807818",
+        "created_at": "2025-10-18T07:50:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T08:50:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979455078819074255"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "957544663275028481",
+              "start": 0,
+              "username": "SuBanXia1120"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979455078819074255",
+        "in_reply_to_user_id": "957544663275028481",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1724079988813807818",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SuBanXia1120 剑魔？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "957544663275028481",
+        "conversation_id": "1724079988813807818",
+        "created_at": "2023-11-13T15:01:15.000Z",
+        "edit_controls": {
+          "editable_until": "2023-11-13T16:01:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1724079988813807818"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1724079988813807818",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 58646,
+          "like_count": 170,
+          "quote_count": 0,
+          "reply_count": 24,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "一跟别人聊起srs手术，我就迫不及待的安利布林，真的体验非常好，就好像推荐别人很好玩的游戏，安利好剧一样的心情，这就是布小将🤣如果有牛牛好想再切一次\n牛牛，我切你，一！万！次！都！不够！\n哈哈哈哈↑"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-17T21:45:14.000Z",
+        "description": "07年的超大只mtf🍥🏳️‍⚧️｜无证含糖，hrt2023.7.15｜深柜家暴党｜双向+重抑|欢迎来找我贴贴｜现居山东｜不od不割手｜INFP｜暂不圆角｜政治立场不确定｜努力rle中｜“我曾踏足山巅，也曾进入低谷，二者都使我受益良多”",
+        "id": "1791585754755350528",
+        "location": "雨檬の幻想乡",
+        "name": "🍥神楽坂·雨檬&梦雨🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1977294839168618951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976482299664642048/uRLRpVc5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 442,
+          "following_count": 153,
+          "like_count": 3314,
+          "listed_count": 1,
+          "media_count": 37,
+          "tweet_count": 783
+        },
+        "username": "RainLemon0715",
+        "verified": false
+      },
+      {
+        "created_at": "2018-01-28T09:23:32.000Z",
+        "description": "我居然是苏半夏🦋丨“我觉得现在的人生，就很幸福了。”好友🚪50丨性转幻想频道：https://t.co/AGPNZuMX3L丨SRS手术分享https://t.co/HLSHXOnt8E要是我们能永远留在夏天里，就好了。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/MuranAG",
+                "end": 62,
+                "expanded_url": "https://t.me/MuranAG",
+                "start": 39,
+                "url": "https://t.co/AGPNZuMX3L"
+              },
+              {
+                "display_url": "t.me/muranSRSinpai",
+                "end": 93,
+                "expanded_url": "https://t.me/muranSRSinpai",
+                "start": 70,
+                "url": "https://t.co/HLSHXOnt8E"
+              }
+            ]
+          }
+        },
+        "id": "957544663275028481",
+        "location": "Hong Kong",
+        "name": "苒🦊木狐",
+        "pinned_tweet_id": "1924371810130518218",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1433839553748430851/2UH9XRNO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18081,
+          "following_count": 901,
+          "like_count": 6130,
+          "listed_count": 55,
+          "media_count": 689,
+          "tweet_count": 4376
+        },
+        "username": "SuBanXia1120",
+        "verified": true
+      }
+    ]
+  }
+}

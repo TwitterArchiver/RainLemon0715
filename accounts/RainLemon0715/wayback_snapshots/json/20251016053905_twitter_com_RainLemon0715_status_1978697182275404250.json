@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1791585754755350528",
+    "conversation_id": "1978494942197739663",
+    "created_at": "2025-10-16T05:39:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-16T06:39:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978697182275404250"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1665019483474530311",
+          "start": 0,
+          "username": "yuqkchan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978697182275404250",
+    "in_reply_to_user_id": "1665019483474530311",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978494942197739663",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuqkchan 好涩"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1791585754755350528",
+        "conversation_id": "1978494942197739663",
+        "created_at": "2025-10-16T05:39:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T06:39:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978697182275404250"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1665019483474530311",
+              "start": 0,
+              "username": "yuqkchan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978697182275404250",
+        "in_reply_to_user_id": "1665019483474530311",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978494942197739663",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuqkchan 好涩"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1665019483474530311",
+        "conversation_id": "1978494942197739663",
+        "created_at": "2025-10-15T16:15:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T17:15:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978494942197739663"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1978494942197739663",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 162,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "揉胸爽死了✌🥵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-17T21:45:14.000Z",
+        "description": "07年的超大只mtf🍥🏳️‍⚧️｜无证含糖，hrt2023.7.15｜深柜家暴党｜双向+重抑|欢迎来找我贴贴｜现居山东｜不od不割手｜INFP｜暂不圆角｜政治立场不确定｜努力rle中｜“我曾踏足山巅，也曾进入低谷，二者都使我受益良多”",
+        "id": "1791585754755350528",
+        "location": "雨檬の幻想乡",
+        "name": "🍥神楽坂·雨檬&梦雨🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1977294839168618951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976482299664642048/uRLRpVc5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 432,
+          "following_count": 138,
+          "like_count": 3175,
+          "listed_count": 1,
+          "media_count": 31,
+          "tweet_count": 743
+        },
+        "username": "RainLemon0715",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-03T15:36:06.000Z",
+        "description": "春の中に 君と落ちていく。\nCallsign BD6IBL\n纯透明低质量kiger\nApex Legends / WOWS / osu! 成瘾(\nManaged democracy is the true path.\n精神极度不稳定会掉落奇怪的东西⚠️\n🏳️‍🌈🏳️‍⚧️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "osu.ppy.sh/users/33752668",
+                "end": 23,
+                "expanded_url": "https://osu.ppy.sh/users/33752668",
+                "start": 0,
+                "url": "https://t.co/Dggz99pwa8"
+              }
+            ]
+          }
+        },
+        "id": "1665019483474530311",
+        "location": "DSS, Super Earth",
+        "name": "雨卿喵不是😺",
+        "pinned_tweet_id": "1971537810034393152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949918404498116609/uf0xoe2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2858,
+          "following_count": 1191,
+          "like_count": 8710,
+          "listed_count": 7,
+          "media_count": 1041,
+          "tweet_count": 7121
+        },
+        "url": "https://t.co/Dggz99pwa8",
+        "username": "yuqkchan",
+        "verified": false
+      }
+    ]
+  }
+}

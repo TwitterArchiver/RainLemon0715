@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1791585754755350528",
+    "conversation_id": "2081326822793642316",
+    "created_at": "2026-07-26T13:50:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T14:50:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081376670104387959"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1965448764686303235",
+          "start": 0,
+          "username": "mio_negimeow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081376670104387959",
+    "in_reply_to_user_id": "1965448764686303235",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081326822793642316",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mio_negimeow 姐姐玩我"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 45484,
+        "height": 1920,
+        "media_key": "13_2081326694271684608",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2081326694271684608/img/RVCOBm91JhVBMbRd.jpg",
+        "public_metrics": {
+          "view_count": 511
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2081326694271684608/pl/qd03n8JBZGDLytUp.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081326694271684608/vid/avc1/480x852/1oivU0yE3kiPh6Gy.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081326694271684608/vid/avc1/720x1280/dmTaSi_VBmF4B_kn.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081326694271684608/vid/avc1/320x568/RAXVXHYs8ACL9tKD.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081326694271684608/vid/avc1/1080x1920/Z7zlcpe3MLlGA7sF.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1791585754755350528",
+        "conversation_id": "2081326822793642316",
+        "created_at": "2026-07-26T13:50:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T14:50:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081376670104387959"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1965448764686303235",
+              "start": 0,
+              "username": "mio_negimeow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081376670104387959",
+        "in_reply_to_user_id": "1965448764686303235",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081326822793642316",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mio_negimeow 姐姐玩我"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2081326694271684608"
+          ]
+        },
+        "author_id": "1965448764686303235",
+        "conversation_id": "2081326822793642316",
+        "created_at": "2026-07-26T10:32:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T11:32:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081326822793642316"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UdWPvxIrOQ",
+              "end": 139,
+              "expanded_url": "https://x.com/mio_negimeow/status/2081326822793642316/video/1",
+              "media_key": "13_2081326694271684608",
+              "start": 116,
+              "url": "https://t.co/UdWPvxIrOQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081326822793642316",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1144,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "驱动板到了，调了半天参数，不得不说这电机EMI好严重，会干扰到屏幕的刷新，导致时序乱掉，调了半天驱动代码和硬件现在终于搞定了\n等下我想想怎么加自定义波形和手机控制（？\n但是我手头没有ESP32了，不知道手里能不能找到那个8266了 https://t.co/UdWPvxIrOQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-17T21:45:14.000Z",
+        "description": "07🍥🏳️‍⚧️｜持证含糖，hrt21.1.8｜究极家暴党｜双向+重抑|欢迎来找我贴贴｜现居山东｜不od不割手｜INFP｜想当个女孩子｜SRS资金筹备ing｜无政治立场｜努力rle中｜最好的老婆@whalexxs，我的此生挚爱~|“我曾踏足山巅，也曾进入低谷，二者都使我受益良多”（现在是兼职糖果商人哦）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 97,
+                "username": "whalexxs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+iN5huf7JvPkxY…",
+                "end": 23,
+                "expanded_url": "https://t.me/+iN5huf7JvPkxYWE9",
+                "start": 0,
+                "url": "https://t.co/GweBgmAiDG"
+              }
+            ]
+          }
+        },
+        "id": "1791585754755350528",
+        "location": "明天",
+        "name": "🍥神楽坂·雨檬&梦雨🏳️‍⚧️🍬（出🍥🍬）",
+        "pinned_tweet_id": "2074429195980050577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018330545328152576/MiPIgQL4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4474,
+          "following_count": 305,
+          "like_count": 8099,
+          "listed_count": 5,
+          "media_count": 258,
+          "tweet_count": 2309
+        },
+        "url": "https://t.co/GweBgmAiDG",
+        "username": "RainLemon0715",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-09T16:14:58.000Z",
+        "description": "笨笨的奶牛猫葱~｜姛｜Feminist ｜喜欢探索世界的理工女 ｜ 日常碎碎念  |  🏳️‍⚧️  |  姐姐🥰@RrkwM10400",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 57,
+                "username": "RrkwM10400"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "snowmiku-home.top/ask/",
+                "end": 23,
+                "expanded_url": "https://snowmiku-home.top/ask/",
+                "start": 0,
+                "url": "https://t.co/D65FRZl7CC"
+              }
+            ]
+          }
+        },
+        "id": "1965448764686303235",
+        "location": "提问箱📦→",
+        "name": "酱葱🌱",
+        "pinned_tweet_id": "2076361084647444658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993376877587972104/nec22BPP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2185,
+          "following_count": 99,
+          "like_count": 1594,
+          "listed_count": 6,
+          "media_count": 102,
+          "tweet_count": 855
+        },
+        "url": "https://t.co/D65FRZl7CC",
+        "username": "mio_negimeow",
+        "verified": true
+      }
+    ]
+  }
+}

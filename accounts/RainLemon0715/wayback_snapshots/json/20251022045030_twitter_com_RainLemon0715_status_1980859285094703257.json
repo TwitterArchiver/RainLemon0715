@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1791585754755350528",
+    "conversation_id": "1980846373793862141",
+    "created_at": "2025-10-22T04:50:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-22T05:50:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980859285094703257"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1711840683638792192",
+          "start": 0,
+          "username": "xiaogudu423"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980859285094703257",
+    "in_reply_to_user_id": "1711840683638792192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980846373793862141",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaogudu423 好可爱！"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4128,
+        "height": 1280,
+        "media_key": "7_1980846348648816640",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1980846348648816640/pu/img/HDlhqdAu-nwnlLDE.jpg",
+        "public_metrics": {
+          "view_count": 26
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1980846348648816640/pu/vid/avc1/320x568/5rX_clxt7XSEIX2y.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1980846348648816640/pu/vid/avc1/480x852/cunflFriGGjXHq1G.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1980846348648816640/pu/vid/avc1/720x1280/D0mUi-b7pGypEby4.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1980846348648816640/pu/pl/Z5L9bLL7GPNPdj4a.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1791585754755350528",
+        "conversation_id": "1980846373793862141",
+        "created_at": "2025-10-22T04:50:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T05:50:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980859285094703257"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1711840683638792192",
+              "start": 0,
+              "username": "xiaogudu423"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980859285094703257",
+        "in_reply_to_user_id": "1711840683638792192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980846373793862141",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaogudu423 好可爱！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1980846348648816640"
+          ]
+        },
+        "author_id": "1711840683638792192",
+        "conversation_id": "1980846373793862141",
+        "created_at": "2025-10-22T03:59:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T04:59:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980846373793862141"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uty128iUOw",
+              "end": 29,
+              "expanded_url": "https://x.com/xiaogudu423/status/1980846373793862141/video/1",
+              "media_key": "7_1980846348648816640",
+              "start": 6,
+              "url": "https://t.co/uty128iUOw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980846373793862141",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 51,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哒哒哒哒哒 https://t.co/uty128iUOw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-17T21:45:14.000Z",
+        "description": "07年的超大只mtf🍥🏳️‍⚧️｜无证含糖，hrt2023.7.15｜深柜家暴党｜双向+重抑|欢迎来找我贴贴｜现居山东｜不od不割手｜INFP｜暂不圆角｜政治立场不确定｜努力rle中｜“我曾踏足山巅，也曾进入低谷，二者都使我受益良多”",
+        "id": "1791585754755350528",
+        "location": "雨檬の幻想乡",
+        "name": "🍥神楽坂·雨檬&梦雨🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1977294839168618951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976482299664642048/uRLRpVc5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 507,
+          "following_count": 161,
+          "like_count": 3528,
+          "listed_count": 1,
+          "media_count": 47,
+          "tweet_count": 877
+        },
+        "username": "RainLemon0715",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-10T20:27:20.000Z",
+        "description": "05 年/ MTF / 无证含糖 / infp / 家长反对党 / 欢迎随时找我聊天~ / 喜欢作词，小说，钢琴和猫猫",
+        "id": "1711840683638792192",
+        "name": "雨泠🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1975147988461961561",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960278385118298112/eLB4LArM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 926,
+          "following_count": 1083,
+          "like_count": 6408,
+          "listed_count": 1,
+          "media_count": 92,
+          "tweet_count": 1272
+        },
+        "username": "xiaogudu423",
+        "verified": false
+      }
+    ]
+  }
+}

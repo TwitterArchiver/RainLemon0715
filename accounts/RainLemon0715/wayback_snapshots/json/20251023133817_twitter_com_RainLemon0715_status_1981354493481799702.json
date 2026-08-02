@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1791585754755350528",
+    "conversation_id": "1981320051585159481",
+    "created_at": "2025-10-23T13:38:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-23T14:38:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981354493481799702"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1728876310586331136",
+          "start": 0,
+          "username": "Norayyyye"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981354493481799702",
+    "in_reply_to_user_id": "1728876310586331136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981320051585159481",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Norayyyye 啊啊啊啊啊啊姐姐好涩！\n喜欢涩涩！"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14467,
+        "height": 1920,
+        "media_key": "7_1981319605348945920",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1981319605348945920/pu/img/Q_vLi72SdtHYYDnJ.jpg",
+        "public_metrics": {
+          "view_count": 201
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1981319605348945920/pu/vid/avc1/320x568/UTl_iZ3yqOHLRPYw.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1981319605348945920/pu/vid/avc1/480x852/D__K_nHK8m_WjujR.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1981319605348945920/pu/vid/avc1/720x1280/A87UXdWYFcWkzLj1.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1981319605348945920/pu/pl/3tzuFEpyBZwnuvHJ.m3u8?tag=12"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1791585754755350528",
+        "conversation_id": "1981320051585159481",
+        "created_at": "2025-10-23T13:38:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T14:38:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981354493481799702"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1728876310586331136",
+              "start": 0,
+              "username": "Norayyyye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981354493481799702",
+        "in_reply_to_user_id": "1728876310586331136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981320051585159481",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Norayyyye 啊啊啊啊啊啊姐姐好涩！\n喜欢涩涩！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1981319605348945920"
+          ]
+        },
+        "author_id": "1728876310586331136",
+        "conversation_id": "1981320051585159481",
+        "created_at": "2025-10-23T11:21:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T12:21:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981320051585159481"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/daxuPwsSFz",
+              "end": 26,
+              "expanded_url": "https://x.com/Norayyyye/status/1981320051585159481/video/1",
+              "media_key": "7_1981319605348945920",
+              "start": 3,
+              "url": "https://t.co/daxuPwsSFz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981320051585159481",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 448,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "好吃 https://t.co/daxuPwsSFz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-17T21:45:14.000Z",
+        "description": "07年的超大只mtf🍥🏳️‍⚧️｜无证含糖，hrt2023.7.15｜深柜家暴党｜双向+重抑|欢迎来找我贴贴｜现居山东｜不od不割手｜INFP｜暂不圆角｜政治立场不确定｜努力rle中｜“我曾踏足山巅，也曾进入低谷，二者都使我受益良多”",
+        "id": "1791585754755350528",
+        "location": "雨檬の幻想乡",
+        "name": "🍥神楽坂·雨檬&梦雨🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1977294839168618951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976482299664642048/uRLRpVc5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 525,
+          "following_count": 164,
+          "like_count": 3580,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 902
+        },
+        "username": "RainLemon0715",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-26T20:40:36.000Z",
+        "description": "Les| 老婆(有时候叫妹妹) @lyxfzjd\n🚫直男不要关注",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 16,
+                "username": "lyxfzjd"
+              }
+            ]
+          }
+        },
+        "id": "1728876310586331136",
+        "name": "Norayy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932530387563032576/hp9_wA3p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3830,
+          "following_count": 18,
+          "like_count": 1349,
+          "listed_count": 5,
+          "media_count": 50,
+          "tweet_count": 249
+        },
+        "username": "Norayyyye",
+        "verified": true
+      }
+    ]
+  }
+}
