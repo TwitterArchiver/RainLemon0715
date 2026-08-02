@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-08-02T12:08:17",
+  "last_updated": "2026-08-02T12:17:04",
   "html": {
     "https://web.archive.org/web/20250619060412if_/https://twitter.com/RainLemon0715/status/1935579347131527170": {
       "status": "done",
@@ -17305,9 +17305,9 @@
       "referenced_by": [
         "20251224054526_twitter_com_RainLemon0715_status_2003703544009097472.json"
       ],
-      "last_updated": "2026-08-02T11:23:50",
+      "last_updated": "2026-08-02T12:16:58",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20251224054526/https://video.twimg.com/tweet_video/G86LIvlb0AAdqfx.mp4",
-      "miss_count": 2
+      "miss_count": 3
     },
     "https://video.twimg.com/amplify_video/2003514828351295488/vid/avc1/1080x1920/fCj-C-IqB55y3T1G.mp4": {
       "status": "done",
@@ -17342,18 +17342,18 @@
       "referenced_by": [
         "20260314145804_twitter_com_RainLemon0715_status_2032833647917875392.json"
       ],
-      "last_updated": "2026-08-02T10:34:12",
+      "last_updated": "2026-08-02T12:17:01",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260314145804/https://video.twimg.com/ext_tw_video/2032833607883173889/pu/vid/avc1/576x1280/YpwtdZsOMYZNyxok.mp4?tag=12",
-      "miss_count": 1
+      "miss_count": 2
     },
     "https://video.twimg.com/amplify_video/2034964322833899524/vid/avc1/720x1280/M7Z4hf9Nd0ZLy8i3.mp4": {
       "status": "failed_all",
       "referenced_by": [
         "20260320132031_twitter_com_RainLemon0715_status_2034983427448181088.json"
       ],
-      "last_updated": "2026-08-02T10:34:13",
+      "last_updated": "2026-08-02T12:17:04",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260320132031/https://video.twimg.com/amplify_video/2034964322833899524/vid/avc1/720x1280/M7Z4hf9Nd0ZLy8i3.mp4",
-      "miss_count": 1
+      "miss_count": 2
     },
     "https://video.twimg.com/tweet_video/HOJ8zt9XgAAt_mZ.mp4": {
       "status": "done",
