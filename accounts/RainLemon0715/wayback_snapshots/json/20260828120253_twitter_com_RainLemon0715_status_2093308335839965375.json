@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1791585754755350528",
+    "conversation_id": "2093304272121393531",
+    "created_at": "2026-08-28T12:02:53.000Z",
+    "display_text_range": [
+      10,
+      35
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-28T13:02:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093308335839965375"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1882671462210998272",
+          "start": 0,
+          "username": "HosinoEJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093308335839965375",
+    "in_reply_to_user_id": "1882671462210998272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093304272121393531",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HosinoEJ 我就是去贪便宜买晾衣架的😭\n谁知道给我整这里来了啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2093301643605659648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQzmwQrbUAAnR4g.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1791585754755350528",
+        "conversation_id": "2093304272121393531",
+        "created_at": "2026-08-28T12:02:53.000Z",
+        "display_text_range": [
+          10,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T13:02:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093308335839965375"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1882671462210998272",
+              "start": 0,
+              "username": "HosinoEJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093308335839965375",
+        "in_reply_to_user_id": "1882671462210998272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093304272121393531",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HosinoEJ 我就是去贪便宜买晾衣架的😭\n谁知道给我整这里来了啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093301643605659648"
+          ]
+        },
+        "author_id": "1882671462210998272",
+        "conversation_id": "2093304272121393531",
+        "created_at": "2026-08-28T11:46:44.000Z",
+        "display_text_range": [
+          0,
+          105
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T12:46:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093304272121393531"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UKjQKmtKN6",
+              "end": 129,
+              "expanded_url": "https://x.com/HosinoEJ/status/2093304272121393531/photo/1",
+              "media_key": "3_2093301643605659648",
+              "start": 106,
+              "url": "https://t.co/UKjQKmtKN6"
+            },
+            {
+              "display_url": "x.com/RainLemon0715/…",
+              "end": 153,
+              "expanded_url": "https://twitter.com/RainLemon0715/status/2092844005918962119",
+              "start": 130,
+              "url": "https://t.co/7XmVJD3jbh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093304272121393531",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093301643605659648"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "我们通过雨檬的线下走访（误打误撞）确认了山东心种子教育咨询有限公司已经停止运营。\n\n前段时间，我们收到消息，青州市市场监管部门工作人员告诉我们，市场部门吊销了该机构的营业执照，机构进入注销程序，遣散了所有学员。\n从雨檬拍摄的图片可以看到，大量物品正在等待安置或运输，没有看到任何学员。\n\n山东心种子教育咨询有限公司曾作为戒网瘾机构，累计非法拘禁了数百名受害者。具体人数无从查证。\n据受害者讲述，内部教官成为受害者继父、性侵受害者等行为不在少数。有传言称该学校曾经有教官因性侵学员导致怀孕而获刑。\n\n我将继续观察该机构及其法人和教官的最新动向"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092844005918962119",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我们通过雨檬的线下走访（误打误撞）确认了山东心种子教育咨询有限公司已经停止运营。\n\n前段时间，我们收到消息，青州市市场监管部门工作人员告诉我们，市场部门吊销了该机构的营业执照，机构进入注销程序，遣散了所有学员。 https://t.co/UKjQKmtKN6 https://t.co/7XmVJD3jbh"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-17T21:45:14.000Z",
+        "description": "07🍥🏳️‍⚧️｜持证含糖，hrt21.1.8｜究极家暴党｜双向+重抑|欢迎来找我贴贴｜现居山东｜不od不割手｜INFP｜想当个女孩子｜SRS资金筹备ing｜无政治立场｜努力rle中｜新名字:妤蓁｜最好的老婆@whalexxs，我的此生挚爱~|“我曾踏足山巅，也曾进入低谷，二者都使我受益良多”（现在是兼职糖果商人哦）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 113,
+                "start": 104,
+                "username": "whalexxs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+iN5huf7JvPkxY…",
+                "end": 23,
+                "expanded_url": "https://t.me/+iN5huf7JvPkxYWE9",
+                "start": 0,
+                "url": "https://t.co/GweBgmAiDG"
+              }
+            ]
+          }
+        },
+        "id": "1791585754755350528",
+        "is_identity_verified": false,
+        "location": "明天",
+        "most_recent_tweet_id": "2093308335839965375",
+        "name": "🍥雨檬&妤蓁🏳️‍⚧️🍬（出🍥🍬）",
+        "pinned_tweet_id": "2091212242054533556",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1791585754755350528/1743065018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089647554296451072/DRVdcLqf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4653,
+          "following_count": 310,
+          "like_count": 8143,
+          "listed_count": 6,
+          "media_count": 294,
+          "tweet_count": 2401
+        },
+        "url": "https://t.co/GweBgmAiDG",
+        "username": "RainLemon0715",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-24T06:07:32.000Z",
+        "description": "🏴‍☠️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hosinoneko.me",
+                "end": 23,
+                "expanded_url": "https://hosinoneko.me",
+                "start": 0,
+                "url": "https://t.co/2FBvyw19SA"
+              }
+            ]
+          }
+        },
+        "id": "1882671462210998272",
+        "is_identity_verified": false,
+        "location": "TaiPei",
+        "most_recent_tweet_id": "2093305129646878970",
+        "name": "HosinoNeko",
+        "pinned_tweet_id": "2093304272121393531",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1882671462210998272/1744719573",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078823944208195584/ihFWiaXO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1083,
+          "following_count": 587,
+          "like_count": 4457,
+          "listed_count": 4,
+          "media_count": 886,
+          "tweet_count": 4491
+        },
+        "url": "https://t.co/2FBvyw19SA",
+        "username": "HosinoEJ",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

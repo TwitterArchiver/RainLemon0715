@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1791585754755350528",
+    "conversation_id": "2092844005918962119",
+    "created_at": "2026-08-28T10:47:29.000Z",
+    "display_text_range": [
+      10,
+      46
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-28T11:47:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093289361974431757"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1882671462210998272",
+          "start": 0,
+          "username": "HosinoEJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093289361974431757",
+    "in_reply_to_user_id": "1882671462210998272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093259392162681002",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HosinoEJ 倒闭了呀，然后我去淘宝来着\n捡了6块钱\n然后一块8毛钱买了100个晾衣架"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1791585754755350528",
+        "conversation_id": "2092844005918962119",
+        "created_at": "2026-08-28T10:47:29.000Z",
+        "display_text_range": [
+          10,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T11:47:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093289361974431757"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1882671462210998272",
+              "start": 0,
+              "username": "HosinoEJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093289361974431757",
+        "in_reply_to_user_id": "1882671462210998272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093259392162681002",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HosinoEJ 倒闭了呀，然后我去淘宝来着\n捡了6块钱\n然后一块8毛钱买了100个晾衣架"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882671462210998272",
+        "conversation_id": "2092844005918962119",
+        "created_at": "2026-08-28T08:48:24.000Z",
+        "display_text_range": [
+          15,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T09:48:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093259392162681002"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1791585754755350528",
+              "start": 0,
+              "username": "RainLemon0715"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093259392162681002",
+        "in_reply_to_user_id": "1791585754755350528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093241894151373184",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RainLemon0715 臥槽你怎麼去的"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-17T21:45:14.000Z",
+        "description": "07🍥🏳️‍⚧️｜持证含糖，hrt21.1.8｜究极家暴党｜双向+重抑|欢迎来找我贴贴｜现居山东｜不od不割手｜INFP｜想当个女孩子｜SRS资金筹备ing｜无政治立场｜努力rle中｜新名字:妤蓁｜最好的老婆@whalexxs，我的此生挚爱~|“我曾踏足山巅，也曾进入低谷，二者都使我受益良多”（现在是兼职糖果商人哦）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 113,
+                "start": 104,
+                "username": "whalexxs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+iN5huf7JvPkxY…",
+                "end": 23,
+                "expanded_url": "https://t.me/+iN5huf7JvPkxYWE9",
+                "start": 0,
+                "url": "https://t.co/GweBgmAiDG"
+              }
+            ]
+          }
+        },
+        "id": "1791585754755350528",
+        "is_identity_verified": false,
+        "location": "明天",
+        "most_recent_tweet_id": "2093289361974431757",
+        "name": "🍥雨檬&妤蓁🏳️‍⚧️🍬（出🍥🍬）",
+        "pinned_tweet_id": "2091212242054533556",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1791585754755350528/1743065018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089647554296451072/DRVdcLqf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4652,
+          "following_count": 310,
+          "like_count": 8142,
+          "listed_count": 6,
+          "media_count": 294,
+          "tweet_count": 2398
+        },
+        "url": "https://t.co/GweBgmAiDG",
+        "username": "RainLemon0715",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-24T06:07:32.000Z",
+        "description": "🏴‍☠️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hosinoneko.me",
+                "end": 23,
+                "expanded_url": "https://hosinoneko.me",
+                "start": 0,
+                "url": "https://t.co/2FBvyw19SA"
+              }
+            ]
+          }
+        },
+        "id": "1882671462210998272",
+        "is_identity_verified": false,
+        "location": "TaiPei",
+        "most_recent_tweet_id": "2093276595905790443",
+        "name": "HosinoNeko",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1882671462210998272/1744719573",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078823944208195584/ihFWiaXO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1083,
+          "following_count": 587,
+          "like_count": 4447,
+          "listed_count": 4,
+          "media_count": 884,
+          "tweet_count": 4485
+        },
+        "url": "https://t.co/2FBvyw19SA",
+        "username": "HosinoEJ",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

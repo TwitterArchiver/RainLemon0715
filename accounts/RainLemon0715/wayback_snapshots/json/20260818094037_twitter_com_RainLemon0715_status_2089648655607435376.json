@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2089648634216546304",
+        "3_2089648640910618624",
+        "3_2089648648456224768"
+      ]
+    },
+    "author_id": "1791585754755350528",
+    "conversation_id": "2089648655607435376",
+    "created_at": "2026-08-18T09:40:37.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T10:39:54.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2089648473734046094",
+      "2089648655607435376"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/iDP4wwQJSe",
+          "end": 164,
+          "expanded_url": "https://x.com/RainLemon0715/status/2089648655607435376/photo/1",
+          "media_key": "3_2089648634216546304",
+          "start": 141,
+          "url": "https://t.co/iDP4wwQJSe"
+        },
+        {
+          "display_url": "pic.x.com/iDP4wwQJSe",
+          "end": 164,
+          "expanded_url": "https://x.com/RainLemon0715/status/2089648655607435376/photo/1",
+          "media_key": "3_2089648640910618624",
+          "start": 141,
+          "url": "https://t.co/iDP4wwQJSe"
+        },
+        {
+          "display_url": "pic.x.com/iDP4wwQJSe",
+          "end": 164,
+          "expanded_url": "https://x.com/RainLemon0715/status/2089648655607435376/photo/1",
+          "media_key": "3_2089648648456224768",
+          "start": 141,
+          "url": "https://t.co/iDP4wwQJSe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089648655607435376",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2089648634216546304"
+      },
+      {
+        "media_key": "3_2089648640910618624"
+      },
+      {
+        "media_key": "3_2089648648456224768"
+      }
+    ],
+    "note_tweet": {
+      "entities": {},
+      "text": "简介～\n这里是雨檬&妤蓁，大家可以叫咱檬檬或者雨檬，梦雨是咱的第二人格，千万千万不要叫醒她！！！\n至于妤蓁是咱给未来的自己取的新名字~咱是一只生产日期07年的持证含糖xyn（hrt时间2021.1.8-2022.12.04/（扭转）/2023.7.15—今天）目前坐标山东\n不od不割手，是一只很大只的，很缺爱的女孩子，檬檬超级想获得这个世界的善意和认可…所以…不要欺负檬檬…会哭的🥺\n檬檬喜欢平时做一些小甜品之类的食物，可以和檬檬一起探讨一下的w\n呃呃呃...遗憾就是还是家暴党qwq\n不过不过！咱现在已经有了咱爱的人了~\n希望可以和老婆一直一直走下去！\n努力攒srs手术费ing，赞赏码也只是摆着，大家想给点就给点吧…可以和我聊一些平常的事情，如果聊黄，慢走不送！\n（另外另外...🍬可以加🐧🐧）\n总之，咱想和更多人一起分享生活，想和更多同类交朋友！ \np0是赞赏码p1是粉丝群喵p2嘛，懂得都懂🍬（被腾讯大手子制裁了，8月份之前暂时启用2.0）"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "简介～\n这里是雨檬&amp;妤蓁，大家可以叫咱檬檬或者雨檬，梦雨是咱的第二人格，千万千万不要叫醒她！！！\n至于妤蓁是咱给未来的自己取的新名字~咱是一只生产日期07年的持证含糖xyn（hrt时间2021.1.8-2022.12.04/（扭转）/2023.7.15—今天）目前坐标山东 https://t.co/iDP4wwQJSe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1382,
+        "media_key": "3_2089648634216546304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP_sXIPbgAA-08G.jpg",
+        "width": 1382
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2089648640910618624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP_sXhLa8AAFhJ-.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2089648648456224768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP_sX9SbwAAJvRW.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1791585754755350528",
+        "conversation_id": "2089648473734046094",
+        "created_at": "2026-08-18T09:39:54.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T10:39:54.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089648473734046094",
+          "2089648655607435376"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2089648473734046094",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "简介～\n这里是雨檬&妤蓁，大家可以叫咱檬檬或者雨檬，梦雨是咱的第二人格，千万千万不要叫醒她！！！\n至于妤蓁是咱给未来的自己取的新名字~咱是一只生产日期07年的持证含糖xyn（hrt时间2021.1.8-2022.12.04/（扭转）/2023.7.15—今天）目前坐标山东\n不od不割手，是一只很大只的，很缺爱的女孩子，檬檬超级想获得这个世界的善意和认可…所以…不要欺负檬檬…会哭的🥺\n檬檬喜欢平时做一些小甜品之类的食物，可以和檬檬一起探讨一下的w\n呃呃呃...遗憾就是还是家暴党qwq\n不过不过！咱现在已经有了咱爱的人了~\n希望可以和老婆一直一直走下去！\n努力攒srs手术费ing，赞赏码也只是摆着，大家想给点就给点吧…可以和我聊一些平常的事情，如果聊黄，慢走不送！\n（另外另外...🍬可以加🐧🐧）\n总之，咱想和更多人一起分享生活，想和更多同类交朋友！ \np0是赞赏码p1是粉丝群喵p2嘛，懂得都懂🍬（被腾讯大手子制裁了，8月份之前暂时启用2.0）"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "简介～\n这里是雨檬&amp;妤蓁，大家可以叫咱檬檬或者雨檬，梦雨是咱的第二人格，千万千万不要叫醒她！！！\n至于妤蓁是咱给未来的自己取的新名字~咱是一只生产日期07年的持证含糖xyn（hrt时间2021.1.8-2022.12.04/（扭转）/2023.7.15—今天）目前坐标山东"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089648634216546304",
+            "3_2089648640910618624",
+            "3_2089648648456224768"
+          ]
+        },
+        "author_id": "1791585754755350528",
+        "conversation_id": "2089648655607435376",
+        "created_at": "2026-08-18T09:40:37.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T10:39:54.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089648473734046094",
+          "2089648655607435376"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iDP4wwQJSe",
+              "end": 164,
+              "expanded_url": "https://x.com/RainLemon0715/status/2089648655607435376/photo/1",
+              "media_key": "3_2089648634216546304",
+              "start": 141,
+              "url": "https://t.co/iDP4wwQJSe"
+            },
+            {
+              "display_url": "pic.x.com/iDP4wwQJSe",
+              "end": 164,
+              "expanded_url": "https://x.com/RainLemon0715/status/2089648655607435376/photo/1",
+              "media_key": "3_2089648640910618624",
+              "start": 141,
+              "url": "https://t.co/iDP4wwQJSe"
+            },
+            {
+              "display_url": "pic.x.com/iDP4wwQJSe",
+              "end": 164,
+              "expanded_url": "https://x.com/RainLemon0715/status/2089648655607435376/photo/1",
+              "media_key": "3_2089648648456224768",
+              "start": 141,
+              "url": "https://t.co/iDP4wwQJSe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089648655607435376",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089648634216546304"
+          },
+          {
+            "media_key": "3_2089648640910618624"
+          },
+          {
+            "media_key": "3_2089648648456224768"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "简介～\n这里是雨檬&妤蓁，大家可以叫咱檬檬或者雨檬，梦雨是咱的第二人格，千万千万不要叫醒她！！！\n至于妤蓁是咱给未来的自己取的新名字~咱是一只生产日期07年的持证含糖xyn（hrt时间2021.1.8-2022.12.04/（扭转）/2023.7.15—今天）目前坐标山东\n不od不割手，是一只很大只的，很缺爱的女孩子，檬檬超级想获得这个世界的善意和认可…所以…不要欺负檬檬…会哭的🥺\n檬檬喜欢平时做一些小甜品之类的食物，可以和檬檬一起探讨一下的w\n呃呃呃...遗憾就是还是家暴党qwq\n不过不过！咱现在已经有了咱爱的人了~\n希望可以和老婆一直一直走下去！\n努力攒srs手术费ing，赞赏码也只是摆着，大家想给点就给点吧…可以和我聊一些平常的事情，如果聊黄，慢走不送！\n（另外另外...🍬可以加🐧🐧）\n总之，咱想和更多人一起分享生活，想和更多同类交朋友！ \np0是赞赏码p1是粉丝群喵p2嘛，懂得都懂🍬（被腾讯大手子制裁了，8月份之前暂时启用2.0）"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "简介～\n这里是雨檬&amp;妤蓁，大家可以叫咱檬檬或者雨檬，梦雨是咱的第二人格，千万千万不要叫醒她！！！\n至于妤蓁是咱给未来的自己取的新名字~咱是一只生产日期07年的持证含糖xyn（hrt时间2021.1.8-2022.12.04/（扭转）/2023.7.15—今天）目前坐标山东 https://t.co/iDP4wwQJSe"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-17T21:45:14.000Z",
+        "description": "07🍥🏳️‍⚧️｜持证含糖，hrt21.1.8｜究极家暴党｜双向+重抑|欢迎来找我贴贴｜现居山东｜不od不割手｜INFP｜想当个女孩子｜SRS资金筹备ing｜无政治立场｜努力rle中｜最好的老婆@whalexxs，我的此生挚爱~|“我曾踏足山巅，也曾进入低谷，二者都使我受益良多”（现在是兼职糖果商人哦）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 97,
+                "username": "whalexxs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+iN5huf7JvPkxY…",
+                "end": 23,
+                "expanded_url": "https://t.me/+iN5huf7JvPkxYWE9",
+                "start": 0,
+                "url": "https://t.co/GweBgmAiDG"
+              }
+            ]
+          }
+        },
+        "id": "1791585754755350528",
+        "is_identity_verified": false,
+        "location": "明天",
+        "most_recent_tweet_id": "2089648655607435376",
+        "name": "🍥雨檬&妤蓁🏳️‍⚧️🍬（出🍥🍬）",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1791585754755350528/1743065018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089647554296451072/DRVdcLqf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4641,
+          "following_count": 306,
+          "like_count": 8138,
+          "listed_count": 6,
+          "media_count": 289,
+          "tweet_count": 2386
+        },
+        "url": "https://t.co/GweBgmAiDG",
+        "username": "RainLemon0715",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

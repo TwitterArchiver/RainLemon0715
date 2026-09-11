@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1791585754755350528",
+    "conversation_id": "2095754952400597407",
+    "created_at": "2026-09-04T14:49:51.000Z",
+    "display_text_range": [
+      12,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T15:49:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095887066760667200"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1697725634133561344",
+          "start": 0,
+          "username": "HeXiaoQi77"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095887066760667200",
+    "in_reply_to_user_id": "1697725634133561344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095754952400597407",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HeXiaoQi77 这就是傀儡术嘛?"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1791585754755350528",
+        "conversation_id": "2095754952400597407",
+        "created_at": "2026-09-04T14:49:51.000Z",
+        "display_text_range": [
+          12,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T15:49:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095887066760667200"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1697725634133561344",
+              "start": 0,
+              "username": "HeXiaoQi77"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095887066760667200",
+        "in_reply_to_user_id": "1697725634133561344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095754952400597407",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HeXiaoQi77 这就是傀儡术嘛?"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1697725634133561344",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2095754952400597407",
+        "created_at": "2026-09-04T06:04:52.000Z",
+        "display_text_range": [
+          0,
+          62
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T07:04:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095754952400597407"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hexiaoqi77/sta…",
+              "end": 86,
+              "expanded_url": "https://twitter.com/hexiaoqi77/status/1982651847216349535",
+              "start": 63,
+              "url": "https://t.co/iDSkVR7HBy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095754952400597407",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 9917,
+          "like_count": 102,
+          "quote_count": 2,
+          "reply_count": 19,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982651847216349535",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "确实是，民政和户政的系统不互通，在民政系统里两个“我”都独立存在，且“我”和“我”育有一子。而同时“我”又可以和“我”结婚。 https://t.co/iDSkVR7HBy"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-17T21:45:14.000Z",
+        "description": "07🍥🏳️‍⚧️｜持证含糖，hrt21.1.8｜究极家暴党｜双向+重抑|欢迎来找我贴贴｜现居山东｜不od不割手｜INFP｜想当个女孩子｜SRS资金筹备ing｜无政治立场｜努力rle中｜新名字:妤蓁｜最好的老婆@whalexxs，我的此生挚爱~|“我曾踏足山巅，也曾进入低谷，二者都使我受益良多”（现在是兼职糖果商人哦）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 113,
+                "start": 104,
+                "username": "whalexxs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+iN5huf7JvPkxY…",
+                "end": 23,
+                "expanded_url": "https://t.me/+iN5huf7JvPkxYWE9",
+                "start": 0,
+                "url": "https://t.co/GweBgmAiDG"
+              }
+            ]
+          }
+        },
+        "id": "1791585754755350528",
+        "is_identity_verified": false,
+        "location": "明天",
+        "most_recent_tweet_id": "2095887066760667200",
+        "name": "🍥雨檬&妤蓁🏳️‍⚧️🍬（出🍥🍬）",
+        "pinned_tweet_id": "2091212242054533556",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1791585754755350528/1743065018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089647554296451072/DRVdcLqf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4636,
+          "following_count": 310,
+          "like_count": 8148,
+          "listed_count": 6,
+          "media_count": 298,
+          "tweet_count": 2407
+        },
+        "url": "https://t.co/GweBgmAiDG",
+        "username": "RainLemon0715",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-09-01T21:38:41.000Z",
+        "description": "已跨术女，离异带娃。日常不线下不推广，随机回fo。自用梯子https://t.co/lyPq1p3Yqp。蓝标来互fo，手术和心理咨询请私信。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "login.doumao.quest/#/register?cod…",
+                "end": 52,
+                "expanded_url": "https://login.doumao.quest/#/register?code=bo5Qmt30",
+                "start": 29,
+                "url": "https://t.co/lyPq1p3Yqp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/HeXiaoQi77",
+                "end": 23,
+                "expanded_url": "https://t.me/HeXiaoQi77",
+                "start": 0,
+                "url": "https://t.co/r3aQCrjBuj"
+              }
+            ]
+          }
+        },
+        "id": "1697725634133561344",
+        "is_identity_verified": false,
+        "location": "WIH International Hospital",
+        "most_recent_tweet_id": "2095768456088199298",
+        "name": "柒_Rain☕️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1697725634133561344/1693604599",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862795292178829312/I6s-XESc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14575,
+          "following_count": 460,
+          "like_count": 16839,
+          "listed_count": 55,
+          "media_count": 186,
+          "tweet_count": 13969
+        },
+        "url": "https://t.co/r3aQCrjBuj",
+        "username": "HeXiaoQi77",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

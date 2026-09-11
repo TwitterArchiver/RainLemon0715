@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2092964296250777600",
+        "3_2092964303095885824"
+      ]
+    },
+    "author_id": "1791585754755350528",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2092964308808589610",
+    "created_at": "2026-08-27T13:15:51.000Z",
+    "display_text_range": [
+      0,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T14:15:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2092964308808589610"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 13,
+          "start": 7,
+          "tag": "澎湃OS4"
+        },
+        {
+          "end": 17,
+          "start": 14,
+          "tag": "雷军"
+        },
+        {
+          "end": 21,
+          "start": 18,
+          "tag": "金凡"
+        },
+        {
+          "end": 25,
+          "start": 22,
+          "tag": "小米"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/24ysnXmNQ1",
+          "end": 49,
+          "expanded_url": "https://x.com/RainLemon0715/status/2092964308808589610/photo/1",
+          "media_key": "3_2092964296250777600",
+          "start": 26,
+          "url": "https://t.co/24ysnXmNQ1"
+        },
+        {
+          "display_url": "pic.x.com/24ysnXmNQ1",
+          "end": 49,
+          "expanded_url": "https://x.com/RainLemon0715/status/2092964308808589610/photo/1",
+          "media_key": "3_2092964303095885824",
+          "start": 26,
+          "url": "https://t.co/24ysnXmNQ1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092964308808589610",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2092964296250777600"
+      },
+      {
+        "media_key": "3_2092964303095885824"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这次我会赢吗\n#澎湃OS4\n#雷军\n#金凡\n#小米 https://t.co/24ysnXmNQ1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1342,
+        "media_key": "3_2092964296250777600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQuz8D2aYAA-kLu.jpg",
+        "width": 1008
+      },
+      {
+        "height": 2756,
+        "media_key": "3_2092964303095885824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQuz8dWacAALuY_.jpg",
+        "width": 1268
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092964296250777600",
+            "3_2092964303095885824"
+          ]
+        },
+        "author_id": "1791585754755350528",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2092964308808589610",
+        "created_at": "2026-08-27T13:15:51.000Z",
+        "display_text_range": [
+          0,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T14:15:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092964308808589610"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 13,
+              "start": 7,
+              "tag": "澎湃OS4"
+            },
+            {
+              "end": 17,
+              "start": 14,
+              "tag": "雷军"
+            },
+            {
+              "end": 21,
+              "start": 18,
+              "tag": "金凡"
+            },
+            {
+              "end": 25,
+              "start": 22,
+              "tag": "小米"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/24ysnXmNQ1",
+              "end": 49,
+              "expanded_url": "https://x.com/RainLemon0715/status/2092964308808589610/photo/1",
+              "media_key": "3_2092964296250777600",
+              "start": 26,
+              "url": "https://t.co/24ysnXmNQ1"
+            },
+            {
+              "display_url": "pic.x.com/24ysnXmNQ1",
+              "end": 49,
+              "expanded_url": "https://x.com/RainLemon0715/status/2092964308808589610/photo/1",
+              "media_key": "3_2092964303095885824",
+              "start": 26,
+              "url": "https://t.co/24ysnXmNQ1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092964308808589610",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092964296250777600"
+          },
+          {
+            "media_key": "3_2092964303095885824"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这次我会赢吗\n#澎湃OS4\n#雷军\n#金凡\n#小米 https://t.co/24ysnXmNQ1"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-17T21:45:14.000Z",
+        "description": "07🍥🏳️‍⚧️｜持证含糖，hrt21.1.8｜究极家暴党｜双向+重抑|欢迎来找我贴贴｜现居山东｜不od不割手｜INFP｜想当个女孩子｜SRS资金筹备ing｜无政治立场｜努力rle中｜新名字:妤蓁｜最好的老婆@whalexxs，我的此生挚爱~|“我曾踏足山巅，也曾进入低谷，二者都使我受益良多”（现在是兼职糖果商人哦）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 113,
+                "start": 104,
+                "username": "whalexxs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+iN5huf7JvPkxY…",
+                "end": 23,
+                "expanded_url": "https://t.me/+iN5huf7JvPkxYWE9",
+                "start": 0,
+                "url": "https://t.co/GweBgmAiDG"
+              }
+            ]
+          }
+        },
+        "id": "1791585754755350528",
+        "is_identity_verified": false,
+        "location": "明天",
+        "most_recent_tweet_id": "2092964308808589610",
+        "name": "🍥雨檬&妤蓁🏳️‍⚧️🍬（出🍥🍬）",
+        "pinned_tweet_id": "2091212242054533556",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1791585754755350528/1743065018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089647554296451072/DRVdcLqf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4650,
+          "following_count": 310,
+          "like_count": 8144,
+          "listed_count": 6,
+          "media_count": 294,
+          "tweet_count": 2395
+        },
+        "url": "https://t.co/GweBgmAiDG",
+        "username": "RainLemon0715",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
