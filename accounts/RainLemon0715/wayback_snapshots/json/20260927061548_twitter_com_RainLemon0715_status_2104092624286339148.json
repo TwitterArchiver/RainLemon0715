@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1791585754755350528",
+    "conversation_id": "2104092624286339148",
+    "created_at": "2026-09-27T06:15:48.000Z",
+    "display_text_range": [
+      0,
+      74
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T07:15:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2104092624286339148"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Aequoia1/statu…",
+          "end": 98,
+          "expanded_url": "https://twitter.com/Aequoia1/status/2103730346634490297",
+          "start": 75,
+          "url": "https://t.co/Lko83EiDsw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104092624286339148",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103730346634490297",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我没法说\n因为第一次炸柜后，就被送扭转了\n。。。。。。\n近来好像就是天天都在说，你留个头发娘们唧唧的，你要么当男的，要么去亖\n我们没有这样的人妖孩子 https://t.co/Lko83EiDsw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 659,
+        "media_key": "3_2103730337113427968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTHzmHbb0AA0QsH.jpg",
+        "width": 1105
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1791585754755350528",
+        "conversation_id": "2104092624286339148",
+        "created_at": "2026-09-27T06:15:48.000Z",
+        "display_text_range": [
+          0,
+          74
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T07:15:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104092624286339148"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Aequoia1/statu…",
+              "end": 98,
+              "expanded_url": "https://twitter.com/Aequoia1/status/2103730346634490297",
+              "start": 75,
+              "url": "https://t.co/Lko83EiDsw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104092624286339148",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103730346634490297",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我没法说\n因为第一次炸柜后，就被送扭转了\n。。。。。。\n近来好像就是天天都在说，你留个头发娘们唧唧的，你要么当男的，要么去亖\n我们没有这样的人妖孩子 https://t.co/Lko83EiDsw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103730337113427968"
+          ]
+        },
+        "author_id": "1459356998097850370",
+        "conversation_id": "2103730346634490297",
+        "created_at": "2026-09-26T06:16:14.000Z",
+        "display_text_range": [
+          0,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T07:16:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103730346634490297"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/F2KWpLp45U",
+              "end": 48,
+              "expanded_url": "https://x.com/Aequoia1/status/2103730346634490297/photo/1",
+              "media_key": "3_2103730337113427968",
+              "start": 25,
+              "url": "https://t.co/F2KWpLp45U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103730346634490297",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2103730337113427968"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 68,
+          "impression_count": 63458,
+          "like_count": 1172,
+          "quote_count": 7,
+          "reply_count": 13,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "超酷的好吧，谁不想十岁的时候变得超级无敌阳刚硬汉 https://t.co/F2KWpLp45U"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-17T21:45:14.000Z",
+        "description": "07🍥🏳️‍⚧️｜持证含糖，hrt21.1.8｜究极家暴党｜双向+重抑|欢迎来找我贴贴｜现居山东｜不od不割手｜INFP｜想当个女孩子｜SRS资金筹备ing｜无政治立场｜努力rle中｜新名字:妤蓁｜最好的老婆@whalexxs，我的此生挚爱~|“我曾踏足山巅，也曾进入低谷，二者都使我受益良多”（现在是兼职糖果商人哦）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 113,
+                "start": 104,
+                "username": "whalexxs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+iN5huf7JvPkxY…",
+                "end": 23,
+                "expanded_url": "https://t.me/+iN5huf7JvPkxYWE9",
+                "start": 0,
+                "url": "https://t.co/GweBgmAiDG"
+              }
+            ]
+          }
+        },
+        "id": "1791585754755350528",
+        "is_identity_verified": false,
+        "location": "明天",
+        "most_recent_tweet_id": "2104092624286339148",
+        "name": "🍥雨檬&妤蓁🏳️‍⚧️🍬（🍥🍬shop）",
+        "pinned_tweet_id": "2091212242054533556",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1791585754755350528/1743065018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101177955896680448/iv3Yo7O6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4739,
+          "following_count": 311,
+          "like_count": 8317,
+          "listed_count": 5,
+          "media_count": 322,
+          "tweet_count": 2484
+        },
+        "url": "https://t.co/GweBgmAiDG",
+        "username": "RainLemon0715",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-11-13T03:06:53.000Z",
+        "description": "If you’ve chosen life, then choose to live.",
+        "id": "1459356998097850370",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104023803655557621",
+        "name": "Ich1noseyukI🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1459356998097850370/1787154007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1637329154960916480/-ulZkX_O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 472,
+          "following_count": 559,
+          "like_count": 6752,
+          "listed_count": 2,
+          "media_count": 65,
+          "tweet_count": 1347
+        },
+        "url": "",
+        "username": "Aequoia1",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

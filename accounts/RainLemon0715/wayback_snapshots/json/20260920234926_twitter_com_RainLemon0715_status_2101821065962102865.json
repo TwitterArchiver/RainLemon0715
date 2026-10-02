@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1791585754755350528",
+    "conversation_id": "2101642127176593691",
+    "created_at": "2026-09-20T23:49:26.000Z",
+    "display_text_range": [
+      14,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-21T00:49:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101821065962102865"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 20,
+          "start": 14,
+          "tag": "跨性别采访"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1944674675227054081",
+          "start": 0,
+          "username": "chengqing198"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101821065962102865",
+    "in_reply_to_user_id": "1944674675227054081",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101642127176593691",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chengqing198 #跨性别采访"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1844,
+        "media_key": "3_2101642117340864512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSqIXukaIAAoYTu.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1791585754755350528",
+        "conversation_id": "2101642127176593691",
+        "created_at": "2026-09-20T23:49:26.000Z",
+        "display_text_range": [
+          14,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T00:49:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101821065962102865"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 14,
+              "tag": "跨性别采访"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1944674675227054081",
+              "start": 0,
+              "username": "chengqing198"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101821065962102865",
+        "in_reply_to_user_id": "1944674675227054081",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101642127176593691",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chengqing198 #跨性别采访"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101642117340864512"
+          ]
+        },
+        "author_id": "1944674675227054081",
+        "conversation_id": "2101642127176593691",
+        "created_at": "2026-09-20T11:58:24.000Z",
+        "display_text_range": [
+          0,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T12:58:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101642127176593691"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 33,
+              "start": 29,
+              "tag": "mtf"
+            },
+            {
+              "end": 38,
+              "start": 34,
+              "tag": "变性人"
+            },
+            {
+              "end": 43,
+              "start": 39,
+              "tag": "跨性别"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WK9rpaMEmd",
+              "end": 67,
+              "expanded_url": "https://x.com/chengqing198/status/2101642127176593691/photo/1",
+              "media_key": "3_2101642117340864512",
+              "start": 44,
+              "url": "https://t.co/WK9rpaMEmd"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "07fefc42d1da90c0"
+        },
+        "id": "2101642127176593691",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2101642117340864512"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1343,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我在qq群里发这张图，结果因为传播不良信息被封了三天。。。#mtf #变性人 #跨性别 https://t.co/WK9rpaMEmd"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-17T21:45:14.000Z",
+        "description": "07🍥🏳️‍⚧️｜持证含糖，hrt21.1.8｜究极家暴党｜双向+重抑|欢迎来找我贴贴｜现居山东｜不od不割手｜INFP｜想当个女孩子｜SRS资金筹备ing｜无政治立场｜努力rle中｜新名字:妤蓁｜最好的老婆@whalexxs，我的此生挚爱~|“我曾踏足山巅，也曾进入低谷，二者都使我受益良多”（现在是兼职糖果商人哦）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 113,
+                "start": 104,
+                "username": "whalexxs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+iN5huf7JvPkxY…",
+                "end": 23,
+                "expanded_url": "https://t.me/+iN5huf7JvPkxYWE9",
+                "start": 0,
+                "url": "https://t.co/GweBgmAiDG"
+              }
+            ]
+          }
+        },
+        "id": "1791585754755350528",
+        "is_identity_verified": false,
+        "location": "明天",
+        "most_recent_tweet_id": "2101821065962102865",
+        "name": "🍥雨檬&妤蓁🏳️‍⚧️🍬（🍥🍬shop）",
+        "pinned_tweet_id": "2091212242054533556",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1791585754755350528/1743065018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101177955896680448/iv3Yo7O6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4709,
+          "following_count": 310,
+          "like_count": 8206,
+          "listed_count": 6,
+          "media_count": 313,
+          "tweet_count": 2443
+        },
+        "url": "https://t.co/GweBgmAiDG",
+        "username": "RainLemon0715",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-14T08:26:02.000Z",
+        "description": "术后mtf已改证，生态学读博中，爱昆虫爱摄影，＋v🚪zfb口令IZB",
+        "id": "1944674675227054081",
+        "is_identity_verified": false,
+        "location": "Lao People's Democratic Republ",
+        "most_recent_tweet_id": "2101642644866916352",
+        "name": "🍥酸奶大福🍥",
+        "pinned_tweet_id": "2017963789057237413",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1944674675227054081/1784004554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013281816107458560/U2_eBVQM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9792,
+          "following_count": 56,
+          "like_count": 13,
+          "listed_count": 47,
+          "media_count": 216,
+          "tweet_count": 439
+        },
+        "url": "",
+        "username": "chengqing198",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

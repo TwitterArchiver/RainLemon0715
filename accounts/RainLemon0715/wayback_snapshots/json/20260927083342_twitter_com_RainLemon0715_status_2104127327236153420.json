@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1791585754755350528",
+    "conversation_id": "2103725625085440009",
+    "created_at": "2026-09-27T08:33:42.000Z",
+    "display_text_range": [
+      12,
+      28
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T09:33:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104127327236153420"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2947155332",
+          "start": 0,
+          "username": "KJtakanami"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104127327236153420",
+    "in_reply_to_user_id": "2947155332",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103725625085440009",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KJtakanami 來自中原一群夥伴~\n結廬東南山~"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3508,
+        "media_key": "3_2103725527966347264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTHvOL9a8AA3FqY.jpg",
+        "width": 2395
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1791585754755350528",
+        "conversation_id": "2103725625085440009",
+        "created_at": "2026-09-27T08:33:42.000Z",
+        "display_text_range": [
+          12,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T09:33:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104127327236153420"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2947155332",
+              "start": 0,
+              "username": "KJtakanami"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104127327236153420",
+        "in_reply_to_user_id": "2947155332",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103725625085440009",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KJtakanami 來自中原一群夥伴~\n結廬東南山~"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103725527966347264"
+          ]
+        },
+        "author_id": "2947155332",
+        "conversation_id": "2103725625085440009",
+        "created_at": "2026-09-26T05:57:29.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T06:57:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103725625085440009"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HcFCxdvEcW",
+              "end": 29,
+              "expanded_url": "https://x.com/KJtakanami/status/2103725625085440009/photo/1",
+              "media_key": "3_2103725527966347264",
+              "start": 6,
+              "url": "https://t.co/HcFCxdvEcW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103725625085440009",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2103725527966347264"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2023,
+          "impression_count": 4260967,
+          "like_count": 36809,
+          "quote_count": 1235,
+          "reply_count": 942,
+          "retweet_count": 6348
+        },
+        "reply_settings": "everyone",
+        "text": "これはなに https://t.co/HcFCxdvEcW"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-17T21:45:14.000Z",
+        "description": "07🍥🏳️‍⚧️｜持证含糖，hrt21.1.8｜究极家暴党｜双向+重抑|欢迎来找我贴贴｜现居山东｜不od不割手｜INFP｜想当个女孩子｜SRS资金筹备ing｜无政治立场｜努力rle中｜新名字:妤蓁｜最好的老婆@whalexxs，我的此生挚爱~|“我曾踏足山巅，也曾进入低谷，二者都使我受益良多”（现在是兼职糖果商人哦）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 113,
+                "start": 104,
+                "username": "whalexxs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+iN5huf7JvPkxY…",
+                "end": 23,
+                "expanded_url": "https://t.me/+iN5huf7JvPkxYWE9",
+                "start": 0,
+                "url": "https://t.co/GweBgmAiDG"
+              }
+            ]
+          }
+        },
+        "id": "1791585754755350528",
+        "is_identity_verified": false,
+        "location": "明天",
+        "most_recent_tweet_id": "2104127327236153420",
+        "name": "🍥雨檬&妤蓁🏳️‍⚧️🍬（🍥🍬shop）",
+        "pinned_tweet_id": "2091212242054533556",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1791585754755350528/1743065018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101177955896680448/iv3Yo7O6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4743,
+          "following_count": 312,
+          "like_count": 8322,
+          "listed_count": 5,
+          "media_count": 323,
+          "tweet_count": 2488
+        },
+        "url": "https://t.co/GweBgmAiDG",
+        "username": "RainLemon0715",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2014-12-29T00:22:23.000Z",
+        "description": "26LINE🚺楽天ファンじゃないです斗山ファンです/KBO/独立リーグ/JABA/ドラフト/地方球場/応援歌/写真/最近は頻繁に海外逃亡🇰🇷🇹🇼🇨🇳/やきう民の皆さんは雑にフォロー入れるのでフォロバしてね💕",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/kjtknm/",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/kjtknm/",
+                "start": 0,
+                "url": "https://t.co/bJfSFYjLut"
+              }
+            ]
+          }
+        },
+        "id": "2947155332",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104124513189511191",
+        "name": "ナーグリス (野球垢)",
+        "pinned_tweet_id": "2101283011404972327",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2947155332/1664891315",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1577294613249163264/_8QiKX_B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1996,
+          "following_count": 1525,
+          "like_count": 41272,
+          "listed_count": 23,
+          "media_count": 12191,
+          "tweet_count": 220023
+        },
+        "url": "https://t.co/bJfSFYjLut",
+        "username": "KJtakanami",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

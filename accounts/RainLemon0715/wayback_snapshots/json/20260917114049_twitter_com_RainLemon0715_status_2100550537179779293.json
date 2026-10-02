@@ -1,0 +1,368 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2100535746214154240"
+      ],
+      "media_source_tweet_id": [
+        "2100535762899062949"
+      ]
+    },
+    "author_id": "1791585754755350528",
+    "conversation_id": "2100550537179779293",
+    "created_at": "2026-09-17T11:40:49.000Z",
+    "display_text_range": [
+      0,
+      118
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T12:40:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100550537179779293"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 76,
+          "start": 72,
+          "tag": "mtf"
+        },
+        {
+          "end": 80,
+          "start": 77,
+          "tag": "药娘"
+        },
+        {
+          "end": 87,
+          "start": 81,
+          "tag": "药娘的天空"
+        },
+        {
+          "end": 94,
+          "start": 88,
+          "tag": "Trans"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1944674675227054081",
+          "start": 3,
+          "username": "chengqing198"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Px2vEFWDSR",
+          "end": 118,
+          "expanded_url": "https://x.com/chengqing198/status/2100535762899062949/photo/1",
+          "media_key": "3_2100535746214154240",
+          "start": 95,
+          "url": "https://t.co/Px2vEFWDSR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100550537179779293",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2100535746214154240"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100535762899062949",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chengqing198: 此作品名为：《药娘的天空》，取自同名小说。\n愿每个女孩都能冲破那些黑白色的沉重枷锁，飞向那自由的蓝粉色天空。#mtf #药娘 #药娘的天空 #Trans https://t.co/Px2vEFWDSR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2100535746214154240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSaaIc8a0AAyI4f.jpg",
+        "width": 2730
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100535746214154240"
+          ],
+          "media_source_tweet_id": [
+            "2100535762899062949"
+          ]
+        },
+        "author_id": "1791585754755350528",
+        "conversation_id": "2100550537179779293",
+        "created_at": "2026-09-17T11:40:49.000Z",
+        "display_text_range": [
+          0,
+          118
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T12:40:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100550537179779293"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 76,
+              "start": 72,
+              "tag": "mtf"
+            },
+            {
+              "end": 80,
+              "start": 77,
+              "tag": "药娘"
+            },
+            {
+              "end": 87,
+              "start": 81,
+              "tag": "药娘的天空"
+            },
+            {
+              "end": 94,
+              "start": 88,
+              "tag": "Trans"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1944674675227054081",
+              "start": 3,
+              "username": "chengqing198"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Px2vEFWDSR",
+              "end": 118,
+              "expanded_url": "https://x.com/chengqing198/status/2100535762899062949/photo/1",
+              "media_key": "3_2100535746214154240",
+              "start": 95,
+              "url": "https://t.co/Px2vEFWDSR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100550537179779293",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100535746214154240"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100535762899062949",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @chengqing198: 此作品名为：《药娘的天空》，取自同名小说。\n愿每个女孩都能冲破那些黑白色的沉重枷锁，飞向那自由的蓝粉色天空。#mtf #药娘 #药娘的天空 #Trans https://t.co/Px2vEFWDSR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100535746214154240"
+          ]
+        },
+        "author_id": "1944674675227054081",
+        "conversation_id": "2100535762899062949",
+        "created_at": "2026-09-17T10:42:06.000Z",
+        "display_text_range": [
+          0,
+          76
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T11:42:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100535762899062949"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 58,
+              "start": 54,
+              "tag": "mtf"
+            },
+            {
+              "end": 62,
+              "start": 59,
+              "tag": "药娘"
+            },
+            {
+              "end": 69,
+              "start": 63,
+              "tag": "药娘的天空"
+            },
+            {
+              "end": 76,
+              "start": 70,
+              "tag": "Trans"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Px2vEFWDSR",
+              "end": 100,
+              "expanded_url": "https://x.com/chengqing198/status/2100535762899062949/photo/1",
+              "media_key": "3_2100535746214154240",
+              "start": 77,
+              "url": "https://t.co/Px2vEFWDSR"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "07fefc42d1da90c0"
+        },
+        "id": "2100535762899062949",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100535746214154240"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 129,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "此作品名为：《药娘的天空》，取自同名小说。\n愿每个女孩都能冲破那些黑白色的沉重枷锁，飞向那自由的蓝粉色天空。#mtf #药娘 #药娘的天空 #Trans https://t.co/Px2vEFWDSR"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-17T21:45:14.000Z",
+        "description": "07🍥🏳️‍⚧️｜持证含糖，hrt21.1.8｜究极家暴党｜双向+重抑|欢迎来找我贴贴｜现居山东｜不od不割手｜INFP｜想当个女孩子｜SRS资金筹备ing｜无政治立场｜努力rle中｜新名字:妤蓁｜最好的老婆@whalexxs，我的此生挚爱~|“我曾踏足山巅，也曾进入低谷，二者都使我受益良多”（现在是兼职糖果商人哦）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 113,
+                "start": 104,
+                "username": "whalexxs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+iN5huf7JvPkxY…",
+                "end": 23,
+                "expanded_url": "https://t.me/+iN5huf7JvPkxYWE9",
+                "start": 0,
+                "url": "https://t.co/GweBgmAiDG"
+              }
+            ]
+          }
+        },
+        "id": "1791585754755350528",
+        "is_identity_verified": false,
+        "location": "明天",
+        "most_recent_tweet_id": "2100550537179779293",
+        "name": "🍥雨檬&妤蓁🏳️‍⚧️🍬（出🍥🍬）",
+        "pinned_tweet_id": "2091212242054533556",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1791585754755350528/1743065018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089647554296451072/DRVdcLqf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4641,
+          "following_count": 308,
+          "like_count": 8184,
+          "listed_count": 6,
+          "media_count": 308,
+          "tweet_count": 2425
+        },
+        "url": "https://t.co/GweBgmAiDG",
+        "username": "RainLemon0715",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-14T08:26:02.000Z",
+        "description": "术后mtf已改证，生态学读博中，爱昆虫爱摄影，＋v🚪zfb口令IZB",
+        "id": "1944674675227054081",
+        "is_identity_verified": false,
+        "location": "Lao People's Democratic Republ",
+        "most_recent_tweet_id": "2100535762899062949",
+        "name": "🍥酸奶大福🍥",
+        "pinned_tweet_id": "2017963789057237413",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1944674675227054081/1784004554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013281816107458560/U2_eBVQM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9749,
+          "following_count": 56,
+          "like_count": 13,
+          "listed_count": 46,
+          "media_count": 212,
+          "tweet_count": 432
+        },
+        "url": "",
+        "username": "chengqing198",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
